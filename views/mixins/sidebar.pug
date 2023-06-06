@@ -1,0 +1,36 @@
+//- Template page for the sidebar formatting
+//- Developed By: Constant Marks and Michael Nutt
+//- Last Modified: 11/25/2019
+
+mixin sidebar(keys)
+    //- style
+    //-     include ../../public/stylesheets/stylesheet.css
+    div(id="sidebar" class="sidebar")
+        a(href="javascript:void(0)" class="closebtn" onclick="closeNav()") x
+        form(action='/article/search' method='POST' class='form-inline')
+            div(class="form-group" style="max-width:75%; margin-right:auto; margin-left:auto;")
+                label(for="search" style="color:white;font-size:16px;") Search
+                input(style="color:white;}" type="search" class="form-control" name="search" )
+            div(class="form-group")
+                input(type="submit" style="display:none")
+        p 
+        p Keywords
+        each key in keys
+            - var key_url = "/article/keywords/" + key._id
+            a(href=key_url style="font-size:16px;")= key._id
+        else
+            p No Keywords
+
+    div(id="main")
+        button(id="btn" class="openbtn" onclick="openNav()") &#9776;
+
+    script. 
+        function openNav() {
+            document.getElementById("sidebar").style.width = "250px";
+            document.getElementById("main").style.marginLeft = "250px";
+        }
+
+        function closeNav() {
+            document.getElementById("sidebar").style.width = "0";
+            document.getElementById("main").style.marginLeft = "0";
+        }

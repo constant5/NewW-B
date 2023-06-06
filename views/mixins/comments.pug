@@ -1,0 +1,10 @@
+//- Template page for organizing all comments on a page
+//- Developed By: Constant Marks and Michael Nutt
+//- Last Modified: 11/25/2019
+
+include comment_card
+
+mixin comments(comments, users)
+    each comment in comments
+        - var user = users[comment.u_id.toString()];
+        +comment_card(comment, user)

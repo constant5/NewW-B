@@ -1,0 +1,46 @@
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/oneAPI-heroes-800x348.png" alt="Intel's &quot;Mega Trends in HPC&quot; boil down to AI workloads, running on many kinds of hardware, largely in cloud—not on-premise—environments."/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/oneAPI-heroes.png" class="enlarge-link" data-height="413" data-width="950">Enlarge</a> <span class="sep">/</span> Intel's &quot;Mega Trends in HPC&quot; boil down to AI workloads, running on many kinds of hardware, largely in cloud—not on-premise—environments. (credit: Intel Corporation)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>Saturday afternoon (Nov. 16) at Supercomputing 2019, Intel launched a new programming model called oneAPI. Intel describes the necessity of tightly coupling middleware and frameworks directly to specific hardware as one of the largest pain points of AI/Machine Learning development. The oneAPI model is intended to abstract that tight coupling away, allowing developers to focus on their actual project and re-use the same code when the underlying hardware changes.</p>
+<p>This sort of "write once, run anywhere" mantra is reminiscent of Sun's early pitches for the Java language. However, Bill Savage, general manager of compute performance for Intel, told Ars that's not an accurate characterization. Although each approach addresses the same basic problem—tight coupling to machine hardware making developers' lives more difficult and getting in the way of code re-use—the approaches are very different.</p>
+      <ul class="gallery shortcode-gallery gallery-wide">
+          <li>
+        <div class="gallery-item-content">  
+        <div class="gallery-image"><img src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/oneAPI-slide1.png" alt=""></div>
+        <p>
+          In this simplified block diagram of AI/ML development, Intel wants to isolate "Languages &amp; Libraries" as the biggest pain point.                      [credit:
+                        Intel Corporation                        ]
+                  </p>
+        </div>
+      </li>
+      </ul>
+  
+
+<p>When a developer writes Java code, the source is compiled to bytecode, and a Java Virtual Machine tailored to the local hardware executes that bytecode. Although many optimizations have improved Java's performance in the 20+ years since it was introduced, it's still significantly slower than C++ code in most applications—typically, anywhere from half to one-tenth as fast. By contrast, oneAPI is intended to produce direct object code with no or negligible performance penalties.</p>
+<p>When we questioned Savage about oneAPI's design and performance expectations, he distanced it firmly from Java, pointing out that there is no bytecode involved. Instead, oneAPI is a set of libraries that tie hardware-agnostic API calls directly to heavily optimized, low-level code that drives the actual hardware available in the local environment. So instead of "Java for Artificial Intelligence," the high-level takeaway is more along the lines of "OpenGL/DirectX for Artificial Intelligence."</p>
+<p>For even higher-performance coding inside tight loops, oneAPI also introduces a new language variant called "Data Parallel C++" allowing even very low-level optimized code to target multiple architectures. Data Parallel C++ leverages and extends <a href="https://www.khronos.org/sycl/">SYCL</a>, a "single source" abstraction layer for OpenCL programming.</p>
+<p>In its current version, a oneAPI developer still needs to target the basic hardware type he or she is coding for—for example, CPUs, GPUs, or FPGAs. Beyond that basic targeting, oneAPI keeps the code optimized for any supported hardware variant. This would, for example, allow users of a oneAPI-developed project to run the same code on either Nvidia's Tesla v100 or Intel's own newly released <a href="https://www.tomshardware.com/news/intel-xe-ponte-vecchio-7nm-graphics-gpu">Ponte Vecchio</a> GPU.</p>
+      <ul class="gallery shortcode-gallery gallery-wide">
+          <li>
+        <div class="gallery-item-content">  
+        <div class="gallery-image"><img src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/xe-architecture-slide.png" alt=""></div>
+        <p>
+          Intel's 7nm Xe architecture is intended to cover the entire range of GPU applications, but Ponte Vecchio—the first Xe product—specifically targets high-end deep learning and training in datacenter and supercomputing environments.                      [credit:
+                        Intel Corporation                        ]
+                  </p>
+        </div>
+      </li>
+      </ul>
+  
+
+<p>Ponte Vecchio is the first actual product in Intel's new Xe GPU line and is targeted specifically at HPC supercomputing and data center use. Although neither Savage nor other Intel execs Ars spoke to had timelines or would speak to concrete products, one slide from Intel's Supercomputing 2019 presentation clearly shows the Xe architecture as encompassing workstation, mobile, and gaming use—so there may be interesting times ahead for rivals in those spaces.</p>
+<p>Savage told Ars that although the current version of oneAPI does still require developers to code for a particular architecture family—CPU, GPU, FPGA, etc—Intel plans for a future release to also allow automatic selection of the most optimal hardware type available.</p>
+<p>The oneAPI toolkit is available for use and testing now at Intel <a href="https://software.intel.com/en-us/devcloud">Devcloud</a>.</p>
+

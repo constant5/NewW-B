@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ars Technica</title>
+	<atom:link href="https://arstechnica.com/feed/?t=c951724f17882c293435a61d10002d8b" rel="self" type="application/rss+xml" />
+	<link>https://arstechnica.com</link>
+	<description>Serving the Technologist for more than a decade. IT news, reviews, and analysis.</description>
+	<lastBuildDate>Mon, 25 Nov 2019 15:45:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.11</generator>
+
+<image>
+	<url>https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-32x32.png</url>
+	<title>Ars Technica</title>
+	<link>https://arstechnica.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Elon Musk: Tesla Cybertruck already has 200,000 pre-orders</title>
+		<link>https://arstechnica.com/?p=1623251</link>
+		<pubDate>Mon, 25 Nov 2019 15:38:05 +0000</pubDate>
+		<dc:creator><![CDATA[Timothy B. Lee]]></dc:creator>
+				<category><![CDATA[Cars]]></category>
+		<category><![CDATA[Cybertruck]]></category>
+		<category><![CDATA[pre-orders]]></category>
+		<category><![CDATA[Tesla]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1623251</guid>
+		<description><![CDATA[The wedge-shaped truck is due out in late 2021, starting at $39,900.]]></description>
+				<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/Cybertruck-4-800x533.png" alt="Tesla Cybertruck"/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/Cybertruck-4.png" class="enlarge-link" data-height="1440" data-width="2160">Enlarge</a> <span class="sep">/</span> You wanted the future? Here it is.  (credit: Tesla)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>When Tesla <a href="https://arstechnica.com/cars/2019/11/tesla-wants-to-reinvent-the-pickup-with-the-39900-cybertruck/">unveiled its new pickup truck</a> last Wednesday, many critics blasted it as ugly and impractical. But despite these criticisms, more than 200,000 people have put down a $100 deposit to reserve a spot in line for the new vehicle, Tesla CEO Elon Musk <a href="https://twitter.com/elonmusk/status/1198788116372344832">announced</a> on Sunday.</p>
+<p>All-electric designs have helped every Tesla vehicle stand out from its competition, but Tesla's Cybertruck is unconventional even by Tesla's standards. Other pickup trucks are boxy, with a square cabin in the front and a flatbed in the back. The Cybertruck has a triangular design that looks a bit like the DeLorean in <em>Back to the Future</em>.</p>
+
+<p>The new pickup is expected to begin production in about two years. Tesla says it will start at $39,900 for a model with 250 miles of range. A high-end model with 500 miles of range, three motors, and a 0-60 time of 2.9 seconds will cost $69,900.</p>
+<p>The signup rate for Cybertruck pre-orders—200,000 orders in four days—isn't quite as impressive as for the Model 3 in 2016. Tesla had <a href="https://techcrunch.com/2016/03/31/tesla-sold-115k-model-3-preorders-before-anyone-even-saw-the-car/">received 150,000 pre-orders</a> for the Model 3 within hours of the unveiling event and had <a href="https://arstechnica.com/cars/2016/04/with-300m-and-counting-in-model-s-pre-orders-how-can-tesla-handle-that-cash/">275,000 orders</a> in hand a few days later.</p>
+<p>Moreover, that comparison comes with a huge caveat: reserving a Model 3 required a $1,000 deposit, helping to ensure that only serious customers would put down a deposit. By contrast, Tesla is only asking Cybertruck purchasers to put down $100—a much lower level of commitment. So customer interest in the Cybertruck, while impressive, does not seem to be at Model 3 levels.</p>
+<p>Interestingly, Tesla took the opposite tack when the company unveiled its Model Y SUV earlier this year: it asked for pre-order deposits of $2,500. That may be a good way to gauge which customers are serious about buying a vehicle, but it isn't a good way to generate impressive sign-up numbers. As far as I can tell, Tesla hasn't released any statistics on Model Y pre-orders.</p>
+
+<p><a href="https://arstechnica.com/?p=1623251&comments=1">Read Comments</a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>Once again, a Chinese rocket has doused a village with toxic fuel</title>
+		<link>https://arstechnica.com/?p=1623187</link>
+		<pubDate>Mon, 25 Nov 2019 14:26:28 +0000</pubDate>
+		<dc:creator><![CDATA[Eric Berger]]></dc:creator>
+				<category><![CDATA[Science]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1623187</guid>
+		<description><![CDATA[The country is finally experimenting with grid fins to control descent.]]></description>
+				<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/GettyImages-1180050225-800x534.jpg" alt="A Long March 3B rocket launches from the Xichang Satellite Launch Center earlier this month."/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/GettyImages-1180050225.jpg" class="enlarge-link" data-height="683" data-width="1024">Enlarge</a> <span class="sep">/</span> A Long March 3B rocket launches from the Xichang Satellite Launch Center earlier this month. (credit: Costfoto / Barcroft Media via Getty Images)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>China's space program now ranks among the most successful in the world, with <a href="https://arstechnica.com/science/2019/11/china-takes-commanding-lead-in-annual-orbital-launches/">more launches</a> than any other country on an annual basis, the capability to send humans into orbit, and an exploration plan that includes firsts <a href="https://arstechnica.com/science/2018/12/china-just-launched-a-far-side-moon-lander-and-thats-pretty-important/">such as</a> the Chang'e-4 spacecraft's landing on the far side of the Moon.</p>
+<p>However, in its steady ascent China has flouted some norms of launch. One of these is that areas down range of launch pads should be sparsely populated—preferably oceans—due to launch hazards and the uncontrolled descent of first and second stages.</p>
+
+<p>China's defiance of this norm has resulted in some horrific scenes as its boosters have periodically crashed into villages. On Friday, a Long March 3B rocket launched a pair of Beidou satellites into orbit. The rocket's ascent was normal, but its first stage booster tumbled into a village down range from the Xichang Satellite Launch Center, in the South-Central part of the country.</p>
+<p>This was the aftermath reported on Chinese social media over the weekend:</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">This is the aftermath downrange following a Chinese Long March 3B launch from Xichang early Saturday. And that yellow smoke is very toxic hypergolic propellant. Source: <a href="https://t.co/VEh5X8Ors0">https://t.co/VEh5X8Ors0</a> <a href="https://t.co/22IVIpyJOk">pic.twitter.com/22IVIpyJOk</a></p>
+<p>— Andrew Jones (@AJ_FI) <a href="https://twitter.com/AJ_FI/status/1198173691378618368?ref_src=twsrc%5Etfw">November 23, 2019</a></p></blockquote>
+<p>It has happened many times before, including most infamously in 1996 when a Long March 3B rocket veered off course shortly after a launch and crashed into a village. Chinese officials reported six dead from the accident, although Western sources <a href="https://www.thespacereview.com/article/2323/1">have speculated</a> that hundreds of Chinese citizens may have died in the accident.</p>
+<h2>Significant cost advantage</h2>
+<p>After a launch in April, 2019 littered the Chinese landscape with toxic debris, commercial space expert Greg Autry called on the Trump administration to address China's lax safety regulations.</p>
+<p>"The safety standards used in Chinese space launch would leave American regulators apoplectic," Autry wrote <a href="https://spacenews.com/safety-last-reckless-behavior-provides-china-with-economic-competitive-advantages-in-space-launch/">in Space News</a>. "As is the case in many global industries, this lax approach to environmental standards and human safety promises to provide China with a significant cost advantage over more responsible and highly regulated American firms."</p>
+<p>Unlike the coastal-based nature of many spaceports in the United States and around the world, China built three of its major launch centers away from water during the Cold War, amid tensions with both America and the Soviet Union. For security purposes, it built the sites at inland locations.</p>
+
+<p>Earlier this year, China <a href="https://spacenews.com/chinese-long-march-launch-tests-grid-fins-for-safely-future-reusability/">began experimenting</a> with grid fins to help steer the first stage of its rockets away from populated areas. However, it seems likely that China has invested in the grid fin experiments more to emulate SpaceX's ability to land and reuse first stage boosters than protect its population.</p>
+<p>This is because the Xichang launch center has been open for more than three decades, and grid fin technology is older than this. The country has had ample time to protect its citizens, but only now—after SpaceX as demonstrated the viability of vertical take off and vertical landing—has the country seriously looked into such technology.</p>
+
+<p><a href="https://arstechnica.com/?p=1623187&comments=1">Read Comments</a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>Review: Twists upon twists in Knives Out will keep you guessing ’til the end</title>
+		<link>https://arstechnica.com/?p=1622621</link>
+		<pubDate>Sun, 24 Nov 2019 17:12:55 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer Ouellette]]></dc:creator>
+				<category><![CDATA[Gaming & Culture]]></category>
+		<category><![CDATA[entertainment]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[film reviews]]></category>
+		<category><![CDATA[Knives out]]></category>
+		<category><![CDATA[Lionsgate]]></category>
+		<category><![CDATA[rian johnson]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1622621</guid>
+		<description><![CDATA[We can’t tell you much without spoiling the fun, but it’s a must-see film.]]></description>
+				<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/knivesTOPALT-800x530.jpg" alt="Daniel Craig sports a Southern accent and plenty of panache as Det. Benoit Blanc in <em>Knives Out</em>."/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/knivesTOPALT.jpg" class="enlarge-link" data-height="795" data-width="1200">Enlarge</a> <span class="sep">/</span> Daniel Craig sports a Southern accent and plenty of panache as Det. Benoit Blanc in <em>Knives Out</em>. (credit: YouTube/Lionsgate)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>A wealthy family patriarch dies under mysterious circumstances, and a brilliant detective suspects foul play in <a href="https://en.wikipedia.org/wiki/Knives_Out_(film)"><em>Knives Out</em></a>, Director Rian Johnson's terrific postmodern take on the classic whodunnit. Frankly, I can't tell you much without spoiling the fun—there are twists upon twists upon twists throughout—but the film should be on everybody's must-see list.</p>
+<p><strong>(We are very mindful of spoilers below, apart from brief descriptions of the premise and main characters, and well-known tropes of classic mystery novels.)</strong></p>
+<p>It's not as much of a radical departure for Johnson as it might seem. His debut feature film, <a href="https://en.wikipedia.org/wiki/Brick_(film)"><em>Brick </em></a>(2005), was a crime drama with <em>film noir</em> overtones, largely inspired by the works of Dashiell Hammett and starring Joseph Gordon-Levitt. (The actor would go on to star in Johnson's third film, 2012's <a href="https://en.wikipedia.org/wiki/Looper_(film)"><em>Looper</em></a>.) For <em>Brick</em>, Johnson had his actors read Hammett and watch classic screwball comedies like <em>His Girl Friday</em> to bring a lighter touch to the traditional <em>noir</em> genre.</p>
+
+<p>Now, he has brought that same sensibility—mixing dark subject matter with a lighter touch—to <em>Knives Out</em>. Think <em>Clue</em> meets <em>Murder on the Orient Express</em>—or any number of adaptations of novels by the grande dame of murder mysteries, Agatha Christie—both of which the director has cited as influences via <a href="https://twitter.com/rianjohnson/status/1090746718398820352?s=20">a Twitter thread</a> of movie posters that also includes <em>Deathtrap, Evil Under the Sun, Gosford Park</em>, and <em>Murder by Death</em>.</p>
+<p><em>Knives Out</em> features a premise entirely worthy of Christie. Various extended family members assemble at the family estate to celebrate their patriarch Harlan Thrombey's (Christopher Plummer) 85th birthday. Thrombey made his fortune by writing tons of best-selling mystery/thriller novels and dies unexpectedly later that night under mysterious circumstances. Could it be foul play? Det. Benoit Blanc (Daniel Craig) suspects it might be, and he detains the entire family in the mansion until he completes his investigation. Naturally, the surviving family members are none too happy about this, since they don't particularly get along.</p>
+      <ul class="gallery shortcode-gallery gallery-wide">
+          <li>
+        <div class="gallery-item-content">  
+        <div class="gallery-image"><img src="https://cdn.arstechnica.net/wp-content/uploads/2019/07/knives3-980x648.jpg" alt=""></div>
+        <p>
+          It always begins with an isolated manor.                      [credit:
+                        YouTube/Lionsgate                        ]
+                  </p>
+        </div>
+      </li>
+      </ul>
+  
+
+<p>Johnson has assembled an impressive cast, all of whom deliver top-notch performances. Craig's Southern accent might be initially distracting for those more familiar with his James Bond films, but that fades as one gets caught up in the story. Jamie Lee Curtis plays the deliciously condescending Linda Drysdale, Harlan's daughter, who likes to humble-brag about building her real estate empire from the ground up. Don Johnson plays her smarmy husband, Richard, while Michael Shannon plays youngest son Walt Thrombey, who has been running his father's publishing empire.</p>
+<p>Other dysfunctional family members include Linda and Richard's ne'er-do-well son, Ransom (Chris Evans); Harlan's widowed daughter-in-law, Joni (Toni Collette), a "lifestyle guru"; Joni's daughter Meg (Katherine Langford), a left-leaning college student; and Walt's teenaged son Jacob (Jaeden Martell), who spends much of his time online as an alt-right troll. (Johnson <a href="https://deadline.com/2019/11/rian-johnson-star-wars-talks-knives-out-last-jedi-twitter-inspiration-1202775691/">told Deadline Hollywood</a> that Jacob's character was inspired by all the online hate he received from angry <em>Star Wars</em> fans for <em>The Last Jedi</em>.) Also present are the housekeeper, Fran (Edi Patterson), and Harlan's nurse and primary caretaker, Marta (Ana de Armas), who had the misfortune to discover Harlan's body.</p>
+<p>That's really all I can say without giving too much away, because Johnson has masterfully plotted <em>Knives Out</em> down to the very last tiny detail. The clues are all there for sharp-eyed audiences to follow, in fine Christie fashion, along with a fair amount of clever misdirection, perfect pacing, and plenty of sly humor. Just when you think you've figured it out, Johnson adds a few more surprising twists, culminating in Benoit's inevitable dramatic revelation of the truth. Agatha Christie would most definitely approve.</p>
+<p><em>Knives Out</em> hits theaters Wednesday, November 27, 2019, just in time for the Thanksgiving holiday weekend.</p>
+
+<p><a href="https://arstechnica.com/?p=1622621&comments=1">Read Comments</a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>What do the concept cars of the LA Auto Show tell us about the future?</title>
+		<link>https://arstechnica.com/?p=1622883</link>
+		<pubDate>Sun, 24 Nov 2019 16:30:18 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan M. Gitlin]]></dc:creator>
+				<category><![CDATA[Cars]]></category>
+		<category><![CDATA[concept cars]]></category>
+		<category><![CDATA[LA Auto Show 2019]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1622883</guid>
+		<description><![CDATA[It was a slow show for new models, but there were <em>some</em> interesting cars on display.]]></description>
+				<content:encoded><![CDATA[
+
+
+
+
+
+<div><a name='page-1'></a></div>
+      <ul class="gallery shortcode-gallery gallery-wide">
+          <li>
+        <div class="gallery-item-content">  
+        <div class="gallery-image"><img src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/Vision-Mercedes-Simplex-1-980x653.jpg" alt=""></div>
+        <p>
+          The Vision Mercedes Simplex re-imagines the 1901 Mercedes 35PS.                       [credit:
+                        Brian Won                        ]
+                  </p>
+        </div>
+      </li>
+      </ul>
+  
+
+
+<p>The prophets of doom are right; the auto show is fast becoming a spent force. I’ve been resistant to that idea, but this year’s LA Auto Show was as lackluster an event as I can remember. There <em>was</em> big car news these past days, all of which took place in LA: the <a href="https://arstechnica.com/cars/2019/11/heres-everything-we-know-about-the-electric-ford-mustang-mach-e/">Ford Mustang Mach-E</a>, <a href="https://arstechnica.com/cars/2019/11/this-electric-volkswagen-station-wagon-will-go-on-sale-in-2022/">Volkswagen ID Space Vizzion</a>, and of course the <a href="https://arstechnica.com/cars/2019/11/tesla-wants-to-reinvent-the-pickup-with-the-39900-cybertruck/">Tesla Cybertruck</a> all made waves. But each met the public at an off-site event, and the Ford and VW were old news by the time the doors to the convention center opened for the first press day on Wednesday.</p>
+<p>But we’re not going to focus on negativity today. Instead, we’re going to celebrate some of the four-wheeled eye candy at the show. The OEMs might not have brought much new to LA, but many of them did wheel out their takes on the future. Some are next year’s model with some added <a href="https://en.wikipedia.org/wiki/Greeble">greebles</a>, others are a view of a decade or more from now and require enabling technologies that aren’t quite there yet. Two are just race cars, built for SEMA and brought along to LA to make up the numbers.</p>
+<p>No mind—I asked photographer Brian Won to walk the halls and, <a href="https://arstechnica.com/tag/pokemon/">like the video game said</a>, <em>try to catch them all</em>. And he did, with a couple of exceptions; BMW had put away its MNEXT, and Kia's Futuron was also hiding somewhere. Most of the captions are his, and I urge you to check out the massive gallery at the top of this article—the pictures are where it's at.</p>
+<p>Of the concepts captured by Brian, I think my favorite has to be the Vision Mercedes Simplex. It's inspired by the Mercedes 35PS—the original Mercedes—built by Emil Jellinek in 1901. It "symbolizes the transformation of the brand-specific luxury of Mercedes-Benz" according to Chief Design Officer Gorden Wagener. I don't entirely believe that, but I love the elegance of the design and the pared-back detailing of this little open-wheel roadster.</p>
+<p>Even the more out-there concepts have value. The supplier Magna used the show to announce the final of its first Magna Global Bold Perspective Award, which featured finalists from the US, China, and Europe, each looking 20 to 30 years into the future.</p>
+<p>"The students' stuff happens at a 2D and model level and then it moves its way up. You can even see it in some of the form languages. Some of these ideas would be just amazingly out there, and then two years later somebody has a show car at Geneva," explained Larry Erickson, global director of design, Magna Exteriors. "Everybody's trying for something new, you know. There's always this pressure of what's next," he told Ars.</p>
+      <ul class="gallery shortcode-gallery gallery-wide">
+          <li>
+        <div class="gallery-item-content">  
+        <div class="gallery-image"><img src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/North-America-Finalist-West-Zhang-980x840.jpg" alt=""></div>
+        <p>
+          Zehao "West" Zhang won Magna's first Global Bold Perspective Award. “Zhang’s thoughtful concept met the challenge of designing what vehicles might look like in 20 to 30 years by addressing the growing needs of overcrowded cities, while also creating a very personalized and human concept,” said Larry Erickson, global director of Magna’s Exteriors Design Group.                      [credit:
+                        Magna                        ]
+                  </p>
+        </div>
+      </li>
+      </ul>
+  
+
+<p>Zehao "West" Zhang, a student at ArtCenter College of Design in Pasadena, won the design with a vehicle for urban nomads.</p>
+<p>Magna's interest in design as a Tier 1 supplier is a way of spotting trends as early as possible, in order to be able to offer the appropriate products to OEMs. Erickson pointed to active aerodynamics—air dams that lower at speed, or moving surfaces in a car's underbody that channel or skirt the airflow to cut drag—as ideas that are appearing in production cars now that were once the preserve of the concept.</p>
+
+<p><a href="https://arstechnica.com/?p=1622883&comments=1">Read Comments</a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>Dealmaster: A big batch of early Black Friday deals is available now</title>
+		<link>https://arstechnica.com/?p=1622481</link>
+		<pubDate>Sun, 24 Nov 2019 16:05:40 +0000</pubDate>
+		<dc:creator><![CDATA[Ars Staff]]></dc:creator>
+				<category><![CDATA[Staff]]></category>
+		<category><![CDATA[dealmaster]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1622481</guid>
+		<description><![CDATA[Including discounts on the PS4 Pro, Xbox One X, Fire TV Stick 4K, and much more.]]></description>
+				<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/11/ps4-slim-800x534.jpg" alt="Dealmaster: A big batch of early Black Friday deals is available now"/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2018/11/ps4-slim.jpg" class="enlarge-link" data-height="962" data-width="1440">Enlarge</a> (credit: Mark Walton)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>Greetings, Arsians! Black Friday is nearly here, but many retailers and device makers have set some of their most notable holiday discounts live over the last couple of days. To help you see if you can get some holiday shopping done ahead of the rush later this week, the Dealmaster has rounded up some favorites from this latest batch of early Black Friday tech deals.</p>
+<p>Of particular note today are savings on both PlayStation 4 and Xbox One hardware. Sony has the <a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FCall-of-Duty-Modern-Warfare-Playstation-4-Pro-Bundle%2F739950006&amp;subid1=dealmaster112419" target="_blank" rel="noopener">PS4 Pro down to $300</a> and a <a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSony-PlayStation-4-1TB-Only-on-PlayStation-PS4-Console-Bundle-Black%2F431121707&amp;subid1=dealmaster112419" target="_blank" rel="noopener">PS4 Slim bundle</a> that includes <em>God of War</em>, <em>Horizon Zero Dawn: Complete Edition</em>, and <em>The Last of Us: Remastered</em> available for $200. Microsoft, meanwhile, now has <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmicrosoft-xbox-one-x-1tb-gears-5-console-bundle-black%2F6360975.p%3FskuId%3D6360975&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Xbox One X bundles for $350</a>, <a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMicrosoft-Xbox-One-S-1TB-Gears-5-Bundle-White-234-01020%2F923731818&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Xbox One S bundles for $200</a>, and <a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMicrosoft-Xbox-One-S-1TB-All-Digital-Edition-Console-Disc-free-Gaming-White-NJP-00050%2F339940120&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Xbox One S All-Digital Edition bundles for $150</a>. It's worth remembering that <a href="https://arstechnica.com/gaming/2019/06/microsoft-reveals-first-details-on-project-scarlett-game-console-for-2020/" target="_blank" rel="noopener">both companies</a> will have <a href="https://arstechnica.com/gaming/2019/10/sony-confirms-the-playstation-5-is-coming-in-2020-reveals-new-hardware-details/" target="_blank" rel="noopener">new consoles</a> by this time next year, but this is as low as we typically see any of these consoles. There are also tons more deals on both consoles' respective games, controllers, and subscription services if you don't need a whole new system. (The Nintendo Switch, on the other hand, doesn't have any major sales live just yet.)</p>
+<p>Elsewhere, Amazon has kicked off Black Friday discounts for a number of its own Fire tablets and Fire TV media streamers, most of which are down to the same prices they had on Prime Day. These deals include the <a href="https://amzn.to/338bK8g" target="_blank" rel="noopener">Fire TV Stick 4K for $25</a>, the <a href="https://amzn.to/2OCNgPg" target="_blank" rel="noopener">1080p Fire TV Stick for $20</a>, the <a href="https://amzn.to/2KJ50r5" target="_blank" rel="noopener">Fire HD 8 tablet for $50</a>, and the <a href="https://amzn.to/37rjEgp" target="_blank" rel="noopener">latest Kindle Paperwhite for $85</a>, among others.</p>
+<p>There are plenty other early Black Friday deals beyond that, including discounts on Bose headphones, Samsung monitors and TVs, Roku's Streaming Stick+, and more. Have a look below for the full roundup.</p>
+<div class="ars-component-layout ars-newsletter-callbox full" data-list-id="248915">
+    <div class="ars-newsletter-callbox-container">
+        <div class="ars-newsletter-callbox-header">    
+            <h5 class="ars-newsletter-callbox-title">
+                Dealmaster: An Ars newsletter
+            </h5>
+            <span class="ars-dotted-pattern"></span>
+        </div>
+        <div class="ars-newsletter-callbox-content">    
+            <div class="ars-newsletter-callbox-description">The Dealmaster is launching its very own newsletter! Sign up to receive a shorter, tightly curated list of the very best tech deals on the Web—no nonsense, direct to your inbox, and often before they make it to the Ars homepage.</div>
+        </div>
+        <div class="ars-newsletter-callbox-button-container">
+            <a class="button button-orange ars-newsletter-callbox-button" href="https://arstechnica.com/newsletters?subscribe=248915">Sign Me Up!</a>  
+        </div>
+    </div>
+</div>
+
+<p><em>Note: Ars Technica may earn compensation for sales from links on this post through <a href="https://arstechnica.com/affiliate-link-policy/">affiliate programs</a>.</em></p>
+<h2>Amazon device deals</h2>
+<ul>
+<li><a href="https://amzn.to/338bK8g" target="_blank" rel="noopener">Amazon Fire TV Stick 4K</a> media streamer for <strong>$24.99</strong> at Amazon (normally $49.99).</li>
+<li><a href="https://amzn.to/2OCNgPg" target="_blank" rel="noopener">Amazon Fire TV Stick</a> 1080p media streamer for <strong>$19.99</strong> at Amazon (normally $39.99).</li>
+<li><a href="https://amzn.to/34iORAc" target="_blank" rel="noopener">Amazon Fire TV Cube</a> 4K media streamer for <strong>$89.99</strong> at Amazon (normally $119.99).</li>
+<li><a href="https://amzn.to/2QLAL6t" target="_blank" rel="noopener">Amazon Fire TV Recast</a> (500GB) over-the-air DVR for <strong>$129.99</strong> at Amazon (normally $229.99).</li>
+<li><a href="https://amzn.to/37rjEgp" target="_blank" rel="noopener">Amazon Kindle Paperwhite</a> (8GB, ads) e-reader for <strong>$84.99</strong> at Amazon (normally $129.99).</li>
+<li><a href="https://amzn.to/2QNNtBK" target="_blank" rel="noopener">Amazon Kindle</a> (ads) e-reader for <strong>$59.99</strong> at Amazon (normally $89.99).</li>
+<li><a href="https://amzn.to/2KJ50r5" target="_blank" rel="noopener">Amazon Fire HD 8</a> (16GB, ads) tablet for <strong>$49.99</strong> at Amazon (normally $79.99).</li>
+<li><a href="https://amzn.to/35uwpEY" target="_blank" rel="noopener">Amazon Fire HD 10</a> (32GB, ads) tablet for <strong>$99.99</strong> at Amazon (normally $149.99).</li>
+<li><a href="https://amzn.to/35r7WR0" target="_blank" rel="noopener">Amazon Fire 7</a> (16GB, ads) tablet for <strong>$29.99</strong> at Amazon (normally $49.99).</li>
+<li><a href="https://amzn.to/2DdsgcG" target="_blank" rel="noopener">Amazon Echo Show 5</a> smart display + Ring Video Doorbell 2 for <strong>$139</strong> at Amazon (normally $259.99).</li>
+</ul>
+<h2>PlayStation 4 deals</h2>
+<ul>
+<li><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSony-PlayStation-4-1TB-Only-on-PlayStation-PS4-Console-Bundle-Black%2F431121707&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Sony PlayStation 4 Slim</a> (1TB) + <em>The Last of Us: Remastered</em>, <em>God of War</em>, <em>Horizon Zero Dawn: Complete Edition </em>for <strong>$199.99</strong> at Walmart, <a href="https://amzn.to/35ttHQ1" target="_blank" rel="noopener">Amazon</a>, and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-playstation-4-1tb-only-on-playstation-console-bundle-jet-black%2F6380812.p%3FskuId%3D6380812&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $299.99).</li>
+<li><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FCall-of-Duty-Modern-Warfare-Playstation-4-Pro-Bundle%2F739950006&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Sony PlayStation 4 Pro</a> (1TB) + <em>Call of Duty: Modern Warfare</em> for <strong>$299.99</strong> at Walmart, <a href="https://amzn.to/35xi0rw" target="_blank" rel="noopener">Amazon</a>, and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-playstation-4-pro-1tb-call-of-duty-modern-warfare-console-bundle-jet-black%2F6378621.p%3FskuId%3D6378621&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $399.99).</li>
+<li><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSony-Playstation-4-DualShock-4-Controller-Black%2F55013075&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Sony DualShock 4</a> controller for <strong>$38.99</strong> at Walmart, <a href="https://amzn.to/2XFudI6" target="_blank" rel="noopener">Amazon</a>, and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-dualshock-4-wireless-controller-for-sony-playstation-4-steel-black%2F6200232.p%3FskuId%3D6200232&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $49.99).</li>
+<li><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPlayStation-Plus-12-Month-Membership-Digital-Download%2F532879721&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Sony PlayStation Plus</a> 12-month membership for <strong>$44.99</strong> at Walmart, <a href="https://amzn.to/33lEz1e" target="_blank" rel="noopener">Amazon</a>, and <a href="https://www.gamestop.com/video-games/playstation-4/digital/subscriptions/products/playstation-plus-12-month-membership/10084626.html" target="_blank" rel="noopener">GameStop</a> (normally $59.99).</li>
+<li><a href="https://amzn.to/33iq2Dc" target="_blank" rel="noopener">Sony PlayStation VR</a> + <em>Astro Bot Rescue Mission</em>,<em> Skyrim VR</em>,<em> Resident Evil 7: Biohazard</em>,<em> Everybody’s Golf VR</em>, and <em>PlayStation VR Worlds </em>for <strong>$199.99</strong> at Amazon, <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-playstation-vr-bundle-five-game-pack%2F6380860.p%3FskuId%3D6380860&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a>, and <a href="https://www.gamestop.com/video-games/playstation-4/virtual-reality/products/playstation-vr-five-game-bundle/11097861.html" target="_blank" rel="noopener">GameStop</a> (normally $299.99)</li>
+<li><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSony-PlayStation-VR-Blood-Truth-and-Everybody-s-Golf-Bundle%2F442052399&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Sony PlayStation VR</a> + 2x PlayStation Move controllers + <em>Blood &amp; Truth</em> + <em>Everybody's Golf VR</em> for <strong>$249.99</strong> at Walmart, <a href="https://amzn.to/2qHHa87" target="_blank" rel="noopener">Amazon</a>, and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-playstation-vr-blood-truth-and-everybodys-golf-vr-bundle%2F6350450.p%3FskuId%3D6350450&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $349.99).</li>
+</ul>
+<h2>Xbox One deals</h2>
+<ul>
+<li><a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmicrosoft-xbox-one-x-1tb-gears-5-console-bundle-black%2F6360975.p%3FskuId%3D6360975&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Microsoft Xbox One X</a> (1TB) + <i>Gears 5</i> + <em>Gears of War 1-4</em> + $30 Best Buy e-Gift Card for <strong>$349.99</strong> at Best Buy (<strong>$349.99</strong> w/o gift card at <a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMicrosoft-Xbox-One-X-1TB-Gears-5-Bundle-Black-CYV-00321%2F476474256&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Walmart</a> and <a href="https://amzn.to/2XF9apd" target="_blank" rel="noopener">Amazon</a> - normally $499.99).</li>
+<li><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMicrosoft-Xbox-One-S-1TB-Gears-5-Bundle-White-234-01020%2F923731818&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Microsoft Xbox One S</a> (1TB) + <em>Gears 5 </em>+ <em>Gears of War 1-4</em> for <strong>$199.99</strong> at Walmart, <a href="https://amzn.to/2DeiUxk" target="_blank" rel="noopener">Amazon</a>, and <a href="https://www.gamestop.com/video-games/xbox-one/consoles/products/xbox-one-s-gears-5-bundle-1tb/11095883.html" target="_blank" rel="noopener">GameStop</a> (normally $299.99).</li>
+<li><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMicrosoft-Xbox-One-S-1TB-All-Digital-Edition-Console-Disc-free-Gaming-White-NJP-00050%2F339940120&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Microsoft Xbox One S All-Digital Edition</a> (1TB) + <em>Sea of Thieves</em>, <em>Minecraft</em>, and <em>Fortnite Battle Royale</em> for <strong>$149.99</strong> at Walmart, <a href="https://amzn.to/34gwThX" target="_blank" rel="noopener">Amazon</a>, and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmicrosoft-xbox-one-s-1tb-all-digital-edition-console-disc-free-gaming-white%2F6375659.p%3FskuId%3D6375659&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $249.99).</li>
+<li><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMicrosoft-Xbox-One-Wireless-Controller-Midnight-Forces-II-Special-Edition-Walmart-Exclusive-WL3-00149%2F948347409&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Microsoft Xbox One Wireless Controller</a> for <strong>$39</strong> at Walmart, <a href="https://amzn.to/34ghga1" target="_blank" rel="noopener">Amazon</a>, and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmicrosoft-wireless-controller-for-xbox-one-and-windows-10-black%2F5621843.p%3FskuId%3D5621843&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $49.99).</li>
+<li>New users only: <a href="https://www.microsoft.com/en-us/p/xbox-game-pass-ultimate/cfq7ttc0khs0?activetab=pivot%3aoverviewtab" target="_blank" rel="noopener">Xbox Game Pass Ultimate</a> 3-month membership for <strong>$1</strong> at Microsoft (list price $44.99).</li>
+<li><a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmicrosoft-xbox-game-pass-ultimate-3-month-membership-digital%2F6359375.p%3FskuId%3D6359375&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Xbox Game Pass Ultimate</a> 3-month membership for <strong>$24.99</strong> at Best Buy (<strong>$26.99</strong> at <a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FXbox-3-Month-Game-Pass-Ultimate-Microsoft-Digital-Download%2F309259942&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Walmart</a> and <a href="https://amzn.to/2QNPtKi" target="_blank" rel="noopener">Amazon</a> - list price $44.99).</li>
+</ul>
+<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/09/IMG_0049.jpg"><img alt='The Sega Genesis Mini.'  src="https://cdn.arstechnica.net/wp-content/uploads/2019/09/IMG_0049-640x359.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2019/09/IMG_0049-1280x719.jpg 2x" alt='The Sega Genesis Mini.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/09/IMG_0049.jpg"class="caption-link" rel="nofollow">The Sega Genesis Mini.</a> </p></div>
+<h2>Video game deals</h2>
+<ul>
+<li><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSega-Genesis-Mini-Sega%2F899023177&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Sega Genesis Mini</a> retro console for <strong>$49.99</strong> at Walmart and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsega-genesis-mini-console%2F6344945.p%3FskuId%3D6344945&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $79).</li>
+<li><em><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FCall-of-Duty-Modern-Warfare-PlayStation-4-Get-3-Hours-of-2XP-with-game-purchase-Only-at-Walmart%2F706173372&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Call of Duty: Modern Warfare</a> </em>(PS4) for <strong>$38</strong> at Walmart (normally $59.99).</li>
+<li><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMarvel-s-Spider-Man-Game-of-the-Year-Edition-Sony-PlayStation-4-711719529958%2F563250456%3F&amp;subid1=dealmaster112419" target="_blank" rel="noopener"><em>Marvel's Spider-Man: Game of the Year Edition</em></a> (PS4) for <strong>$15</strong> at Walmart and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmarvels-spider-man-game-of-the-year-edition-playstation-4%2F6363873.p%3FskuId%3D6363873&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $29.99).</li>
+<li><em><a href="https://amzn.to/2OhYZDT" target="_blank" rel="noopener">God of War</a> </em>(PS4)<em> </em>for <strong>$9.99</strong> at Amazon and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgod-of-war-playstation-hits-standard-edition-playstation-4%2F5358600.p%3FskuId%3D5358600&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $29.99).</li>
+<li><a href="https://amzn.to/2QI9vWJ" target="_blank" rel="noopener"><i>Days Gone</i></a> (PS4) for <strong>$19.99 </strong>at Amazon, <a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDays-Gone-Sony-PlayStation-4-711719504757%2F52730199&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Walmart</a>, and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdays-gone-playstation-4%2F5358601.p%3FskuId%3D5358601&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $34.99).</li>
+<li><em><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGran-Turismo-Sport-PlayStation-Hits-Sony-PlayStation-4-711719534259%2F471547658&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Gran Turismo Sport</a> </em>(PS4)<em> </em>for <strong>$9.99</strong> at Walmart and <a href="https://amzn.to/34qEYRn" target="_blank" rel="noopener">Amazon</a> (normally $29.99).</li>
+<li><em><a href="https://amzn.to/2KOML3v" target="_blank" rel="noopener">Horizon Zero Dawn: Complete Edition</a> </em>(PS4) for <strong>$9.99</strong> at Amazon and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhorizon-zero-dawn-complete-edition-playstation-4%2F6138365.p%3FskuId%3D6138365&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $29.99).</li>
+<li><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FUncharted-4-A-Thief-s-End-PlayStation-Hits-Sony-PlayStation-4-711719523215%2F346512372&amp;subid1=dealmaster112419" target="_blank" rel="noopener"><em>Uncharted 4: A Thief's End</em></a> (PS4) for <strong>$9.99</strong> at Walmart and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Funcharted-4-a-thiefs-end-standard-edition-playstation-4%2F2943094.p%3FskuId%3D2943094&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $19.99).</li>
+<li><em><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FUncharted-The-Nathan-Drake-Collection-PlayStation-Hits-Sony-PlayStation-4-711719526124%2F799933984&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Uncharted: The Nathan Drake Collection</a> </em>(PS4) for <strong>$9.99</strong> at Walmart, <a href="https://amzn.to/2QM2LqQ" target="_blank" rel="noopener">Amazon</a>, and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fplaystation-hits-uncharted-the-nathan-drake-collection-standard-edition-playstation-4%2F9197137.p%3FskuId%3D9197137&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $19.99).</li>
+<li><em><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FUNCHARTED-The-Lost-Legacy-PlayStation-Hits-Sony-PlayStation-4-711719534303%2F414518044&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Uncharted: The Lost Legacy</a> </em>(PS4) for <strong>$9.99</strong> at Walmart and <a href="https://amzn.to/2QOA2kX" target="_blank" rel="noopener">Amazon</a> (normally $19.99).</li>
+<li><em><a href="https://amzn.to/2OeZ3UJ" target="_blank" rel="noopener">The Last of Us Remastered</a> </em>(PS4) for <strong>$9.99 </strong>at Amazon and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fthe-last-of-us-remastered-playstation-hits-playstation-4%2F5875178.p%3FskuId%3D5875178&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $16.99).</li>
+<li><em><a href="https://amzn.to/2XExiIy" target="_blank" rel="noopener">Persona 5</a> </em>(PS4) for <strong>$9.99</strong> at Amazon and <a href="https://www.gamestop.com/video-games/playstation-4/games/products/persona-5/10146553.html" target="_blank" rel="noopener">GameStop</a> (normally $19.99).</li>
+<li><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FBloodborne-PlayStation-Hits-Sony-PlayStation-4-711719523154%2F748039930&amp;subid1=dealmaster112419" target="_blank" rel="noopener"><em>Bloodborne</em></a> (PS4) for <strong>$9.99 </strong>at Walmart and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbloodborne-playstation-hits-playstation-4%2F7314019.p%3FskuId%3D7314019&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $14.99).</li>
+<li><em><a href="https://amzn.to/2Dek1wJ" target="_blank" rel="noopener">Yakuza 0</a> </em>(PS4) for <strong>$9.99</strong> at Amazon and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fyakuza-0-standard-edition-playstation-4%2F5576900.p%3FskuId%3D5576900&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $19.99).</li>
+<li><em><a href="https://amzn.to/2OhOX5u" target="_blank" rel="noopener">Gears 5</a> </em>(XB1) for<strong> $24.99</strong> at Amazon and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgears-5-standard-edition-xbox-one%2F6255311.p%3FskuId%3D6255311&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $49.99).</li>
+<li><em><a href="https://amzn.to/33ek1HU" target="_blank" rel="noopener">Forza Horizon 4</a> </em>(XB1)<em> </em>for<strong> $19.99</strong> at Amazon and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fforza-horizon-4-standard-edition-xbox-one%2F6255310.p%3FskuId%3D6255310&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $49.99).</li>
+<li><em><a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsea-of-thieves-xbox-one%2F9287012.p%3FskuId%3D9287012&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Sea of Thieves: Anniversary Edition</a> </em>(XB1) for<strong> $19.99</strong> at Best Buy (normally $39.99).</li>
+<li><em><a href="https://amzn.to/2QLCt83" target="_blank" rel="noopener">Kingdom Hearts III</a></em> (PS4, XB1) for <strong>$14.99 </strong>at Amazon, <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fkingdom-hearts-iii-standard-edition-playstation-4%2F9497135.p%3FskuId%3D9497135&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a>, and <a href="https://www.gamestop.com/video-games/playstation-4/games/products/kingdom-hearts-iii/10150783.html" target="_blank" rel="noopener">GameStop</a> (normally $24.99).</li>
+<li><em><a href="https://amzn.to/2qIA17z" target="_blank" rel="noopener">Shenmue III</a> </em>(PS4) for <strong>$34.99 </strong>at Amazon and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fshenmue-iii-playstation-4%2F6342250.p%3FskuId%3D6342250&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $59.99).</li>
+</ul>
+<h2>Electronics deals</h2>
+<ul>
+<li><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRoku-Streaming-Stick-4K-Media-Player%2F300825724&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Roku Streaming Stick+</a> 4K media streamer for <strong>$29.99</strong> at Walmart, <a href="https://amzn.to/2KQTeLn" target="_blank" rel="noopener">Amazon</a>, and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froku-streaming-stick-4k-streaming-media-player-with-voice-remote-with-tv-power-and-volume-black%2F5948005.p%3FskuId%3D5948005&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $49.99).</li>
+<li><a href="https://www.staples.com/apple-ipad-7th-generation-10-2-tablet-32gb-wifi-space-gray-mw742ll-a/product_24419814" target="_blank" rel="noopener">10.2-inch Apple iPad</a> (32GB) for <strong>$249</strong> at Staples (normally $329).</li>
+<li><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRazer-DeathAdder-Elite-True-16-000-5G-Optical-Sensor-Razer-Mechanical-Mouse-Switches-Up-50-Million-Clicks-Ergonomic-Form-Factor-Esports-Gaming-Mouse%2F55577827&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Razer DeathAdder Elite</a> wired gaming mouse for <strong>$29.99</strong> at Walmart, <a href="https://amzn.to/2XyMtmx" target="_blank" rel="noopener">Amazon</a>, <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-deathadder-elite-wired-optical-gaming-mouse-with-chroma-lighting-black%2F5588909.p%3FskuId%3D5588909&amp;subid1=dealmaster112119" target="_blank" rel="noopener">Best Buy</a> (normally $44.99).</li>
+<li><a href="https://amzn.to/2Qczm91" target="_blank" rel="noopener">55-inch Vizio M558-G1 M-Series Quantum</a> (2019 model) 4K LED TV for <strong>$459.99</strong> at Amazon (normally $548).</li>
+<li><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSAMSUNG-55-Class-4K-Ultra-HD-2160P-HDR-Smart-LED-TV-UN55RU8000-2019-Model%2F909500022&amp;subid1=dealmaster112419" target="_blank" rel="noopener">55-inch Samsung RU8000</a> (2019 model) 4K LED TV for <strong>$547.99</strong> at Walmart, <a href="https://amzn.to/2QJAroY" target="_blank" rel="noopener">Amazon</a>, and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-55-class-led-8-series-2160p-smart-4k-uhd-tv-with-hdr%2F6323718.p%3FskuId%3D6323718&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $697.99).</li>
+<li><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSAMSUNG-Galaxy-Tab-S4-10-5-64GB-Tablet-with-S-Pen-Black-SM-T830NZKAXAR%2F949502249&amp;subid1=dealmaster112419" target="_blank" rel="noopener">10.5-inch Samsung Galaxy Tab S4</a> (64GB) tablet for <strong>$447.99</strong> at Walmart, <a href="https://amzn.to/2OezCCL" target="_blank" rel="noopener">Amazon</a>, and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-tab-s4-10-5-64gb-black%2F6267302.p%3FskuId%3D6267302&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $547.99).</li>
+<li><a href="https://amzn.to/2KNRAtH" target="_blank" rel="noopener">27-inch Samsung CHG70</a> gaming monitor - 1440p, VA, 144Hz, FreeSync for <strong>$399.99</strong> at Amazon (normally $439.99).</li>
+<li><a href="https://amzn.to/37zXYys" target="_blank" rel="noopener">32-inch Samsung CHG70</a> gaming monitor - 1440p, VA, 144Hz, FreeSync for <strong>$449.99</strong> at Amazon (normally $499.99).</li>
+<li><a href="https://amzn.to/33auuUt" target="_blank" rel="noopener">Samsung Chromebook Plus V2</a> laptop - Intel Core m3-7Y30, 12.2-inch 1920x1200, 4GB RAM, 64GB eMMC for <strong>$425.83</strong> at Amazon (normally $529.99).</li>
+<li><a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-2-in-1-14-touch-screen-chromebook-intel-core-i3-8gb-memory-64gb-emmc-flash-memory-white%2F6365772.p%3FskuId%3D6365772&amp;subid1=dealmaster110919" target="_blank" rel="noopener">HP Chromebook 14</a> laptop - Intel Core i3-8130U, 14-inch 1080p touch, 8GB RAM, 64GB eMMC for <strong>$349</strong> at Best Buy (normally $499.99).</li>
+<li><a href="https://amzn.to/35ocWFY" target="_blank" rel="noopener">Samsung HMD Odyssey+</a> VR headset for <strong>$229 </strong>at Amazon (normally $399).</li>
+<li><a href="https://amzn.to/2OfyNd2" target="_blank" rel="noopener">Logitech G402 Hyperion Fury</a> wired gaming mouse for <strong>$21.99</strong> at Amazon (normally $29.99).</li>
+<li><a href="https://amzn.to/2rqG5l5" target="_blank" rel="noopener">Logitech G602</a> wireless gaming mouse for <strong>$28.99</strong> at Amazon and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flogitech-g602-wireless-optical-11-button-scrolling-gaming-mouse-black%2F2397012.p%3FskuId%3D2397012&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $26.99).</li>
+<li><a href="https://amzn.to/2XFlZQ8" target="_blank" rel="noopener">Logitech Crayon</a> stylus for iPad for <strong>$49.99</strong> at Amazon and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flogitech-crayon-digital-pencil-for-ipad-pro-12-9-3rd-gen-and-11-ipad-7th-and-6th-gen-ipad-air-3rd-gen-ipad-mini-5-orange%2F6293294.p%3FskuId%3D6293294&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $54.99).</li>
+<li><a href="https://amzn.to/2Of0Xol" target="_blank" rel="noopener">Logitech G29 Driving Force</a> racing wheel controller for PS4/PC for <strong>$188.48</strong> at Amazon (normally $209.99).</li>
+<li><a href="https://amzn.to/2s5UKT9" target="_blank" rel="noopener">Logitech K780</a> wireless keyboard for <strong>$44.99</strong> at Amazon and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flogitech-k780-wireless-keyboard-white%2F5592420.p%3FskuId%3D5592420&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $54.99).</li>
+<li><a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fwd-easystore-5tb-external-usb-3-0-portable-hard-drive-black%2F6356880.p%3FskuId%3D6356880&amp;subid1=dealmaster111919" target="_blank" rel="noopener">WD Easystore</a> (5TB) external portable hard drive for <strong>$89.99</strong> at Best Buy (normally $169.99).</li>
+<li><a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fwd-easystore-12tb-external-usb-3-0-hard-drive-black%2F6364259.p%3FskuId%3D6364259&amp;subid1=dealmaster112419" target="_blank" rel="noopener">WD Easystore</a> (12TB) external desktop hard drive for <strong>$179.99</strong> at Best Buy (normally $279.99).</li>
+</ul>
+<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/07/deathadder_elite1-1.jpg"><img alt='The Razer Deathadder Elite gaming mouse.'  src="https://cdn.arstechnica.net/wp-content/uploads/2019/07/deathadder_elite1-1-640x427.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2019/07/deathadder_elite1-1-1280x854.jpg 2x" alt='The Razer Deathadder Elite gaming mouse.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/07/deathadder_elite1-1.jpg"class="caption-link" rel="nofollow">The Razer Deathadder Elite gaming mouse.</a> (credit: <a rel="nofollow" class="caption-link" href="https://arstechnica.com/author/valentina/">Valentina Palladino</a>)</p></div>
+<h2>Audio deals</h2>
+<ul>
+<li><a href="https://amzn.to/2OCP1vQ" target="_blank" rel="noopener">Jabra Elite 65t</a> Bluetooth true wireless earphones for <strong>$99.99</strong> at Amazon and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fjabra-elite-65t-true-wireless-earbud-headphones-titanium-black%2F6181245.p%3FskuId%3D6181245&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $144.99).</li>
+<li><a href="https://amzn.to/34bvNE2" target="_blank" rel="noopener">Jabra Elite Active 65t</a> Bluetooth true wireless earphones for <strong>$134.99</strong> at Amazon (normally $179.99).</li>
+<li><a href="https://amzn.to/2OKthOO" target="_blank" rel="noopener">Jabra Move Style Edition</a> Bluetooth on-ear headphones for <strong>$59.99</strong> at Amazon (normally $89.99).</li>
+<li><a href="https://amzn.to/2QLBuEJ" target="_blank" rel="noopener">Ultimate Ears Boom 3</a> portable Bluetooth speaker for <strong>$119.99</strong> at Amazon (normally $149.99).</li>
+<li><a href="https://amzn.to/33dniHs" target="_blank" rel="noopener">Bose SoundWear Companion</a> wearable Bluetooth speaker for <strong>$149.99</strong> at Amazon and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbose-soundwear-companion-wireless-wearable-speaker-black%2F5892606.p%3FskuId%3D5892606&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $299).</li>
+<li><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FBose-SoundLink-Around-Ear-Wireless-Bluetooth-Headphones-II-Black%2F167413326&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Bose SoundLink Around-Ear Wireless Headphones II</a> Bluetooth headphones for <strong>$179</strong> at Walmart, <a href="https://amzn.to/37wrS6J" target="_blank" rel="noopener">Amazon</a>, and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbose-soundlink-wireless-around-ear-headphones-ii-black%2F4331863.p%3FskuId%3D4331863&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $229).</li>
+<li><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FBose-SoundSport-Free-True-Wireless-Bluetooth-Earbuds-Black%2F255448183&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Bose SoundSport Free</a> Bluetooth true wireless earphones for <strong>$169</strong> at Walmart, <a href="https://amzn.to/2qHwxlL" target="_blank" rel="noopener">Amazon</a>, and <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbose-soundsport-free-wireless-headphones-black%2F5876110.p%3FskuId%3D5876110&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a> (normally $199).</li>
+<li><a href="https://goto.walmart.com/c/1305166/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FBose-SoundSport-In-Ear-headphones-for-Android-Charcoal%2F101898376&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Bose SoundSport</a> wired in-ear sports headphones for <strong>$39</strong> at Walmart (normally $74.99).</li>
+</ul>
+<h2>Smartphone deals</h2>
+<ul>
+<li><a href="https://www.oneplus.com/oneplus-7pro" target="_blank" rel="noopener">OnePlus 7 Pro</a> (256GB) unlocked smartphone for <strong>$549</strong> at OnePlus (normally $699).</li>
+<li><a href="https://amzn.to/2OxhUcT" target="_blank" rel="noopener">Samsung Galaxy S10e</a> (128GB) unlocked smartphone for <strong>$549</strong> at Amazon (normally $749.99).</li>
+<li><a href="https://amzn.to/37yO1S5" target="_blank" rel="noopener">Samsung Galaxy S10</a> (128GB) unlocked smartphone + Samsung Galaxy Buds Bluetooth true wireless earphones for <strong>$699.99</strong> at Amazon (normally $927.99).</li>
+<li><a href="https://amzn.to/2sdZZQX" target="_blank" rel="noopener">Google Pixel 3</a> (64GB) unlocked smartphone for <strong>$349 </strong>at Amazon (normally $499.99).</li>
+<li><a href="https://amzn.to/2QIcMoZ" target="_blank" rel="noopener">Google Pixel 3 XL</a> (64GB) unlocked smartphone for <strong>$449</strong> at Amazon (normally $569.99).</li>
+<li><a href="https://amzn.to/37uQZHn" target="_blank" rel="noopener">Razer Phone 2</a> (64GB) unlocked smartphone for <strong>$299.99 </strong>at Amazon, <a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-phone-2-with-64gb-memory-cell-phone-unlocked-black%2F6296105.p%3FskuId%3D6296105&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Best Buy</a>, and <a href="https://www.razer.com/mobile/razer-phone-2/shop" target="_blank" rel="noopener">Razer</a> (normally $399.99).</li>
+<li><a href="https://bestbuy.7tiv.net/c/1305166/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-moto-g7-with-64gb-memory-cell-phone-unlocked-ceramic-black%2F6324277.p%3FskuId%3D6324277&amp;subid1=dealmaster112419" target="_blank" rel="noopener">Motorola Moto G7</a> (64GB) unlocked smartphone for <strong>$199.99</strong> at Best Buy (normally $299.99).</li>
+</ul>
+
+<p><a href="https://arstechnica.com/?p=1622481&comments=1">Read Comments</a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>Love Baby Yoda, you must</title>
+		<link>https://arstechnica.com/?p=1622541</link>
+		<pubDate>Sun, 24 Nov 2019 12:09:18 +0000</pubDate>
+		<dc:creator><![CDATA[WIRED]]></dc:creator>
+				<category><![CDATA[Gaming & Culture]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1622541</guid>
+		<description><![CDATA[Internet backlash against <em>The Mandalorian</em>’s breakout character has already begun.]]></description>
+				<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/baby-yoda-800x533.jpg" alt="Awwwww..."/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/baby-yoda.jpg" class="enlarge-link" data-height="1600" data-width="2400">Enlarge</a> <span class="sep">/</span> Awwwww... (credit: Disney+)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>No matter how frequently it happens, when people online love something obsessively, when they simply must stan, it always brings out the cynics. Their cynicism, in turn, will be understood as intellectual seriousness. As maturity. To wit: this week the Internet pledged its fealty to Baby Yoda—the tiny alien from Disney+’s <em><a href="https://www.wired.com/story/mandalorian-dave-filoni-top-star-wars-moments/">The Mandalorian</a></em>—and was immediately met with the rationale of Adult Nerds eager to pronounce each fan a nerf-herding sap who doesn’t really understand the object of their affection. It’s a reality created by clicks as much as crotchetiness. Baby Yoda hype has produced beatific meme-collection posts showcasing how many adherents would die for the li'l green cherub, speculations about what role Baby Yoda will play in <em>The Mandalorian</em>, and beyond. Naysaying is the obvious next step. Baby Yoda backlash has <a href="https://news.avclub.com/stop-fighting-it-pedants-the-mandalorians-baby-yoda-i-1839921482">already</a> <a href="https://theoutline.com/post/8276/baby-yoda-sucks?zd=1&amp;zi=n5irgzuf">begun</a>.</p>
+<p>Take the bait, I will not.</p>
+<p><div class="image shortcode-img right full"><img src="https://cdn.arstechnica.net/wp-content/uploads/2019/02/wired-logo.png"></div>Reasons to be suspicious of the creature, and its popularity, do exist. The best one is that Baby Yoda is a bit of marketing calculus on Disney’s part, a being engineered to be cute enough to move scores of toys this holiday season. OK, sure. There is Baby Yoda merch <a href="https://www.cnbc.com/2019/11/21/baby-yoda-apparel-accessories-toys-and-plush-are-coming.html">on the way</a>, but, historically speaking, there have been toys, T-shirts, keychains, and all manner of schwag for nearly every Star Wars character regardless of their adorableness level. Even if Disney didn't release official items, someone else would, as evidenced by the “<a href="https://www.vulture.com/article/baby-yoda-gift-guide.html">black market</a>” guides to Baby Yoda gear that went up before news broke about the official products.</p>
+<p>The Star Wars universe also has a mixed track record with its ritual infusions of cuteness. <a href="https://www.wired.com/2017/07/ahmed-best-jar-jar-binks-new-podcast/">Jar Jar Binks</a> is an insipid scaly rabbit-frog who never needed to exist, and <a href="https://www.wired.com/story/cantina-talk-40/">porgs</a> are a mostly plot-irrelevant bit of filler designed to mask <a href="https://www.gq.com/story/porgs-only-exist-because-star-wars-the-last-jedi-couldnt-get-rid-of-puffins">puffin infiltration</a>. Hating ewoks is a meme of its own, though the reason most give for hating them—that they disrupt the original trilogy’s supposed seriousness and grit with their mawkish fluffiness—is a bit much. Are the ewoks, who brutally murder multiple stormtroopers and were instrumental in helping the rebels capture the Empire’s base on Endor, really more of a distraction than C-3PO’s constant dithering and disassembly? Or do people hate them out of spite because they know they’re supposed to love them, but a part of them can’t help but do just that?</p>
+<p>We must resist this ewokification of Baby Yoda, because it hurts everyone invested in Star Wars. There’s something grindingly, performatively grouchy in leaping forward to damn something that “everyone” likes, in no small part because everyone likes it. It’s like when stuffy grown-ups poo-poo anything teenage girls like because they believe their youthful enthusiasm is somehow tainting art. As Adult Yoda says, “Anger leads to hate. Hate leads to suffering.” Yes, people love Baby Yoda. Yes, people are meant to. But suggesting that Disney and <em>The Mandalorian</em> are somehow cheating by making Baby Yoda so cute that it brought Werner Herzog to tears (&lt;ahref="https://www.gq.com/story/werner-herzog-baby-yoda"&gt;a real thing that happened) is like faulting a chef for salting their food.</p>
+<p>Spoilers: Baby Yoda has done next to nothing in <em>The Mandalorian</em> except float in an egg-cradle, nap, eat a frog, and use the Force to help the Mandalorian kill a beast so he could steal its baby, which isn’t even a very Light-side move. Despite this, Baby Yoda is, in fact, so lovable that its lovability is evidence of storytellers and character designers at the peak of their powers. Typically, building a character out of elements people are sure to adore is a ticket to Try-Hardsville. (If your mind is like mine and only hangs onto bizarro scraps of Internet culture, the ultimate example is Mountain Dew’s 2016 Super Bowl commercial, “<a href="https://www.youtube.com/watch?v=CwXKAWd-AeM">Puppy Monkey Baby</a>,” featuring a creature that was a nightmarish amalgam of what should have been the Internet’s favorite things.) Baby Yoda is different. The character is simply a mashup of the most beloved being in the Star Wars universe, Disney's cuteness formula, and a superbaby. The adorableness of its innocent corgi-monkey-gremlin face is only enhanced by your memory of Yoda's wisened visage; it easily unseats Baby Groot as the best babified grizzled genre character. Internet obsession with Baby Yoda was bound to happen—<a href="https://www.rollingstone.com/movies/movie-news/baby-yoda-cute-why-916180/">it's <em>science</em></a>. Love it, you must. OK to enjoy things, it is.</p>
+<p><em>This story originally appeared on <a href="https://www.wired.com/story/baby-yoda-internet/">wired.com</a>.</em></p>
+
+<p><a href="https://arstechnica.com/?p=1622541&comments=1">Read Comments</a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>BBC drops an action-packed Doctor Who trailer 56 years after show first aired</title>
+		<link>https://arstechnica.com/?p=1622677</link>
+		<pubDate>Sat, 23 Nov 2019 18:05:56 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer Ouellette]]></dc:creator>
+				<category><![CDATA[Gaming & Culture]]></category>
+		<category><![CDATA[BBC]]></category>
+		<category><![CDATA[Doctor Who]]></category>
+		<category><![CDATA[jodie whittaker]]></category>
+		<category><![CDATA[television]]></category>
+		<category><![CDATA[Thirteenth doctor]]></category>
+		<category><![CDATA[Trailers]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1622677</guid>
+		<description><![CDATA[And is that a glimpse of a Cyberman we see?]]></description>
+				<content:encoded><![CDATA[
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<div class="video"><div class="wrapper"<iframe style="display:block" type="text/html" width="980" height="550" src="https://www.youtube.com/embed/vkEB0ysv7sM?start=0&wmode=transparent" frameborder="0" allowfullscreen></iframe></div><p class="caption" style="font-size:0.8em">The Time Lord and her faithful companions face all new adventures in series 12 of the BBC's <em>Doctor Who</em>. </p></div>
+<p>Jodie Whittaker returns as everyone favorite kooky-yet-brilliant Time Lord in the first action-packed trailer for the upcoming 12th series of <em>Doctor Who</em>. And it just so happens the trailer's <a href="https://nerdist.com/article/doctor-who-series-12-trailer-jodie-whittaker/">debut coincides</a> with BBC One's airing of the very first <em>Doctor Who</em> episode, "An Unearthly Child," 56 years ago.</p>
+<p><strong>(Some spoilers for series 11 below.)</strong></p>
+<p>There were lots of big changes to <em>Doctor Who</em> <a href="https://arstechnica.com/gaming/2018/12/doctor-who-wraps-a-solid-season-with-its-first-female-time-lord/">last season</a>. In addition to Whittaker's first female Time Lord (Time Lady? Eh, we'll stick with the original), longtime showrunner Steven Moffat left the show. He was replaced by Chris Chibnall, who not only wrote for <em>Who</em> and its spinoff <em>Torchwood</em> but was also the creator of the successful <em>Broadchurch</em> series (which featured Whittaker and the 10th Doctor, David Tennant).</p>
+<p>Here's a brief recap for those who might have missed last season. Right after regenerating, the Doctor landed in Sheffield, <em>sans</em> TARDIS, just as an alien from the warrior Stenza race named T'zim-Sha (the Doctor calls him "Tim Shaw") arrived to ritually hunt a human to advance his status. She teamed up with some locals to defeat the alien: Graham O'Brien (Bradley Walsh, <em>Coronation Street</em>) and his wife, Grace (Sharon D. Clarke, <em>Holby City</em>); her grown son Ryan Sinclair (Tosin Cole, <em>Hollyoaks</em>); and Ryan's old school chum, Yasmin "Yaz" Khan (Mandip Gill, also from <em>Hollyoaks</em>), a rookie police officer eager to prove herself.</p>
+<p>The resourceful Doctor had to make herself a new sonic screwdriver. And when she finally reunited with her TARDIS—"Come to daddy... um, mummy," she crooned—it had a <a href="https://www.syfy.com/syfywire/new-doctor-who-photos-reveal-true-beauty-of-jodie-whittakers-redesigned-tardis">gorgeous new interior</a>, courtesy of concept artist Darren Fereday. Among other perks, the revamped TARDIS boasts a biscuit dispenser.</p>
+
+<p>Despite some unevenness overall, last season had several especially strong episodes, such as the fairy-tale flavored "It Takes You Away," in which a young blind girl named Hanne in a cabin in the Norwegian woods has lost her father through a portal to a parallel universe—lured by what appears to be his dead wife. "The Witchfinders" brought a lighter touch, as the Doctor found herself in the midst of a witch hunt in 17th-century England. (Alan Cumming was a sheer delight as King James I.)</p>
+<p>In "Demons of the Punjab," Yaz convinces the Doctor to take them to her grandmother Umbreen's past in the Punjab, on August 14, 1947, the eve of <a href="https://en.wikipedia.org/wiki/Partition_of_India">India's partition</a>—and learns way more about her family history than she bargained for. The finale, "The Battle of Ranskoor Av Kolos," was a bit weaker, but at least we came full circle in the season arc. The team ran into T'zim-Sha again. Responding to nine different distress calls, the TARDIS deposited the crew on the mysterious titular world, rife with debris from long-ago battles. It had been 3,407 years since T'zim-Sha was blasted into the past by the Doctor, and he'd been plotting his revenge ever since. Fortunately, the Doctor and her companions prevailed yet again.</p>
+      <ul class="gallery shortcode-gallery gallery-wide">
+          <li>
+        <div class="gallery-item-content">  
+        <div class="gallery-image"><img src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/docwhoTOP-980x654.jpg" alt=""></div>
+        <p>
+          Jodie Whittaker is back as the 13th Doctor in series 12 of <em>Doctor Who</em>.                      [credit:
+                        <a href="https://www.bbcstudios.com/">YouTube/BBC Studios</a>
+                        ]
+                  </p>
+        </div>
+      </li>
+      </ul>
+  
+
+<p>In my review of last season, I concluded, "Chibnall succeeded in making his <em>Doctor Who</em> fresh and memorable. Now I'm hoping he'll up the stakes a bit and give us more of the classic Whovian tropes we've come to know and love." For instance, last season, fan favorites like the Daleks and the Cybermen were nowhere to be found. There are still no Daleks, judging by this new trailer, but we do catch a glimpse of what looks like a Cyberman. And is that a brief shot of Racnoss, the giant arachnid/centaur-like creature featured in the 2006 episode "The Runaway Bride"?</p>
+<p>It definitely looks like Chibnall and his stable of writers are upping their game on the storytelling front. This is an exciting trailer, full of spaceship battles, black-tie hijinks, a stint in 1943 Paris under Nazi occupation, and the usual colorfully nefarious creatures threatening the universe. All in all, I have high hopes for the forthcoming season. Long may the Good Doctor travel through time.</p>
+<p><em>Doctor Who</em>'s 12th series will air in early 2020.</p>
+
+<p><a href="https://arstechnica.com/?p=1622677&comments=1">Read Comments</a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>Private equity firm buys .org domain months after ICANN lifted price caps</title>
+		<link>https://arstechnica.com/?p=1622485</link>
+		<pubDate>Sat, 23 Nov 2019 15:30:13 +0000</pubDate>
+		<dc:creator><![CDATA[Timothy B. Lee]]></dc:creator>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[.org]]></category>
+		<category><![CDATA[Ethos Capital]]></category>
+		<category><![CDATA[icann]]></category>
+		<category><![CDATA[PIR]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1622485</guid>
+		<description><![CDATA[ICANN eliminated price protections for .org domain owners earlier this year.]]></description>
+				<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/GettyImages-475311032-800x533.jpg" alt="The word DOT ORG written in vintage wooden letterpress type in a wooden type drawer."/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/GettyImages-475311032.jpg" class="enlarge-link" data-height="3368" data-width="5052">Enlarge</a> <span class="sep">/</span> The word DOT ORG written in vintage wooden letterpress type in a wooden type drawer. (credit: <a rel="nofollow" class="caption-link" href="https://www.gettyimages.com/photos/free">elinedesignservices / Getty</a>)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>The Public Internet Registry, a subsidiary of a nonprofit called the Internet Society, has managed the .org domain since 2002. Earlier this year, ICANN asked for public comment on a new contract for the organization. The most significant change was the elimination of provisions limiting price increases for .org domain owners.</p>
+<p>According to <a href="https://reviewsignal.com/blog/2019/06/24/the-case-for-regulatory-capture-at-icann/">one tally</a>, more than 3,000 parties wrote in opposing the removal of price caps. Only six comments supported the change. Yet ICANN ignored this lopsided response and <a href="https://arstechnica.com/tech-policy/2019/07/icann-eliminates-org-domain-price-caps-despite-lopsided-opposition/">approved the contract</a> in June. At the time, the PIR said that it had "no specific plans for any price changes."</p>
+<p>But earlier this month, <a href="https://www.internetsociety.org/news/press-releases/2019/ethos-capital-to-acquire-public-interest-registry-from-the-internet-society/">PIR announced</a> that its parent organization, the Internet Society, was selling PIR to the private equity firm Ethos Capital.</p>
+<p>"This transaction will provide the Internet Society with an endowment of sustainable funding and the resources to advance our mission on a broader scale as we continue our work to make the Internet more open, accessible and secure," the Internet Society said.</p>
+<p>The announcement was little noticed at the time—I only heard about it after seeing a <a href="https://www.theregister.co.uk/2019/11/20/org_registry_sale_shambles/">story in the Register</a> about the transaction. The Register story, which is worth reading in full, notes that Ethos Capital has a number of close connections to former ICANN officials.</p>
+<p>PIR insists that it "will continue to meet the highest standards of public transparency, accountability, and social performance in line with its longstanding purpose-driven mission."</p>
+<p>But notably absent from the announcement is any commitments to limit future price increases. That means there's a risk that Ethos Capital could dramatically raise prices for .org customers in the coming years.</p>
+<p>It's not clear if ICANN has any authority to block the transaction or impose additional protections for .org domain holders. It's also unclear who must approve the transaction, or when the deal will finally close. Ars has reached out to ICANN, the Internet Society, and PIR asking for comment about the possibility of price hikes and the process for completing the transaction, and we'll update this story if we receive a response.</p>
+<p><strong>Update:</strong> A spokeswoman for Ethos Capital provided the following statement on Sunday morning:</p>
+<blockquote><p>Ethos is committed to keeping .ORG accessible and reasonably priced for all, in line with PIR’s longstanding purpose-driven mission.</p>
+<p>The current price of a .ORG domain name is approximately $10. Our plan is to live within the spirit of historic practice when it comes to pricing, which means, potentially, annual price increases of up to 10 percent on average – which today would equate to approximately $1 per year.</p></blockquote>
+
+<p><a href="https://arstechnica.com/?p=1622485&comments=1">Read Comments</a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>Turn your tabletop into a real Game of Thrones with Oathbreaker game</title>
+		<link>https://arstechnica.com/?p=1622489</link>
+		<pubDate>Sat, 23 Nov 2019 13:30:31 +0000</pubDate>
+		<dc:creator><![CDATA[Ars Staff]]></dc:creator>
+				<category><![CDATA[Gaming & Culture]]></category>
+		<category><![CDATA[ars cardboard]]></category>
+		<category><![CDATA[Board games]]></category>
+		<category><![CDATA[Game of Thrones]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1622489</guid>
+		<description><![CDATA[Review: <em>Oathbreaker</em> has a pasted-on theme and needs more "game."]]></description>
+				<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/BoxContents_Spot-800x507.png" alt="Turn your tabletop into a real Game of Thrones with Oathbreaker game"/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/BoxContents_Spot.png" class="enlarge-link" data-height="755" data-width="1192">Enlarge</a> </p>  </figure>
+
+
+
+
+      <p><em>Welcome to Ars Cardboard, our weekend look at tabletop games! Check out our complete board gaming coverage at <a href="http://cardboard.arstechnica.com/">cardboard.arstechnica.com</a>.</em></p>
+    
+
+<div><a name='page-1'></a></div>
+<p><i>Game of Thrones: Oathbreaker</i> is the newest game to bring the popular HBO series (and the endless George R.R. Martin book series) to tabletop, this time in a social deduction format. We already have a <i>Game of Thrones “</i>dudes-on-a-map” game, a deckbuilder, a hand-management bluffing game, and a very light set collection game, but nothing else in this lineage really gets into the social-deduction space popularized by titles like <i>Coup</i> or <i>Deception: Murder in Hong Kong</i>.</p>
+<p>While <a href="https://amzn.to/35xHaX1" target="_blank" rel="noopener"><i>Game of Thrones: Oathbreaker</i></a> seems to start in the right place with its setup of loyalists vs. conspirators, the game lacks balance. It’s just too easy for the conspirator team (which starts with a large advantage anyway) to win. The king must play a nearly perfect game to take the crown.</p>
+<h2 class="Body">Find the traitor</h2>
+<div class="image shortcode-img right medium"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/Box_Reflect_Spot.png"><img src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/Box_Reflect_Spot-300x419.png" srcset="https://cdn.arstechnica.net/wp-content/uploads/2019/11/Box_Reflect_Spot.png 2x"></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/Box_Reflect_Spot.png"class="caption-link" rel="nofollow"></a> </p></div>
+<p>In <i>Oathbreaker</i>, one player takes the role of the king; everyone else plays nobles with hidden identities (either loyalist or conspirator) that the king must guess. Players may benefit from guessing which other players are on the same side as they are, but it’s not necessary to win the game.</p>
+<p><i>Oathbreaker</i> requires a minimum of five players; with eight, two players are known as the king and queen, and they split responsibilities by each dealing with three of the six nobles. Players try to push their side to victory by scoring points. They also try to achieve their individual objectives (which are hidden from other players), where they have to end the game with certain cubes representing honor or power. The loyalists’ side is called Order and is represented by a white token on the scoring track, while the conspirators’ side is called Chaos and is represented by a black token.</p>
+<p>The game plays over a series of rounds that alternate between mission cards, where the nobles will try to complete or to sabotage, and decrees, where the king will play two cards to all nobles or to specific ones.</p>
+
+<p>In each round where mission cards are played, the king turns over two or three such cards. The nobles then go around the table and play at least two of their influence cards to the missions, and then they place their sigil token on the mission where they played the most cards. Mission cards have one of three symbols—crown, raven, or swords—and carry instructions for how much to move the Order or Chaos tokens if the mission succeeds or fails. They also give rewards for players who place their sigil tokens on those missions.</p>
+<p>After all nobles have played cards to the missions, the king collects the cards from each mission, shuffles them, and reveals them. These influence cards can have crown, raven, sword, or skull symbols, or some combination of those. If there are more symbols on these cards matching the symbol on the mission card than there are skulls, the mission succeeds. The Order token moves up, and any player with a sigil on the card gains any cube rewards shown on the success side. If there are more skulls than matching symbols, or if the two sides are equal, the mission fails. The Chaos token moves up, and for some cards the failure rewards go to players who had sigil tokens on that mission.</p>
+<p>The king doesn’t know who played which cards to each mission, only whether a noble played any cards to a mission and how many. But one of the king’s main tasks throughout the game is to try to figure out which nobles are loyalists and which are conspirators. The king gets to “bet” on certain nobles during the decree phases by playing Loyalist and Conspirator cards directly to nobles, which will score at game end, advancing the Order token if the King guessed correctly while advancing the Chaos token if the king guessed incorrectly.</p>
+<p>The game alternates between mission phases and decree phases until the round token reaches the end of its track, at which point the one loyalist/conspirator card that was set aside at the start of the game is revealed, moving up the Order or Chaos token accordingly. The king then guesses what side each of the nobles was on, guessing all nobles before any reveals their loyalty. The nobles then reveal their loyalty cards one by one, moving up the Order token (if decree cards played to them match their loyalty) or the Chaos token (if the decree cards didn’t match). If the king got all nobles’ loyalties correct, the Order token moves up three spaces; if even one is wrong, the Chaos token moves up.</p>
+<div><a name='page-2'></a></div>
+<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/OathbreakerTyrion.png"><img alt='One of the character cards.'  src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/OathbreakerTyrion-640x279.png" srcset="https://cdn.arstechnica.net/wp-content/uploads/2019/11/OathbreakerTyrion.png 2x" alt='One of the character cards.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/OathbreakerTyrion.png"class="caption-link" rel="nofollow">One of the character cards.</a> </p></div>
+<p>You may have figured out by now that it’s quite hard for the king’s side (Order) to win; the deck is literally and figuratively stacked against Order. Far more missions fail than succeed. There can be an equal number of loyalists and conspirators, or one more conspirator than loyalists, but there can’t ever be more loyalists.</p>
+<p>The card deck has 75 cards: 20 cards have only skulls (1 to 3); 10 cards show crowns, ravens, or swords; 10 cards display all of the mission symbols (not skulls); while 15 cards show one mission symbol and one skull. Each noble gets just three cards at a time. In a turn where two or three mission cards have the same symbol, the odds of a noble having only skulls and/or cards that aren't useful for those missions are high—about 29 percent for a single noble in any hand of three cards from the full deck of 75. The odds of having two of three cards that fail to match the desired mission symbol are 44 percent. For a loyalist noble, therefore, the odds that you’ll lack the cards needed to help the king’s missions succeed are way too high. Since missions fail so easily (you need more matching symbols than skulls), this creates a game-wide imbalance in favor of the conspirators.</p>
+<p>There’s the seed of a better game in here somewhere, but ultimately <i>Oathbreaker</i> just doesn't give the king and his loyalists a fair chance. The deck and the scoring both skew towards the conspirators. There also isn't enough information for the king to figure out who’s on what side, or for the nobles to figure out each other’s identities beyond making mildly informed guesses. This reduces the social deduction aspects that could make the game more fun.</p>
+<p>On top of all that, the <i>Game of Thrones</i> content itself is not well-integrated into the game. Each player has a character to play from the books/series, but this character is not related to the player’s powers, has no bearing on whether they’re a loyalist or a conspirator, and doesn’t determine anything about how the player acts or what they can do. There are <i>Game of Thrones</i> games that do incorporate the content better, like the <i>Game of Thrones Card Game</i> from Fantasy Flight, but <i>Oathbreaker</i> feels a bit more like the IP from HBO was slapped on an unrelated game.</p>
+<p>Dire Wolf has done some great work in the digital space, such as their app versions of <i>Lanterns</i> and <i>Raiders of the North Sea</i> (and the forthcoming <i>Yellow &amp; Yangtze</i>), but their original tabletop games have fallen sadly short. Include <em>Oathbreaker </em>in that assessment.</p>
+
+<p><a href="https://arstechnica.com/?p=1622489&comments=1">Read Comments</a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>Suspect can’t be compelled to reveal “64-character” password, court rules</title>
+		<link>https://arstechnica.com/?p=1622515</link>
+		<pubDate>Sat, 23 Nov 2019 12:45:35 +0000</pubDate>
+		<dc:creator><![CDATA[Dan Goodin]]></dc:creator>
+				<category><![CDATA[Biz & IT]]></category>
+		<category><![CDATA[Policy]]></category>
+		<category><![CDATA[Fifth Amendment]]></category>
+		<category><![CDATA[passwords]]></category>
+		<category><![CDATA[us constitution]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1622515</guid>
+		<description><![CDATA[Prosecutors say forced disclosure permitted by “foregone conclusion.” Justices disagree.]]></description>
+				<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/01/GettyImages-78767364-800x533.jpg" alt="Suspect can’t be compelled to reveal “64-character” password, court rules"/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/01/GettyImages-78767364.jpg" class="enlarge-link" data-height="1414" data-width="2121">Enlarge</a> (credit: Getty Images)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>The Fifth Amendment to the US Constitution bars people from being forced to turn over personal passwords to police, the Pennsylvania Supreme Court ruled this week.</p>
+<p>In a 4-3 ruling, justices from Pennsylvania’s highest court overturned a lower-court order that required the suspect in a child-pornography case to turn over a 64-character password to his computer. The lower-court ruling had held that the compelled disclosure didn’t violate the defendant’s Fifth Amendment rights because of statements he made to police during questioning.</p>
+<p>“It’s 64 characters and why would I give that to you,” Joseph J. Davis of Pennsylvania’s Luzerne County told investigators in response to their request for his password. “We both know what’s on there. It’s only going to hurt me. No fucking way I’m going to give it to you.”</p>
+<h2>A foregone conclusion</h2>
+<p>Prosecutors in the case said a legal doctrine known as the “foregone conclusion exception” permitted the compelled disclosure of Davis’ password. The doctrine, which originally applied to the compelled production of paper documents, said Fifth Amendment protections against self-incrimination don’t apply when the government already knew of the existence, location, and content of the sought-after material.</p>
+<p>In requiring Davis to turn over his password to investigators, the lower-court agreed with prosecutors that the password demand fell under the foregone conclusion exemption. The lower court said the exception applied because, under previous US Supreme Court precedent, the password was tantamount to a key or other tangible property and didn’t reveal the “contents” of the defendant’s mind.</p>
+<p>The majority for the Pennsylvania Supreme Court disagreed. Writing for the majority in a <a href="http://www.pacourts.us/assets/opinions/Supreme/out/J-42-2019mo%20-%2010422940787775633.pdf?cb=1">ruling handed down on Wednesday</a>, Justice Debra Todd wrote:</p>
+<blockquote><p>Based upon these cases rendered by the United States Supreme Court regarding the scope of the Fifth Amendment, we conclude that compelling the disclosure of a password to a computer, that is, the act of production, is testimonial. Distilled to its essence, the revealing of a computer password is a verbal communication, not merely a physical act that would be nontestimonial in nature. There is no physical manifestation of a password, unlike a handwriting sample, blood draw, or a voice exemplar. As a passcode is necessarily memorized, one cannot reveal a passcode without revealing the contents of one’s mind. Indeed, a password to a computer is, by its nature, intentionally personalized and so unique as to accomplish its intended purpose―keeping information contained therein confidential and insulated from discovery. Here, under United States Supreme Court precedent, we find that the Commonwealth is seeking the electronic equivalent to a combination to a wall safe—the passcode to unlock Appellant’s computer. The Commonwealth is seeking the password, not as an end, but as a pathway to the files being withheld. As such, the compelled production of the computer’s password demands the recall of the contents of Appellant’s mind, and the act of production carries with it the implied factual assertions that will be used to incriminate him. Thus, we hold that compelling Appellant to reveal a password to a computer is testimonial in nature.</p></blockquote>
+<div><a name='page-2'></a></div>
+<h2>Heavy lifting</h2>
+<p>Referring to the commonwealth of Pennsylvania, Justice Todd went on to say:</p>
+<blockquote><p>We acknowledge that, at times, constitutional privileges are an impediment to the Commonwealth. Requiring the Commonwealth to do the heavy lifting, indeed, to shoulder the entire load, in building and bringing a criminal case without a defendant’s assistance may be inconvenient and even difficult; yet, to apply the foregone conclusion rationale in these circumstances would allow the exception to swallow the constitutional privilege. Nevertheless, this constitutional right is firmly grounded in the “realization that the privilege, while sometimes ‘a shelter to the guilty,’ is often ‘a protection to the innocent.’” Moreover, there are serious questions about applying the foregone conclusion exception to information that manifests through the usage of one’s mind.</p></blockquote>
+<p>Wednesday’s ruling is a big victory for digital rights advocates such as the Electronic Frontier Foundation, which filed a friend of the court brief in the case. The EFF argued that the forgone conclusion exemption applied only when defendants are forced to comply with a subpoena for business records and when turning over the documents doesn’t reveal the contents of the defendant’s mind.</p>
+<p>"This ruling is vital because courts must account for how constitutional rights are affected by changes in technology," EFF Senior Staff Attorney Andrew Crocker <a href="https://www.eff.org/deeplinks/2019/11/victory-pennsylvania-supreme-court-rules-police-cant-force-you-tell-them-your">wrote</a>. "We store a wealth of deeply personal information on our electronic devices. The government simply should not put individuals in the no-win situation of choosing between disclosing a password—and turning over everything on these devices—or instead defying a court order to do so."</p>
+<p>Wednesday’s decision is only the latest of many court rulings on whether compelled password disclosure is a form of self-testimony that’s barred by the Fifth Amendment. Over the years, other courts have <a href="https://arstechnica.com/tech-policy/2018/10/court-teens-driving-killed-someone-but-he-cant-be-forced-to-give-up-passcode/">arrived</a> at <a href="https://arstechnica.com/tech-policy/2015/09/forcing-suspects-to-reveal-phone-passwords-is-unconstitutional-court-says/">similar</a> opinions. Other court decisions, such as <a href="https://arstechnica.com/tech-policy/2012/01/judge-fifth-amendment-doesnt-protect-encrypted-hard-drives/">this one</a> and <a href="https://arstechnica.com/tech-policy/2017/09/judge-wont-release-man-jailed-2-years-for-refusing-to-decrypt-drives/">this one,</a> suggest that depending on the facts of a case or other factors, the Fifth Amendment isn't an iron-clad protection against compelled password disclosure. Currently, Supreme Courts in both <a href="https://www.in.gov/judiciary/files/order-other-2019-18S-CR-595.pdf">Indiana</a> and <a href="https://law.justia.com/cases/new-jersey/appellate-division-published/2018/a0291-17.html">New Jersey</a> have similar cases before them.</p>
+
+<p><a href="https://arstechnica.com/?p=1622515&comments=1">Read Comments</a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>A notorious Iranian hacking crew is targeting industrial control systems</title>
+		<link>https://arstechnica.com/?p=1622509</link>
+		<pubDate>Sat, 23 Nov 2019 12:15:02 +0000</pubDate>
+		<dc:creator><![CDATA[WIRED]]></dc:creator>
+				<category><![CDATA[Biz & IT]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1622509</guid>
+		<description><![CDATA[Iran’s APT33 may be exploring cyberattacks on critical infrastructure.
+]]></description>
+				<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/05/GettyImages-843466180-800x526.png" alt="Artist's impression of a malicious hacker coding up a BlueKeep-based exploit."/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/05/GettyImages-843466180.png" class="enlarge-link" data-height="1404" data-width="2135">Enlarge</a> <span class="sep">/</span> Artist's impression of a malicious hacker coding up a BlueKeep-based exploit. (credit: <a rel="nofollow" class="caption-link" href="https://www.gettyimages.com/search/photographer?photographer=bill%20hinton&amp;mediatype=photography&amp;phrase=bill%20hinton&amp;recency=anydate&amp;sort=mostpopular&amp;license=rf,rm&amp;page=1&amp;suppressfamilycorrection=true">Getty Images / Bill Hinton</a>)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>Iranian hackers have carried out some of the most disruptive acts of digital sabotage of the last decade, wiping entire computer networks in waves of cyberattacks across the Middle East and <a href="https://www.bloomberg.com/news/articles/2014-12-11/iranian-hackers-hit-sheldon-adelsons-sands-casino-in-las-vegas">occasionally even the US</a>. But now one of Iran's most active hacker groups appears to have shifted focus. Rather than just standard IT networks, they're targeting the physical control systems used in electric utilities, manufacturing, and oil refineries.</p>
+<p>At the CyberwarCon conference in Arlington, Virginia, on Thursday, Microsoft security researcher Ned Moran plans to present new findings from the company's threat intelligence group that show a shift in the activity of the Iranian hacker group APT33, also known by the names Holmium, Refined Kitten, or Elfin. Microsoft has watched the group carry out so-called password-spraying attacks over the past year that try just a few common passwords across user accounts at tens of thousands of organizations. That's generally considered a crude and indiscriminate form of hacking. But over the last two months, Microsoft says APT33 has significantly narrowed its password spraying to around 2,000 organizations per month, while increasing the number of accounts targeted at each of those organizations almost tenfold on average.</p>
+<p>Microsoft ranked those targets by the number of accounts hackers tried to crack; Moran says about half of the top 25 were manufacturers, suppliers, or maintainers of industrial control system equipment. In total, Microsoft says it has seen APT33 target dozens of those industrial equipment and software firms since mid-October.</p>
+<p><div class="image shortcode-img right full"><img src="https://cdn.arstechnica.net/wp-content/uploads/2019/02/wired-logo.png"></div>The hackers' motivation—and which industrial control systems they've actually breached—remains unclear. Moran speculates that the group is seeking to gain a foothold to carry out cyberattacks with physically disruptive effects. "They're going after these producers and manufacturers of control systems, but I don’t think they’re the end targets," says Moran. "They‘re trying to find the downstream customer, to find out how they work and who uses them. They’re looking to inflict some pain on someone’s critical infrastructure that makes use of these control systems."</p>
+<p>The shift represents a disturbing move from APT33 in particular, given its history. Though Moran says Microsoft hasn't seen direct evidence of APT33 carrying out a disruptive cyberattack rather than mere espionage or reconnaissance, it has seen incidents where the group has at least laid the groundwork for those attacks. The group's fingerprints have shown up in multiple intrusions where victims were later hit with a piece of data-wiping malware known as Shamoon, Moran says. McAfee last year warned that APT33—or a group pretending to be APT33, it hedged—was <a href="https://www.mcafee.com/blogs/other-blogs/other-blogs/mcafee-labs/shamoon-attackers-employ-new-tool-kit-to-wipe-infected-systems/">deploying a new version of Shamoon in a series of data-destroying attacks</a>. Threat intelligence firm FireEye has warned since 2017 that <a href="https://www.wired.com/story/iran-hackers-apt33/">APT33 had links to another piece of destructive code known as Shapeshifter</a>.</p>
+<p>Moran declined to name any of the specific industrial control system, or ICS, companies or products targeted by the APT33 hackers. But he warns that the group's targeting of those control systems suggests that Iran may be seeking to move beyond merely wiping computers in its cyberattacks. It may hope to influence physical infrastructure. Those attacks are rare in the history of state-sponsored hacking but disturbing in their effects; in 2009 and 2010 the US and Israel jointly launched a <a href="https://www.wired.com/2014/11/countdown-to-zero-day-stuxnet/">piece of code known as Stuxnet</a>, for instance, that destroyed Iranian nuclear enrichment centrifuges. In December 2016, Russia used a piece of malware known as Industroyer or Crash Override to <a href="https://www.wired.com/story/crash-override-malware/">briefly cause a blackout in the Ukrainian capital of Kyiv</a>. And hackers of unknown nationality <a href="https://www.wired.com/story/triton-malware-targets-industrial-safety-systems-in-the-middle-east/">deployed a piece of malware known as Triton or Trisis</a> in a Saudi Arabian oil refinery in 2017 designed to disable safety systems. Some of those attacks—particularly Triton—had the potential to inflict physical mayhem that threatened the safety of personnel inside the targeted facilities.</p>
+<p>Iran has never been publicly tied to one of those ICS attacks. But the new targeting Microsoft has seen suggests it may be working to develop those capabilities. "Given their previous modus operandi of destructive attacks, it stands to reason that they’re going after ICS," says Moran.</p>
+<p>But Adam Meyers, vice president for intelligence at security firm Crowdstrike, cautions against reading too much into APT33's newfound focus. They could just as easily be focused on espionage. "Targeting ICS could be a means to conduct a disruptive or destructive attack, or it could be an easy way to get into lots of energy companies, because energy companies rely on those technologies," Meyers says. "They’re more likely to open an email from them or install software from them."</p>
+<p>The potential escalation comes during a tense moment in Iranian-US relations. In June, the US accused Iran of using limpet mines to blow holes in two oil tankers in the Strait of Hormuz, as well as <a href="https://www.wired.com/story/iran-global-hawk-drone-surveillance/">shooting down a US drone</a>. Then in September, Iran-back Houthi rebels carried out a drone strike against Saudi oil facilities that temporarily cut the country's oil production in half.</p>
+<p>Moran notes that Iran's June attacks were <a href="https://news.yahoo.com/iranian-hackers-wage-cyber-campaign-124644081.html">reportedly answered in part with a US Cyber Command attack </a>on Iranian intelligence infrastructure. In fact, Microsoft saw APT33's password-spraying activity fall from tens of millions of hacking attempts per day to zero on the afternoon of June 20, suggesting that APT33's infrastructure may have been hit. But Moran says that the password spraying returned to its usual levels about a week later.</p>
+<p>Moran compares Iran's disruptive cyberattacks to the acts of physical sabotage the US has accused Iran of carrying out. Both destabilize and intimidate regional adversaries—and the former will do so even more if their hackers can graduate from mere digital effects to physical ones.</p>
+<p>"They’re trying to deliver messages to their adversaries and trying to compel and change their adversaries' behavior," Moran says. "When you see a drone attack on an extraction facility in Saudi Arabia, when you see tankers being destroyed ... My gut says they want to do the same thing in cyber."</p>
+<p><em>This story originally appeared on <a href="https://www.wired.com/story/iran-apt33-industrial-control-systems/">wired.com</a>.</em></p>
+
+<p><a href="https://arstechnica.com/?p=1622509&comments=1">Read Comments</a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>Here’s what to expect for US winter weather after a cool October</title>
+		<link>https://arstechnica.com/?p=1622495</link>
+		<pubDate>Fri, 22 Nov 2019 22:36:07 +0000</pubDate>
+		<dc:creator><![CDATA[Scott K. Johnson]]></dc:creator>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[ENSO]]></category>
+		<category><![CDATA[NOAA]]></category>
+		<category><![CDATA[Weather]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1622495</guid>
+		<description><![CDATA[NOAA’s monthly update covers a wild October and the winter outlook.]]></description>
+				<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/kincadefire_viirs_2019302_lrg-800x577.jpg" alt="The Kincade Fire burns north of California's Bay Area on October 29."/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/kincadefire_viirs_2019302_lrg.jpg" class="enlarge-link" data-height="4314" data-width="5977">Enlarge</a> <span class="sep">/</span> The Kincade Fire burns north of California's Bay Area on October 29. (credit: <a rel="nofollow" class="caption-link" href="https://earthobservatory.nasa.gov/images/145805/kincade-fire-grows-overnight">NASA EO</a>)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>Each month, the US National Oceanic and Atmospheric Administration (NOAA) puts out <a href="https://www.ncdc.noaa.gov/sotc/briefings/20191121.pdf">an analysis</a> of the previous month’s weather after the final tally. The most recent update covers an odd October <a href="https://www.ncdc.noaa.gov/sotc/national/201910">for the US</a>, where the month included some terrifying wildfire conditions in California. This latest analysis also provides the long-range outlook for the winter months.</p>
+<p>October provides another good reminder to Americans that their country is not the entire planet. Courtesy of the jet stream doing its thing, the western US experienced notably cool temperatures for much of the month. A dozen states had Octobers that ranked somewhere around the 8<sup>th </sup>coldest on record. Despite warmer temperatures along the East Coast, it was ranked as the 21<sup>st</sup> coldest for the nation.</p>
+
+<p>Looking <em><a href="https://www.ncdc.noaa.gov/sotc/global/201910">globally</a></em>, however, the western US was an outlier. Overall, it was the 2<sup>nd</sup> warmest October on record, behind only 2015. And with most of 2019 behind us, the final number for the year is crystallizing. NOAA puts the odds of 2019 being among the five warmest years on record at more than 99.9%. (So they’re saying there’s a chance.) More specifically, there’s now about an 85% probability of coming in second behind 2016—exactly the prediction we <a href="https://arstechnica.com/science/2019/02/2018-ranks-as-fourth-warmest-year-for-globe/">shared in early February</a>.</p>
+<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/noaa_201910_world.png"><img src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/noaa_201910_world-640x495.png" srcset="https://cdn.arstechnica.net/wp-content/uploads/2019/11/noaa_201910_world.png 2x"></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/noaa_201910_world.png"class="caption-link" rel="nofollow"></a> (credit: <a rel="nofollow" class="caption-link" href="https://www.ncdc.noaa.gov/sotc/global/201910">NOAA</a>)</p></div>
+<p>Of course, October also saw a number of fires in California, and the state was in near-constant warnings of dangerous fire conditions, which were accompanied by massive (imposed) power outages and evacuations. We saw a repeat of the ugly combination of weather that led to deadly fires in recent years—a late arrival of the rainy season and strong Santa Ana and Diablo wind events.</p>
+
+<p>Many areas hit record measures for vegetation dryness, including the nearly 78,000 acres that burned in the <a href="https://en.wikipedia.org/wiki/Kincade_Fire">Kincade Fire</a> north of the Bay Area. And as high air pressure formed over the interior of the West, the ingredients were there for fast, dry, warm winds racing downslope over California mountains and toward the sea, stoking wildfires like bellows.</p>
+<p>California wasn’t the only place feeling dry, as drought conditions extended across the Southwest, and only enough rain fell to barely help with drought in southern Texas. But again, the eastern half of the country was very different, with a great deal of precipitation lifting last month to the 8<sup>th</sup> wettest October on record for the nation as a whole.</p>
+<div><a name='page-2'></a></div>
+<h2>ENSO on the fence-o</h2>
+<p>The remainder of NOAA’s update relates to what’s going on in the Pacific Ocean. There, a constant oscillation between El Niño and La Niña conditions—an eastward sloshing of warm water versus a westward blowing of colder deep water, respectively—has implications for weather patterns around the world. Because this “<a href="https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation">El Niño Southern Oscillation,</a>” or ENSO, changes slowly, it can be forecast out about six months.</p>
+<p>That’s the basis for NOAA’s seasonal outlooks. These aren’t forecasts in the sense of the five-day predictions you rely on every day but instead show where the odds are tilted in favor of wetter-than-average or warmer-than-average conditions overall. That doesn’t mean there won’t be varying weather events, but it gives you an idea of the big-picture patterns.</p>
+<p>Neutral conditions in between El Niño and La Niña are expected to continue for the next few months. Combining that knowledge with the other patterns of ocean surface temperatures currently in place, NOAA’s winter outlook for December, January, and February shows how things are shaping up across the US.</p>
+<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/noaa_enso_outlook_nov2019.png"><img alt='A winter outlook weather outlook. Colors indicate probabilities of above/below average temperatures and precipitation for the season.'  src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/noaa_enso_outlook_nov2019-640x373.png" srcset="https://cdn.arstechnica.net/wp-content/uploads/2019/11/noaa_enso_outlook_nov2019-1280x745.png 2x" alt='A winter outlook weather outlook. Colors indicate probabilities of above/below average temperatures and precipitation for the season.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/noaa_enso_outlook_nov2019.png"class="caption-link" rel="nofollow">A winter outlook weather outlook. Colors indicate probabilities of above/below average temperatures and precipitation for the season.</a> (credit: <a rel="nofollow" class="caption-link" href="https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml">NOAA</a>)</p></div>
+<p>Much of the country is leaning toward warmer winter weather. But particularly as the season progresses, the Great Lakes region looks like it will shift from average temperatures to leaning cooler. As for precipitation, it’s more likely to be a drier-than-average winter in much of California and parts of the Gulf Coast, with the odds favoring wetter weather across the northern half of the country as well as Alaska.</p>
+<p>That means the drought outlook carries little good news for California and Texas, but this analysis is somewhat hopeful for the Arizona/Colorado region and dry patches in the Southeast.</p>
+
+<p><a href="https://arstechnica.com/?p=1622495&comments=1">Read Comments</a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>Google bans microtargeting and “false claims” in political ads</title>
+		<link>https://arstechnica.com/?p=1622315</link>
+		<pubDate>Fri, 22 Nov 2019 20:22:57 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Cox]]></dc:creator>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[political ads]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1622315</guid>
+		<description><![CDATA[Google's new policy, like Twitter's, is a shot across Facebook's bow.]]></description>
+				<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/05/getty-googleplex-office-1-800x533.jpg" alt="A large Google sign seen on a window of Google's headquarters."/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/05/getty-googleplex-office-1.jpg" class="enlarge-link" data-height="1414" data-width="2121">Enlarge</a> <span class="sep">/</span> Exterior view of a Googleplex building, the corporate headquarters of Google and parent company Alphabet, May 2018. (credit: <a rel="nofollow" class="caption-link" href="https://www.gettyimages.com/">Getty Images | zphotos</a>)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>The country's largest digital advertising platform is trying to take a stand heading into the 2020 election this week, as it both limits the targeting of political ads and warns would-be political advertisers about making false claims.</p>
+<p>On Wednesday, Google made <a href="https://blog.google/technology/ads/update-our-political-ads-policy">an announcement</a> "clarifying" its advertising policy for political ads, making it clear that outright lies are theoretically not welcome. "Whether you’re running for office or selling office furniture, we apply the same ads policies to everyone; there are no carve-outs," the company said, adding:</p>
+<blockquote><p>It’s against our policies for any advertiser to make a false claim—whether it's a claim about the price of a chair or a claim that you can vote by text message, that election day is postponed, or that a candidate has died.</p>
+<p>To make this more explicit, we’re clarifying our ads policies and adding examples to show how our policies prohibit things like “deep fakes” (doctored and manipulated media), misleading claims about the census process, and ads or destinations making demonstrably false claims that could significantly undermine participation or trust in an electoral or democratic process.</p></blockquote>
+<p>That said, the company adds, they can't judge "every political claim, counterclaim, and insinuation," so they expect the number of ads they block to be low. </p>
+<p>Those ads will also have to be aimed at a comparatively broad segment of the population, Google said, to the <a href="https://www.nytimes.com/2019/11/20/technology/google-political-ads-targeting.html">dismay</a> of campaigns on both the left and the right. While the company will allow political ads to be targeted to users based on age, gender, and postal code, it will not allow more narrow "microtargeting" to highly segmented, granular audiences such as those based on public voter records or political affiliation.</p>
+<h2>Back to you, Facebook</h2>
+<p>Google's statement feels like a direct swipe at Facebook's now-infamous policy, which <a href="https://arstechnica.com/tech-policy/2019/10/political-ads-can-lie-if-they-want-facebook-confirms/">exempts</a> politicians and political advertising from the platform's "community standards" and fact-checking processes.</p>
+<p>Google is far and away the largest digital advertising platform, accounting for <a href="https://finance.yahoo.com/news/amazon-could-disrupt-google-and-facebooks-ad-dominance-105129301.html">more than 37%</a> of all US digital advertising spending in a given year. Facebook, however, comes in at second place, taking in about 22% of US digital advertising spending. </p>
+<p>Facebook and its CEO Mark Zuckerberg have repeatedly defended the company's choice to exempt political advertising from standards. "I think if you're gonna lie, that would be bad," Zuckerberg offered <a href="https://arstechnica.com/tech-policy/2019/10/zuckerberg-faces-heat-in-congress-its-almost-like-you-think-this-is-a-joke/">during congressional questioning</a> last month. "I believe that people should be able to see for themselves what politicians that they may or may not vote down are saying."</p>
+<p>Twitter went a step farther than either Facebook or Google, saying last month it would <a href="https://arstechnica.com/tech-policy/2019/10/twitter-blocking-all-political-ads-globally-starting-in-november/">ban all political ads globally</a>. That <a href="https://business.twitter.com/en/help/ads-policies/prohibited-content-policies/political-content.html">policy</a>, which has a certification process for <a href="https://business.twitter.com/en/help/ads-policies/restricted-content-policies/political-content/political-campaigning-advertising-policy-FAQs.html">some issue ads</a>, went into effect today.</p>
+<p>Twitter CEO Jack Dorsey <em>did</em> take an obvious swipe at Facebook when announcing the company's policy, saying in a tweet, "It's not credible for us to say: 'We're working hard to stop people from gaming our systems to spread misleading info, buuut if someone pays us to target and force people to see their political ad... well...they can say whatever they want!'"</p>
+
+<p><a href="https://arstechnica.com/?p=1622315&comments=1">Read Comments</a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>FCC finalizes ban on Huawei and ZTE equipment in Universal Service Fund</title>
+		<link>https://arstechnica.com/?p=1622459</link>
+		<pubDate>Fri, 22 Nov 2019 19:48:52 +0000</pubDate>
+		<dc:creator><![CDATA[Jon Brodkin]]></dc:creator>
+				<category><![CDATA[Biz & IT]]></category>
+		<category><![CDATA[Policy]]></category>
+		<category><![CDATA[FCC]]></category>
+		<category><![CDATA[Huawei]]></category>
+		<category><![CDATA[ZTE]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1622459</guid>
+		<description><![CDATA[New purchases banned, and ISPs may have to rip out existing Huawei and ZTE gear.]]></description>
+				<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/05/huawei-800x533.jpg" alt="Giant Huawei logo onstage."/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/05/huawei.jpg" class="enlarge-link" data-height="2000" data-width="3000">Enlarge</a> (credit: <a rel="nofollow" class="caption-link" href="https://www.huawei.com/us/press-events/gallery#gallery-40">Huawei</a>)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>The Federal Communications Commission today <a href="https://www.fcc.gov/document/fcc-bars-subsidies-equipment-posing-national-security-threats">voted</a> unanimously to ban Huawei and ZTE equipment in projects paid for by the FCC's Universal Service Fund (USF).</p>
+<p>The <a href="https://arstechnica.com/tech-policy/2019/10/fcc-will-ban-huawei-and-zte-equipment-in-us-funded-telecom-projects/">ban</a> initially affects future projects paid for by the USF and the use of federal funding to maintain existing equipment. But the FCC is also taking public comment on another plan to require removal of Huawei and ZTE equipment from networks that have already been built. The FCC order establishes a process for identifying other companies whose equipment should be subject to the same ban, too.</p>
+<p>Huawei and ZTE are the first ban targets because they "have close ties to China's Communist government and military apparatus," FCC Chairman Ajit Pai said. "Both companies are subject to Chinese laws broadly obligating them to cooperate with any request from the country's intelligence services and to keep those requests secret. Both companies have engaged in conduct like intellectual property theft, bribery, and corruption."</p>
+<p>Pai warned that "hidden 'backdoors' to our networks in routers, switches, and other network equipment can allow a hostile adversary to inject viruses and other malware, steal Americans' private data, spy on US companies, and more."</p>
+<p>The Huawei/ZTE ban will take effect immediately after the FCC order is published in the Federal Register.</p>
+<p>The Universal Service Fund distributes $8.5 billion a year and is paid for by Americans through fees on their phone bills. The program includes the Connect America Fund, which gives ISPs money to deploy broadband in rural areas; Lifeline, which provides discounts on phone and broadband service to low-income consumers; the E-Rate broadband program for schools and libraries; and a telecom access program for rural health-care providers.</p>
+<p>If the FCC eventually requires ripping out existing Huawei and ZTE equipment, it's not clear how much money the government would contribute toward that process. The FCC said it is "seek[ing] comment on how to pay for such removal and replacement."</p>
+<h2>Problems for small ISPs</h2>
+<p>All five members of the Republican-majority commission approved the order, but Democrat Jessica Rosenworcel said she worries that the Trump administration will undermine its effectiveness. She said:</p>
+<blockquote><p>When the United States government pursues action against Huawei or ZTE, its objective should be security. But in Washington right now, I fear these issues can easily get swept up into broader trade matters. Despite our actions today, we have to grapple with the fact that at any moment the administration could trade away our security objectives for some momentary advantage in bilateral trade negotiations. I hope that does not occur, but let's be honest, it has happened before, when this administration reversed course on banning ZTE from doing business in the United States. If it happens again, it will have serious consequences for our credibility.</p></blockquote>
+<p>Democrat Geoffrey Starks said that rural wireless Internet providers make heavy use of Huawei and ZTE equipment and that they will need significant help from the government to replace it. "These carriers are made up of hard-working men and women that serve hard-to-reach communities that the major carriers can't or won't serve, operating with small teams and tight budgets," Starks said.</p>
+<p>Republican Michael O'Rielly discussed another potential problem for small carriers, who will not be allowed to use federal funding to maintain existing Huawei and ZTE equipment.</p>
+<p>"Our decision to prohibit the use of USF funds to maintain, modify, or support covered equipment in any way may result in some providers having to replace equipment earlier than scheduled when minor changes or repairs need to be made," O'Rielly said. "Unfortunately, these costs will mostly affect the nation's smaller providers, which are more likely to have covered equipment and may be relying on USF dollars to remain viable."</p>
+<p>As part of its evaluation of how to replace existing equipment, Pai said the FCC is requiring carriers to "submit information on their use of equipment from Huawei and ZTE as well as the potential costs associated with removal and replacement of such equipment."</p>
+
+<p><a href="https://arstechnica.com/?p=1622459&comments=1">Read Comments</a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>The Librem 5 has been “shipping” for a month—but not to backers</title>
+		<link>https://arstechnica.com/?p=1622273</link>
+		<pubDate>Fri, 22 Nov 2019 18:31:07 +0000</pubDate>
+		<dc:creator><![CDATA[Jim Salter]]></dc:creator>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[smartphone]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1622273</guid>
+		<description><![CDATA[Backers were largely patient with earlier project delays—but concern is rising.]]></description>
+				<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/librem5-aspen-factory-2-800x533.jpg" alt="Frustrations mount with Librem 5 backers, as pictures and videos arrive—but the actual phones remain elusive."/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/librem5-aspen-factory-2.jpg" class="enlarge-link" data-height="1094" data-width="1642">Enlarge</a> <span class="sep">/</span> Frustrations mount with Librem 5 backers, as pictures and videos arrive—but the actual phones remain elusive. (credit: Purism)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>Purism <a href="https://arstechnica.com/gadgets/2019/09/purisms-librem-5-phone-starts-shipping-a-fully-open-gnulinux-phone/">announced</a> that shipping of its Librem 5 open source smartphone began in late September. Two months later, nobody outside the company has a Librem 5, and people are getting restless.</p>
+<p>The Librem 5 is a crowdfunded project—and an ambitious one—so it wasn't much surprise or cause for concern when it missed its <a href="https://www.omgubuntu.co.uk/2017/10/purism-librem-5-crowdfunding-ends-raised-2-million">original</a> January 2019 delivery target—or the April 2019 target <a href="https://puri.sm/posts/librem5-2018-09-hardware-report/">set</a> after January slipped. Both date changes were announced well ahead of time, and the company continued to post progress reports, commit code <a href="https://gitlab.gnome.org/Community/Purism/gnome-control-center/commits/GNOME_CONTROL_CENTER_3_18_0">upstream</a>, and assure backers of its commitment to transparency. (Full disclosure: I am a Librem 5 backer myself and am scheduled to receive a phone in the Evergreen batch.)</p>
+<p>The new delays are more troubling. On September 5, CEO Todd Weaver <a href="https://puri.sm/posts/librem-5-shipping-announcement/">announced</a> that the Librem 5 would ship in six iterative batches, codenamed Aspen, Birch, Chestnut, Dogwood, Evergreen, and Fir. The first three batches would effectively be usable prototypes of decreasing roughness; Evergreen would be the first entirely finished hardware production run, and Fir would be a relatively unspecified next-generation design.</p>
+<p>Although Aspen, Birch, and Chestnut were to be somewhat rough, their descriptions did specify working hardware and functional software, with Aspen to begin shipping only three weeks from the announcement. A reasonable viewer would take this as a strong implication that the phone was <em>ready</em> to ship. This was unfortunately not the case; the Aspen batch turned out to have significant power and heat issues.</p>
+<p>The day <em>after</em> the Aspen shipping window closed, Purism <a href="https://puri.sm/posts/supplying-the-demand/">announced</a> the hardware issues—and that it had shipped Aspen only to employees and unspecified developers. The company also pushed back the beginning of the Birch shipping window, although it remained committed to completing Birch shipping by November 26.</p>
+<p>Last week, Weaver announced that a manufacturing <a href="https://puri.sm/posts/librem-5-birchs-10kohm-resistor-fun-devices-prepping-for-shipping/">problem</a> had been discovered that made Birch's USB non-functional. He also stated that all Birch devices would be shipped to backers without changing the shipping window. That shipping window ends Tuesday—and nobody outside Purism itself has yet received a Librem 5.</p>
+<p>Ars spoke to Weaver today about the current status of the Librem shipping batches, particularly Birch. Weaver said that the company expects to receive the replacement boards for Birch phones in the next few days. Although Purism will not meet the currently posted Birch shipping window, which closes Tuesday, he expects backers to have Birch phones in hand by the first week of December.</p>
+<p>Although the company does not have FCC <a href="https://fccid.io/2AT9R">certifications</a> for the phone yet (and can't get them until the Evergreen batch design is finalized), the radios themselves are certified, which Weaver says is enough to ship small numbers of prototype devices—which means all batches before Evergreen—to backers.</p>
+<p>Weaver stated that around one hundred Birch phones would ship to backers, not counting units delivered to employees and developers. He went on to state that the company expects to ship 5,000 phones by the end of Q1 2020—most of which will be in the Evergreen batch—and that reviewers and journalists should also receive Birch phones for short-term testing in the coming weeks.</p>
+
+<p><a href="https://arstechnica.com/?p=1622273&comments=1">Read Comments</a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>Review: Frozen II’s gorgeous animation can’t quite rise above “meh” soundtrack</title>
+		<link>https://arstechnica.com/?p=1604455</link>
+		<pubDate>Fri, 22 Nov 2019 18:04:48 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer Ouellette]]></dc:creator>
+				<category><![CDATA[Gaming & Culture]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Disney]]></category>
+		<category><![CDATA[entertainment]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[film reviews]]></category>
+		<category><![CDATA[Frozen 2]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1604455</guid>
+		<description><![CDATA[There's no musical equivalent of “Let It Go” here—a mercy to parents everywhere.]]></description>
+				<content:encoded><![CDATA[
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<div class="video"><div class="wrapper"<iframe style="display:block" type="text/html" width="980" height="550" src="https://www.youtube.com/embed/bwzLiQZDw2I?start=0&wmode=transparent" frameborder="0" allowfullscreen></iframe></div><p class="caption" style="font-size:0.8em">Idina Menzel and Kristen Bell reprise their voice roles as sisters Elsa and Anna in Walt Disney Animation’s <em>Frozen II</em>. </p></div>
+<p><em>Let it go, let it goooo</em>... Just when that tune was starting to fade from our collective brain, Elsa, Anna, and the gang are back with another mystical adventure in <a href="https://en.wikipedia.org/wiki/Frozen_2"><em>Frozen II</em></a>, the sequel to Disney's blockbuster 2013 hit, <em>Frozen</em>. It's well-made, fun family fare with gorgeous visuals—we'd expect nothing less from the Mouse House—but somehow it never quite achieves the same emotional resonance of the original.</p>
+<p><strong>(Spoilers for original <em>Frozen</em> below; mild spoilers for <em>Frozen II</em>.)</strong></p>
+<p>The <a href="https://en.wikipedia.org/wiki/Frozen_(2013_film)">first film</a> told the story of two princesses of Arendelle. The elder, Elsa (Idina Menzel), has the power to control and create ice and snow, but she struggles to control it. When she accidentally injures her young sister Anna (Kristen Bell), local trolls heal Anna but caution that Elsa must learn to control her magic. In response, their parents lock them both away. When Elsa turns 21, she's crowned queen, but a spat with Anna after the coronation reveals her magic. She's exiled from the kingdom, flees to the mountains, and builds a gorgeous castle of ice and snow in which to live out her days in isolation. But she doesn't realize Arendelle has also frozen over, endangering the people.</p>
+
+<p>Anna goes off in search of Elsa with the help of an ice harvester named Kristoff (Jonathan Groff) and his trusty reindeer Sven, as well as a snowman named Olaf (Josh Gad). Naturally it all works out in the end because this is a Disney fairytale. <em>Frozen</em> earned over $1.2 billion worldwide, making it the highest grossing animated film of all time. It won Oscars for Best Animated Film and Best Song—"Let It Go," the song Elsa sings as she's building her ice castle. It also spawned numerous spinoffs in multiple forms of media (including a Broadway musical), making it one of Disney's most <a href="https://en.wikipedia.org/wiki/Frozen_(franchise)">profitable franchises</a>. So of course there was going to be a sequel.</p>
+<p><em>Frozen II</em> is set three years after the events of the original. Elsa has reigned over a time of peace and prosperity for Arendelle, the socially awkward Kristoff is trying to figure out how to propose to Anna, and Olaf the enchanted snowman is just being Olaf, spouting all the fascinating new trivia he's been learning as he ages (instead of melting away like all the other snowmen). But Elsa is restless, and when she starts hearing a mysterious voice singing out to her from the far north, she responds—accidentally awaking powerful elemental forces (earth, wind, fire, and water) in the process. The people of Arendelle are forced to evacuate and take refuge with the trolls while Elsa, Anna, Kristoff, Sven, and Olaf set out for the enchanted forest to find the source of the mysterious singing.</p>
+      <ul class="gallery shortcode-gallery gallery-wide">
+          <li>
+        <div class="gallery-item-content">  
+        <div class="gallery-image"><img src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/frozen1-980x642.jpg" alt=""></div>
+        <p>
+          Back in Arendelle.                      [credit:
+                        YouTube/Disney                        ]
+                  </p>
+        </div>
+      </li>
+      </ul>
+  
+
+<div><a name='page-2'></a></div>
+<p>As always, the animation is stunning, particularly the sequence where Elsa is trying to cross the Dark Sea with her usual trick of turning the water into ice so she can walk across. But this time her ice bridge fails, and while thrashing about in the waves, she meets a Nokk (a <a href="https://en.wikipedia.org/wiki/Neck_(water_spirit)#Näck,_Nøkk">shape-shifting water spirit</a>), ultimately taming the creature and riding it across the Dark Sea. Where the original film focused heavily on Anna's journey to find her sister, <em>Frozen II</em> is mostly about Elsa's quest to discover who (or what) is calling out to her and to learn more about the source of her power—and maybe even discover the truth about a dark moment in Arendelle's history.</p>
+<p>If you're getting a sense of déjà vu—well, the movie does follow the tried-and-true Disney formula. Kudos to screenwriter Jennifer Lee for weaving in more of the Scandinanvian folklore elements to bring something new to the table, centering the film on the fictional Northuldra people, based on the indigenous <a href="https://en.wikipedia.org/wiki/Sámi_people">Sami</a> population who live in the northern parts of Norway, Sweden, and Finland. (In fact, Disney <a href="https://www.themarysue.com/sami-frozen-ii/">worked closely</a> with several Sami parliaments to ensure a respectful portrayal of their culture.)</p>
+<p>The film's greatest flaw is its so-so soundtrack. The songs are mediocre and truly forgettable, despite having been written by the same duo, Kristen Anderson-Lopez and Robert Lopez. There's no charming "So You Want to Build a Snowman" or soaring ballad on the scale of "Let It Go"—which will no doubt be welcome news to frazzled parents with <em>Frozen</em>-obsessed young children, forced to listen to that tune on a constant loop for the last six years. The notable exception is the folk tune briefly sung by the Northuldra people. But it's not part of the official soundtrack, so I doubt we'll be hearing it on a constant loop. [Update: The tune, "Iduna's Scarf," is available on the Deluxe soundtrack edition.]</p>
+<p>Confession: I was never among those who raved endlessly about the original <em>Frozen,</em> although I enjoyed it and especially appreciated how it reinterpreted Hans Christian Andersen's classic fairy tale <a href="https://en.wikipedia.org/wiki/The_Snow_Queen"><em>The Snow Queen</em></a>. Yes, it's a good film, but I found <em>Frozen</em>'s blockbuster global success rather baffling. Likewise, I enjoyed <em>Frozen II,</em> but it didn't do much to change my perspective on the franchise. Still, it will no doubt delight hardcore fans, even if the sequel doesn't quite have the same magical shine as its predecessor.</p>
+<p><em>Frozen II</em> opens today in theaters.</p>
+
+<p><a href="https://arstechnica.com/?p=1604455&comments=1">Read Comments</a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>At launch, AT&#038;T’s real 5G will only be as fast as its fake 5G</title>
+		<link>https://arstechnica.com/?p=1622317</link>
+		<pubDate>Fri, 22 Nov 2019 17:50:30 +0000</pubDate>
+		<dc:creator><![CDATA[Jon Brodkin]]></dc:creator>
+				<category><![CDATA[Biz & IT]]></category>
+		<category><![CDATA[5G]]></category>
+		<category><![CDATA[5g e]]></category>
+		<category><![CDATA[AT&T]]></category>
+		<category><![CDATA[lte-advanced]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1622317</guid>
+		<description><![CDATA[5G on low-band spectrum will be similar to LTE-Advanced until further upgrades.]]></description>
+				<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/10/getty-att-sign-800x492.jpg" alt="An AT&T sign on the outside of a building."/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/10/getty-att-sign.jpg" class="enlarge-link" data-height="630" data-width="1024">Enlarge</a> <span class="sep">/</span> An AT&amp;T sign outside a company office in New York City. (credit: <a rel="nofollow" class="caption-link" href="https://www.gettyimages.com/editorial-images">Getty Images | Roberto Machado Noa </a>)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>AT&amp;T will soon offer 5G mobile service on its 850MHz spectrum, which will enable wider coverage than existing 5G networks but offer only 4G-like speeds at launch. Significant speed increases will arrive in 2020, AT&amp;T says.</p>
+<p>The 5G networks already deployed by carriers use millimeter-wave signals that don't travel far and are easily blocked by walls and other obstacles. This has resulted in <a href="https://arstechnica.com/information-technology/2019/11/verizons-new-5g-coverage-maps-show-just-how-sparse-the-network-is/">coverage maps</a> with small pockets of 5G, and 4G just about everywhere else.</p>
+<p>But 5G can work on all frequencies, such as the lower-band frequencies used by 4G. There isn't as much spectrum available on these bands, so you won't see anything like the huge speed increases available on millimeter-wave spectrum. But 5G on low-band spectrum will cover wider areas and indoor spaces and hopefully bring some speed increases—Verizon says 5G on the lower bands will be like "<a href="https://arstechnica.com/information-technology/2019/08/verizon-5g-speeds-on-low-spectrum-bands-will-be-more-like-good-4g/">good 4G</a>."</p>
+<p>AT&amp;T's <a href="https://www.prnewswire.com/news-releases/att-extends-5g-leadership-across-the-us-300963570.html">announcement today</a> listed the first cities slated to get 5G on low-band spectrum:</p>
+<blockquote><p>In the coming weeks, our 5G network will launch over low-band spectrum in the Indianapolis; Pittsburgh; Providence, Rhode Island; Rochester, New York; and San Diego market areas. We also plan to launch in several more markets, including Boston; Las Vegas; Milwaukee; New York City; San Francisco; Birmingham, Alabama; Bridgeport, Connecticut; Buffalo, New York; Louisville, Kentucky; San Jose, California; and others.</p></blockquote>
+<p>AT&amp;T also published a PDF with <a href="https://about.att.com/content/dam/snrdocs/ATT_5G_MAPS.pdf">maps of expected 5G coverage</a>, but the maps are of coverage projected for February 2020 rather than what will be available at launch.</p>
+<p>AT&amp;T previously offered <a href="https://www.business.att.com/learn/5G.html?bref=IB5gAT5GC005GB00L">millimeter-wave 5G to business customers</a> but not to regular consumers. AT&amp;T told us that 5G on millimeter waves will be offered to consumers "at a later date." Initially, regular consumers will only have access to 5G on low-band spectrum.</p>
+<div><a name='page-2'></a></div>
+<h2>Speeds similar to LTE-Advanced, aka “5G E”</h2>
+<p>AT&amp;T's announcement doesn't say which spectrum band it is using, but an AT&amp;T spokesperson told Ars that "at launch we're dedicating a portion of our 850Mhz spectrum to 5G connectivity." AT&amp;T is also <a href="https://www.lightreading.com/mobile/5g/in-nationwide-5g-it-will-be-atandts-700mhz-vs-t-mobiles-600mhz/a/d-id/751774">expected</a> to eventually launch 5G on its 700MHz spectrum in order to deploy the next-generation cellular technology across the US.</p>
+<p>AT&amp;T's announcement didn't reveal the exact speeds customers can expect, but the spokesperson told us that "data speeds on AT&amp;T's 5G network are initially expected to be comparable to LTE-Advanced speeds at the time of launch." LTE-Advanced, a form of 4G, is the proper name for what AT&amp;T has misleadingly called "5G E." In March, OpenSignal <a href="https://arstechnica.com/information-technology/2019/03/atts-5g-e-is-actually-slower-than-verizon-and-t-mobile-4g-study-finds/">said its research</a> found that AT&amp;T's "5G E" phones got average speeds of 28.8Mbps.</p>
+<p>Low-band 5G should provide better speeds than LTE-Advanced later on, though, as AT&amp;T told us that speeds will "rapidly evolv[e]" from the 4G-like baseline expected at launch. The speed upgrades will come when AT&amp;T enables more 5G capabilities on low-band spectrum. That includes <a href="https://www.fiercewireless.com/operators/at-t-expects-2020-start-major-5g-handset-upgrade-cycle-exec-says">dynamic spectrum sharing</a>, which AT&amp;T says it will deploy in 2020.</p>
+<p>AT&amp;T also said it will offer 5G nationwide in the first half of 2020. AT&amp;T said its 5G on millimeter-wave spectrum is available to businesses today in 21 cities and will reach parts of 30 cities by early 2020.</p>
+<p>Referring to the LTE-Advanced form of 4G as "5G E" isn't the only confusing 5G marketing in AT&amp;T's arsenal. While AT&amp;T calls 5G on low-frequency bands plain-old "5G," the company uses the term "5G+" for 5G on millimeter-wave spectrum.</p>
+<p>Customers will need a compatible 5G device and a service plan that includes access to 5G. AT&amp;T's announcement said it will include 5G in <a href="https://arstechnica.com/information-technology/2019/10/atts-priciest-unlimited-plan-now-allows-100gb-of-un-throttled-data/">two new plans</a>, namely Unlimited Elite ($85 a month for a single line or $50 per line with four lines) and Unlimited Extra ($75 a month for a single line or $40 per line with four lines).</p>
+<p>Those are the only plans with 5G access so far. "Consumers with a compatible device will need to be on one of our latest unlimited plans—AT&amp;T Unlimited Extra or AT&amp;T Unlimited Elite—to access 5G over low-band or millimeter-wave spectrum," AT&amp;T told Ars.</p>
+<p>AT&amp;T today also said that on November 25, it will start taking <a href="https://www.att.com/buy/phones/samsung-galaxy-note10plus-5g-256gb-aura-glow.html">preorders</a> for the 5G-enabled Samsung Galaxy Note10+, AT&amp;T's first 5G phone for non-business consumers. AT&amp;T previously offered the Samsung Galaxy S10 5G <a href="https://about.att.com/story/2019/samsung_galaxy_s10_5g.html">to business customers</a>.</p>
+
+<p><a href="https://arstechnica.com/?p=1622317&comments=1">Read Comments</a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>The hidden gems of Apple Arcade</title>
+		<link>https://arstechnica.com/?p=1622289</link>
+		<pubDate>Fri, 22 Nov 2019 17:40:48 +0000</pubDate>
+		<dc:creator><![CDATA[Ars Staff]]></dc:creator>
+				<category><![CDATA[Gaming & Culture]]></category>
+		<category><![CDATA[Apple Arcade]]></category>
+		<category><![CDATA[Apple TV]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[iphone]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1622289</guid>
+		<description><![CDATA[After <em>Sayonara Wild Hearts</em>, dig into these lesser-known subscription standouts.]]></description>
+				<content:encoded><![CDATA[
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>The biggest problem facing games on the App Store has always been one of discovery. If a game doesn’t make it to the Featured section, or if it isn’t a massive hit, you’re probably not going to find it just by casually browsing.</p>
+<p><a href="https://arstechnica.com/gaming/2019/09/apple-arcade-gaming-subscription-coming-919-for-4-99month/">Apple Arcade</a>, with its smaller, more carefully curated library, helps remedy that problem a bit. But with dozens of games included in an Apple Arcade subscription, it’s still hard to find the hidden gems languishing behind those few hyped in the spotlight. In between the <i>Sayonara Wild Hearts</i> (which is beautiful) and <i>Grindstone</i> (oh, is it 2am already?) are games that you absolutely should be playing, if only you knew to take the time.</p>
+<p>Well, friend, I'm here for you with my own tasting menu of hidden Apple Arcade delights. Here’s a sampler of some of the best entries on offer, chosen for their quality, inventiveness, and suitability for playing on a phone. (Though, if you have an Apple TV, I definitely recommend using it for more than Netflix).</p>
+<h2>Tangle Tower</h2>
+<div class="image shortcode-img center full"><img alt='&lt;span style=&quot;font-weight: 400&quot;&gt;Red herrings galore stand between you and the murderer. Hint: the painting didn’t do it.&lt;/span&gt;'  src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/TT.jpg" alt='&lt;span style=&quot;font-weight: 400&quot;&gt;Red herrings galore stand between you and the murderer. Hint: the painting didn’t do it.&lt;/span&gt;' ><p class="caption" style="font-size:0.8em"><span style="font-weight: 400">Red herrings galore stand between you and the murderer. Hint: the painting didn’t do it.</span> </p></div>
+<p>Detective Grimoire and Sally are called to Tangle Tower, a structure as strange as the people who live there, to investigate a locked-room murder. Isolated from the rest of humanity on its own private island, Tangle Tower is home to an extended family whose members don’t necessarily hate each other but don’t particularly love each other, either.</p>
+<p>The excellent animation, sharp writing, and exceptional voice acting make interrogating suspects and finding the killer a pure pleasure. The puzzles are a healthy mix of logic (can you use clues to figure out which paintbrush goes where) and observation (lining up magnifying glasses of varying strengths). Some you’ll solve in seconds and others will make you question your life choices, but all feel fresh and blend in well with the game’s surroundings. Best of all, <i>Tangle Tower</i> is adapted perfectly to play on a phone, with simple controls allowing for easy navigation, inventory management, and puzzle solving.</p>
+<h2>Tint</h2>
+<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/IMG_2089.jpg"><img alt='&lt;span style=&quot;font-weight: 400&quot;&gt;Combine colors and creative thinking to solve &lt;em&gt;Tint&lt;/em&gt;’s increasingly devious designs.&lt;/span&gt;'  src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/IMG_2089-640x360.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2019/11/IMG_2089-1280x720.jpg 2x" alt='&lt;span style=&quot;font-weight: 400&quot;&gt;Combine colors and creative thinking to solve &lt;em&gt;Tint&lt;/em&gt;’s increasingly devious designs.&lt;/span&gt;' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/IMG_2089.jpg"class="caption-link" rel="nofollow"><span style="font-weight: 400">Combine colors and creative thinking to solve <em>Tint</em>’s increasingly devious designs.</span></a> </p></div>
+<p>Take a brush and drag it through some colors to mix them. That’s literally all you need to know in order to enjoy <i>Tint</i>, a pleasantly challenging puzzle game with a gorgeous watercolor aesthetic. In <i>Tint</i>, you simple connect blobs of paint with targets of a specific color by dragging your finger from one to the other, mixing tones along the way to get the proper shade. To activate a green flower, for example, you’ll have to drag blue through yellow, or vice versa.</p>
+<p>The puzzles grow steadily more complex as you work your way through the sketchbook, adding multiple colors and obstacles to each page. If you make a mistake, a quick double-tap gives you a fresh page so you can try again, and hints are there to provide a nudge when you need one. <i>Tint</i> is the kind of gentle brainteaser you crave on a quiet Sunday morning as you sip a cup of tea.</p>
+<h2>Over the Alps</h2>
+<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/IMG_2092.jpg"><img alt='&lt;span style=&quot;font-weight: 400&quot;&gt;Play spy games via postcards in this thriller set during World War II.&lt;/span&gt;'  src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/IMG_2092-640x360.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2019/11/IMG_2092-1280x720.jpg 2x" alt='&lt;span style=&quot;font-weight: 400&quot;&gt;Play spy games via postcards in this thriller set during World War II.&lt;/span&gt;' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/IMG_2092.jpg"class="caption-link" rel="nofollow"><span style="font-weight: 400">Play spy games via postcards in this thriller set during World War II.</span></a> </p></div>
+<p>I’ve always wanted to be a spy. Not a real spy, of course, but the movie kind of spy, fighting with fists one moment and <em>bon mots</em> the next. <i>Over the Alps</i> provides that kind of spy experience, set against a backdrop of World War II intrigue and told engagingly though postcards sent to your confidant. You play as a British agent accidentally sucked into a web of intrigue when a case of mistaken identity sends you off-mission. There’s a beautiful German agent hounding your steps, a set of secret blueprints that could turn the tide of war, and plenty of crosses and double-crosses.</p>
+<p>As the story plays out via the text of the postcards, you simply choose how you want to respond by selecting a style of stamp. Will you be charming, tough, amusing, snarky? Your choices will impact those around you: start an argument in the village square and you’ll leave a “footprint,” making it easier for the authorities to track you down, for instance. But if you use your wiles to slip away, the “distraction” might send them on a fool’s errand. England is counting on you, Agent Smith. Do whatever it takes.</p>
+<div><a name='page-2'></a></div>
+<h2>Cat Quest II</h2>
+<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/Cat-Quest-2-790x444.png"><img alt='&lt;span style=&quot;font-weight: 400&quot;&gt;Purr-fect adventure? Dog-gone good time? This game is the pick of the litter? I could go on all day.&lt;/span&gt;'  src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/Cat-Quest-2-790x444-640x360.png" srcset="https://cdn.arstechnica.net/wp-content/uploads/2019/11/Cat-Quest-2-790x444.png 2x" alt='&lt;span style=&quot;font-weight: 400&quot;&gt;Purr-fect adventure? Dog-gone good time? This game is the pick of the litter? I could go on all day.&lt;/span&gt;' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/Cat-Quest-2-790x444.png"class="caption-link" rel="nofollow"><span style="font-weight: 400">Purr-fect adventure? Dog-gone good time? This game is the pick of the litter? I could go on all day.</span></a> </p></div>
+<p>Can cats and dogs ever truly live together in peace? That is the question you endeavor to answer in <i>Cat Quest II</i>, an action/RPG adventure where you (and a friend, if you like) bring together these classic foes to unite the kingdom. It’s your basic “rescue the kingdom” kind of situation, except everyone is a cat or a dog.</p>
+<p>And there are puns. So many puns. <i>Cat Quest II</i> is silly and adorable, but it also offers enough challenge to keep you playing. It’s ideal to play with a pal, but switching between characters works perfectly if you’re more lone wolf than pack animal. There are secrets to uncover, dungeons to conquer, armor to find, spells to master, and weapons to unlock (including a fabled sword called… wait for it… Excalipurr).</p>
+<p>One small caveat is that <i>Cat Quest II</i> requires a controller, but any Bluetooth-capable gamepad will do; for an even better experience, play through your Apple TV.</p>
+<h2>Cardpocalypse</h2>
+<div class="image shortcode-img center full"><img alt='&lt;span style=&quot;font-weight: 400&quot;&gt;Transport yourself back to the playground with this nostalgic card battling game. You, uh, wanna trade?&lt;/span&gt;'  src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/card.jpg" alt='&lt;span style=&quot;font-weight: 400&quot;&gt;Transport yourself back to the playground with this nostalgic card battling game. You, uh, wanna trade?&lt;/span&gt;' ><p class="caption" style="font-size:0.8em"><span style="font-weight: 400">Transport yourself back to the playground with this nostalgic card battling game. You, uh, wanna trade?</span> </p></div>
+<p>You’ll know if Cardpocalypse is for you the moment you hear its guitar-riffy theme song pulled straight from a '90s cartoon. Jessica is doing what every smart young student does on their first day at a new school: making friends by playing the uber-popular collectible card game based on the ultra-cool show “Mega Mutant Power Pets.” It’s all going swimmingly until the characters start to show up in real life, and, even worse, the grownups ban the game! (OK, maybe the monsters in the hallways are the bigger problem.)</p>
+<p>If you’ve never played <em>Magic:The Gathering</em>, <i>Hearthstone</i>, or any other card-based battle games, <em>Cardpocalypse</em> is a great introduction to the mechanics. Here, though, it comes with a decidedly grade-school twist. Once you’ve got the basics down, you can begin to change the rules and the cards by applying stickers, or even ripping cards up. If you have ever once thought of a Serra Angel with a nostalgic smile, or had a Yu-Gi-Oh battle on the school bus, <i>Cardpocalypse</i> will feel like a piece of your childhood.</p>
+<h2>Dread Nautical</h2>
+<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/IMG_2091.jpg"><img alt='&lt;span style=&quot;font-weight: 400&quot;&gt;Hope you packed an extra first aid kit, because the tactical combat in Dread Nautical is tough.&lt;/span&gt;'  src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/IMG_2091-640x360.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2019/11/IMG_2091-1280x720.jpg 2x" alt='&lt;span style=&quot;font-weight: 400&quot;&gt;Hope you packed an extra first aid kit, because the tactical combat in Dread Nautical is tough.&lt;/span&gt;' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/IMG_2091.jpg"class="caption-link" rel="nofollow"><span style="font-weight: 400">Hope you packed an extra first aid kit, because the tactical combat in Dread Nautical is tough.</span></a> </p></div>
+<p>Take a cruise, they said. It’ll be relaxing, they said. What they didn’t say was that you’d get caught in some kind of a time loop and have to fight your way through monsters over and over (that must not have fit on the brochure).</p>
+<p>In <i>Dread Nautical</i>, you’re a survivor of whatever calamity befell the cruise ship, exploring the ship for resources, other survivors, and most importantly: answers. Whenever you blow the foghorn on the bridge, the day resets and you wake up back where you started, in the midship lobby. You keep whatever resources you managed to scrounge on your last trip out, so every time you leave the lobby, you’re better armed and better informed. In addition to weapons, health items, and protective gear, you’ll find runes to help you translate a mysterious tome that hopefully holds the answers to whatever’s going on.</p>
+<p>It’s very satisfying to lay waste to a room full of thralls to gain a tiny bit of insight into <i>Dread Nautical</i>’s mystery. The turn-based combat works very well on a phone, removing the frustration of getting walloped because the touch controls didn’t respond quite the way you thought they would. Plan your loadouts, recruit survivors, decode the runes, and (just maybe) you’ll make it home in one piece.</p>
+
+<p><a href="https://arstechnica.com/?p=1622289&comments=1">Read Comments</a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>DOD joins fight against 5G spectrum proposal, citing risks to GPS</title>
+		<link>https://arstechnica.com/?p=1622329</link>
+		<pubDate>Fri, 22 Nov 2019 17:19:31 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Gallagher]]></dc:creator>
+				<category><![CDATA[Biz & IT]]></category>
+		<category><![CDATA[Policy]]></category>
+		<category><![CDATA[Department of Defense]]></category>
+		<category><![CDATA[DoD]]></category>
+		<category><![CDATA[FCC]]></category>
+		<category><![CDATA[Federal Communicaitons Commission]]></category>
+		<category><![CDATA[GPS]]></category>
+		<category><![CDATA[L-band]]></category>
+		<category><![CDATA[ligado]]></category>
+		<category><![CDATA[spectrum allocation]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1622329</guid>
+		<description><![CDATA[In letter to FCC's Pai, secretary of defense notes risks to military operations.]]></description>
+				<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/5853524-800x533.jpg" alt="How did we get here again?"/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/5853524.jpg" class="enlarge-link" data-height="4000" data-width="6000">Enlarge</a> <span class="sep">/</span> How did we get here again? (credit: US Marine Corps / DVIDS)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>The Department of Defense has weighed in against a proposal before the Federal Communications Commission to open the 1 to 2 Gigahertz frequency range—the L band—for use in 5G cellular networks. The reason: segments of that range of radio spectrum are already used by Global Positioning System signals and other military systems.</p>
+<p>In a letter to FCC Chairman Ajit Pai, Secretary of Defense Mark Esper pressed for the rejection of the proposal by Ligado Networks (formerly known as LightSquared), saying, "There are too many unknowns and the risks are far too great to federal operations to allow Ligado’s proposed system to proceed... This could have a significant negative impact on military operations, both in peacetime and war."</p>
+
+<p>The FCC has already largely brushed aside <a href="https://arstechnica.com/tech-policy/2019/06/another-ajit-pai-plan-could-harm-weather-forecasts-expert-groups-warn/">similar opposition from NASA</a>, the <a href="https://arstechnica.com/tech-policy/2019/05/5g-networks-will-likely-interfere-with-us-weather-satellites-navy-warns/">US Navy</a>, and the National Oceanographic and Atmospheric Administration, among others, over another spectrum block in the 24GHz range—which is used by weather satellites for remote monitoring of water vapor. But comments are still being collected on the Ligado plan for sharing the 1675 to 1680MHz block of the L Band. Pai has been supportive of the plan because that range is adjacent to the existing 1670 to 1675MHz block already in use for wireless services.</p>
+<p>GPS signals use several blocks of the L band, including a primary channel centered on 1575.42MHz. GPS uses L band signals because of their ability to penetrate cloud cover, rain, and vegetation. The L band is also used by the DOD for a <a href="https://apps.dtic.mil/dtic/tr/fulltext/u2/1036335.pdf">number of other purposes</a>, including tactical air navigation, landing assistance telemetry, Identify Friend or Foe (IFF) signals, and missile range and aircraft telemetry—though the DOD has already had to move some of these applications further up the spectrum range to make room for previous "commercial reallocation."</p>
+<p>Ligado's request for bandwidth sharing is tied to the company's planned collaboration with satellite communications company Inmarsat, which would provide satellite coverage for Legato's 5G network. Inmarsat currently <a href="https://www.inmarsatgov.com/capabilities/inmarsat-l-band/">uses L band for mobile satellite communications services</a>, including <a href="https://www.inmarsat.com/case-studies/l-band-tactical-satellite/">tactical satellite communications</a> marketed to the military around the 1.5GHz range.</p>
+<p>In an <a href="https://www.bloomberg.com/news/articles/2019-11-20/ligado-airwaves-proposal-opposed-by-u-s-defense-department-k37vmjb9">email to Bloomberg</a>, Ligado spokesperson Ashley Durmer criticized the DOD's objections, citing the low power of the proposed 5G signals. "Can it really be true that our military operations are vulnerable to a 10-watt lightbulb?" she wrote. "We don’t think so. But that is what this letter suggests."</p>
+<p>But thanks to the <a href="https://en.wikipedia.org/wiki/Inverse-square_law">inverse-square law</a>, signals could be susceptible to even low-power signal interference, particularly those from GPS. This is why the original LightSquared proposal for a blended satellite and 4G network in the 1.525 to 1.555 GHz range was opposed by DOD and others—GPS signals arriving from space could be overpowered by ground-based transmissions, as <a href="https://www.gps.gov/spectrum/lightsquared/docs/2011-06-NPEF-lightsquared-report.pdf">shown in tests performed in 2011</a>. The tests "demonstrated there are significant detrimental impacts to all GPS applications assessed," a report from the National Space-Based Positioning, Navigation, and Timing Systems Engineering Forum noted.</p>
+
+<p><a href="https://arstechnica.com/?p=1622329&comments=1">Read Comments</a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>The right T-shirt may increase medical implant’s battery life</title>
+		<link>https://arstechnica.com/?p=1622187</link>
+		<pubDate>Fri, 22 Nov 2019 16:30:33 +0000</pubDate>
+		<dc:creator><![CDATA[Chris Lee]]></dc:creator>
+				<category><![CDATA[Science]]></category>
+		<category><![CDATA[bluetooth]]></category>
+		<category><![CDATA[evanescent waves]]></category>
+		<category><![CDATA[Medical implants]]></category>
+		<category><![CDATA[total internal reflection]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1622187</guid>
+		<description><![CDATA[Patterned clothing boosts efficiency of implanted Bluetooth medical devices.]]></description>
+				<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/11/9170090275_3fde375e2a_k-800x535.jpg" alt="Image of a roast pig."/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/11/9170090275_3fde375e2a_k.jpg" class="enlarge-link" data-height="1369" data-width="2048">Enlarge</a> <span class="sep">/</span> Once you're done testing, you can set the transmitter to &quot;roast.&quot; (credit: <a rel="nofollow" class="caption-link" href="https://www.flickr.com/photos/brandonzeman/9170090275/in/photolist-eYk7mK-2jKGj1-ecYxwn-eYwvX3-535zUA-eYwpYQ-eYk8gF-eYk5ZZ-6M4pgc-6M4mCV-5bbpNf-2jFket-2aKrUyq-6M8xUo-eYk7dr-6M4mot-eYk9fH-eYk5va-eYk4Kc-eYk5xT-eUTgHE-46QG-eUFX4R-6M8wQS-eYk38P-eYk3dV-eYwvDy-eYk7BR-9xGRy-eYwsu3-eYk3Qz-cg2WfC-eYwwNA-foKe76-eYk3br-5fAKLn-2jKB4C-eYk4cT-4bPHwh-eYk8Qk-6M4hLz-eYk2BV-eYk5VD-6M8wz5-6M4r1B-5fAWae-5fBtTp-eYk9n8-eYk5fg-eYwqk5">Brandon Zeman</a>)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>Although pacemakers led the way, I think it's reasonable to expect that our human bodies are going to end up containing many more active devices. These might mean long-term implants that provide aid to problematic organs, or they could be temporary devices that provide evidence to diagnose a condition or deliver medicine to a specific location. Many of these devices would need to be able to communicate with the outside world, which has proven to be more difficult than expected. The solution, however, may be as simple as <a href="https://doi.org/10.1103/PhysRevApplied.12.054020">changing your shirt</a>.</p>
+<p>I was surprised to learn that internal medical devices consume relatively high levels of power as they communicate with the outside world. It’s not that things like low-energy Bluetooth don’t work, but they use far more power when transmitting from inside the body than they do outside of the body. The problem turns out to be something called "total internal reflection."</p>
+<h2>Totally into reflection</h2>
+<p>You may remember learning about Snell’s law and total internal reflection at school, but if not, don’t worry—I’m a trained explainer. When light travels across an interface between two materials, its direction of travel will change. Going from something like air to glass will result in a light ray traveling closer to perpendicular to the interface. But going from glass to air results in a light ray ending up with an angle closer to parallel. If the angle of the ray in air is already close to parallel to the interface, the light ray in the glass cannot bend far enough; instead, it's reflected. Since the light wave is <i>inside</i> the glass, we refer to this as total internal reflection.</p>
+<p>Radio waves and microwaves are just light waves with a much longer wavelength. Snell’s law still applies, and total internal reflection still happens. For normal-use transmitters, total internal reflection almost never occurs.</p>
+<p>But for a medical device, the transmitter is inside your body. When we break the radio waves emitted by the transmitter up into rays, they are all pointed outward from the transmitter at an angle to one another. Many of those rays are completely reflected at the skin. And because a body is approximately elliptical, the reflected wave will hit the body at some other location where it will be totally internally reflected again (any reflection more than eight degrees from perpendicular will be reflected). The wave simply cannot leave the body.</p>
+<p>To put it more technically: the Bluetooth radiation will only be efficiently transmitted if the curvature of the emitted waves matches the curvature of the skin (i.e., all rays hit at right angles to the surface). That happens to be difficult to arrange for a tiny antenna in a device that, by design, moves around.</p>
+<h2>Opening an evanescent escape route</h2>
+<p>To solve this problem, a group of researchers returned to what we know about total internal reflection. The physics of the reflection process is not completely confined to the interface. The wave hits the interface, and a small amount of it hangs out on the other side for a bit before it is sucked back into the material and sent on its way. This bit on the wrong side of the interface is called an evanescent wave, and it dies away rapidly as we move away from the surface.</p>
+<p>If the evanescent wave hits another interface (another person close by, for example), the wave can start to propagate again (inside the body of the second person). This wave could be detected if it weren't actually in someone's body. Putting Wi-Fi antennas in bags of water that are pressed against the skin would work (the human body is mostly water), but as solutions go, it is not very elegant and certainly not comfortable to wear.</p>
+<p>So the researchers went with an alternative. Their solution is to create clothing that has patterns printed from conductive ink. These patterns are constructed in such a way that they collectively re-radiate the evanescent wave as if the bag of water was actually there.</p>
+<p>Of course, this is not the sort of experiment that you can just immediately perform on people, so the researchers used a dead pig wearing a printed T-shirt instead. They placed a Bluetooth transmitter inside the pig and measured the battery life, signal strength, and latency. The signal strength was even higher compared to a naked pig, while at low transmitter power, latency was reduced by a factor of three. Battery life also increased from 50 hours to 70 hours.</p>
+<p>In the future, keep an eye out for people wearing strangely patterned metallic T-shirts. They will either be the next generation of hipster, on some serious meds, or both.</p>
+<p>Physical Review Applied, 2019, DOI: <a href="https://doi.org/10.1103/PhysRevApplied.12.054020">10.1103/PhysRevApplied.12.054020</a> (<a href="http://arstechnica.com/science/news/2010/03/dois-and-their-discontents-1.ars">About DOIs</a>)</p>
+
+<p><a href="https://arstechnica.com/?p=1622187&comments=1">Read Comments</a></p>]]></content:encoded>
+			</item>
+	</channel>
+</rss>

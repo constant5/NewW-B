@@ -1,0 +1,20 @@
+//- Developed By: Constant Marks and Michael Nutt
+//- Last Modified: 11/25/2019
+//- Base template with sitewide includes
+
+doctype html
+html(lang='en')
+  head
+    title= title
+    meta(charset='utf-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    script(src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js')
+    script(src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js')
+    //- link(rel="stylesheet", href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css")
+    link(rel='stylesheet', href='/stylesheets/bootstrap.min.css')
+    style
+      include ../public/stylesheets/stylesheet.css
+    script 
+        include ../public/javascript/article_functions.js
+  body
+    block content

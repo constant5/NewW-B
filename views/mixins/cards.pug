@@ -1,0 +1,39 @@
+//- Template page for article preview cards, formating taken from bootswatch
+//- Developed By: Constant Marks and Michael Nutt
+//- Last Modified: 11/25/2019
+
+mixin cards(article, user, votes)
+    div(class="card mb-3" style="max-width:450px;margin:10px;")
+        img(style="height:200px;width:100%;display:block;" src=article.img)
+        h3(class="card-header")
+            a(href=article.article_url) !{article.title}
+        div(class="card-body")
+            h5(class="card-title") !{article.summary}
+            h6(class="card-title")= article.post_date
+            h6(class="card-subtitle text-muted")
+                a(href=article.author_url)= article.author
+            -if (article.tags)
+                p(class="card-text")= article.tags.tag
+                ul(class="list-group list-group-flush")
+                    each key in article.keywords
+                        - var key_url = "/article/keywords/" + key
+                        li(class="list-group-item")
+                            a(href=key_url)= key
+        div(class="card-footer" style="text-align:center;")
+            if user
+                div(class="btn-group btn-group-toggle" style="margin:10px;" data-toggle="buttons")
+                    button(class="btn btn-success" name="upvote" id="upvote-"+article._id onclick="upvote('"+article._id+"')") +
+                    button(class="btn btn-outline-primary" name="vote" id="rank-"+article._id onclick="removevote('"+article._id+"')")= article.rank
+                    button(class="btn btn-danger" name="vote" id="downvote-"+article._id onclick="downvote('"+article._id+"')") -
+            a(href=article.url class="card-link" target="_blank") Original Page
+            if user
+                - var id = article._id;
+                div(class="btn-group btn-group-toggle" style="margin:10px;" data-toggle="buttons")
+                if user.favorites.length > 0
+                    //- - console.log("Article: " + article);
+                    - if (user.favorites.includes(id))
+                        button(type="submit" class="btn btn-danger" id=id onclick="favorite('"+id+"')") Unfavorite
+                    - else
+                        button(type="submit" class="btn btn-success" id=id onclick="favorite('"+id+"')") Favorite
+                - else
+                    button(type="submit" class="btn btn-success" id=id onclick="favorite('"+id+"')") Favorite

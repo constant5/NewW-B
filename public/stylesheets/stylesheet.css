@@ -1,0 +1,116 @@
+/* Navbar Section */
+.navbar{
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+}
+
+.form-inline {  
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+}
+
+.form-inline label {
+    margin: 5px 10px 5px 0;
+}
+
+.form-inline input {
+    vertical-align: middle;
+    margin: 5px 10px 5px 0;
+    padding: 10px;
+}
+
+@media (max-width: 800px) {
+    .form-inline input {
+        margin: 10px 0;
+    }
+
+    .form-inline {
+        flex-direction: column;
+        align-items: stretch;
+    }
+}
+
+
+/* Article View Section */
+.main {
+    /* padding-top: 4px; */
+    margin-top: 120px;
+}
+
+.article {
+    padding-top: 32px;
+    margin: 0px 128px 0px 128px;
+}
+
+.article img {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.article p {
+    font-size: 16px;
+}
+
+.article h1 {
+    padding-top: 50px;
+}
+
+/* Sidebar Section */
+.sidebar {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 9%;
+    left: 0;
+    background-color: #222 !important;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 64px;
+}
+
+.sidebar p{
+    padding: 8px 32px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidebar a{
+    padding: 8px 32px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidebar .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+.openbtn {
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #222;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+}
+
+#main {
+    position: fixed;
+    z-index: 1;
+    transition: margin-left .5s;
+    padding: 100px 0px 0px 0px;
+}

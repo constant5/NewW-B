@@ -1,0 +1,8 @@
+//- Developed By: Constant Marks and Michael Nutt
+//- Last Modified: 11/25/2019
+extends layout
+
+block content
+  h1= message
+  h2= error.status
+  pre #{error.stack}

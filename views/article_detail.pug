@@ -1,0 +1,54 @@
+//- Developed By: Constant Marks and Michael Nutt
+//- Last Modified: 11/25/2019
+extends layout
+include mixins/navbar 
+include mixins/cards 
+include mixins/sidebar
+include mixins/comments
+include mixins/comment_form
+
+//- Templage for displaying article text for specified article
+
+block content
+    +navbar(tag_list, name, user)
+    +sidebar(sidebar)
+    div(class="jumbotron")
+        style.
+            img{
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 50%;
+            }
+            .caption {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 50%;
+                text-align: center;
+            }
+        div(class="main  jumbotron article")
+            h1
+                center= title
+            div(style="text-align:center;")
+                if user
+                    div(class="btn-group btn-group-toggle" style="margin:10px;" data-toggle="buttons")
+                        button(class="btn btn-success" name="upvote" id="upvote-"+article._id onclick="upvote('"+article._id+"')") +
+                        button(class="btn btn-outline-primary" name="vote" id="rank-"+article._id onclick="removevote('"+article._id+"')")= article.rank
+                        button(class="btn btn-danger" name="vote" id="downvote-"+article._id onclick="downvote('"+article._id+"')") -
+                if user
+                    - var id = article._id;
+                    div(class="btn-group btn-group-toggle" style="margin:10px;" data-toggle="buttons")
+                    if user.favorites.length > 0
+                        //- - console.log("Article: " + article);
+                        - if (user.favorites.includes(id))
+                            button(type="submit" class="btn btn-danger" id=id onclick="favorite('"+id+"')") Unfavorite
+                        - else
+                            button(type="submit" class="btn btn-success" id=id onclick="favorite('"+id+"')") Favorite
+                    - else
+                        button(type="submit" class="btn btn-success" id=id onclick="favorite('"+id+"')") Favorite
+
+            p !{article_text}
+        if(user)
+            +comment_form
+        +comments(comments, users)

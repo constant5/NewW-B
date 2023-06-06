@@ -1,0 +1,18 @@
+//- Template page for comment submission form
+//- Developed By: Constant Marks and Michael Nutt
+//- Last Modified: 11/25/2019
+
+mixin comment_form
+    div(style="max-width:75%; margin:auto; padding:20px;")
+        h3 Write a new comment!
+
+        form(method='POST' action='')
+            div.form-group
+                label(for='text') Comment:
+                input#text.form-control(type='text', placeholder='' name='text' )
+            button.btn.btn-primary(type='submit') Submit
+
+        if errors
+            ul
+                for error in errors
+                    li!= error.msg

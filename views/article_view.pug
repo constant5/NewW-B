@@ -1,0 +1,17 @@
+//- Developed By: Constant Marks and Michael Nutt
+//- Last Modified: 11/25/2019
+extends layout
+include mixins/navbar
+include mixins/cards
+include mixins/sidebar
+
+//- Template page for displaying all articles in preview
+
+block content
+  +navbar(tag_list, name, user)
+  +sidebar(sidebar)
+  div(class="main" style="display:flex;flex-direction:row;flex-wrap:wrap;")
+    each article in article_list
+      +cards(article, user, votes)
+    else
+      p No articles today!

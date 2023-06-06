@@ -1,0 +1,191 @@
+//- Developed By: Constant Marks and Michael Nutt
+//- Last Modified: 11/25/2019
+extends layout
+include mixins/navbar
+include mixins/cards
+
+//- Template page for user settings page
+
+block content
+  +navbar(tag_list, name, user)
+  div(class="jumbotron main")
+
+    h1(class="display-4") User Profile
+    //- p(class="lead")
+    //-   a(class="btn btn-primary btn-sm" href="#" role="button") Modify Settings
+    div(class='user_details', style="display:flex;flex-direction:row;flex-wrap:wrap")
+      .card.text-white.bg-dark.mb-3(style='max-width:400px;margin:10px;')
+        .card-body
+          h4.card-title Username
+          p.card-text= user.u_id
+          h4.card-title Name 
+          p.card-text= user.f_name + ' ' + user.l_name
+          h4.card-title Email 
+          p.card-text= user.email
+          h4.card-title User Since 
+          p.card-text= user.create_date
+          div(class="btn-group-vertical" data-toggle="buttons")
+            a(class="btn btn-primary btn-sm",
+              onclick="document.getElementById('mod01').style.display='block'", 
+              role="button", style='margin:2px') Modify User Details
+            a(class="btn btn-primary btn-sm",
+              onclick="document.getElementById('mod02').style.display='block'", 
+              role="button", style='margin:2px') Change Password
+            a(class="btn btn-primary btn-sm",
+              onclick="document.getElementById('mod03').style.display='block'",
+              role="button", style='margin:2px') Delete Account
+      .card.text-white.bg-dark.mb-3(style='max-width:400px;margin:10px;')
+        .card-body
+          h4.card-title Subscriptions
+          for tag in user.follows
+            p.card-text= tag
+          a(class="btn btn-primary btn-sm",
+            onclick="document.getElementById('mod04').style.display='block'",
+            role="button") Modify Subscriptions
+      .card.text-white.bg-dark.mb-3(style='max-width:400px;margin:10px;')
+        .card-body
+          h4.card-title Favorites
+          for fav in favorite_list
+            p.card-text
+            a.text-white.bg-dark.mb-3(href='/article/'+fav._id)= fav.title
+      .card.text-white.bg-dark.mb-3(style='max-width:400px;margin:10px;')
+        .card-body
+          h4.card-title Voted On
+          table(class="table table-hover")
+            thead
+              tr
+                th.text-white(scope="col") Articles
+                th.text-white(scope="col") Vote
+            tbody
+              tr
+                for votes in voted_on_list.voted_on
+                  th.text-white(style="font-weight:normal")
+                    a.text-white.bg-dark.mb-3(href='/article/'+votes.article._id)=votes.article.title 
+                  td.text-white(style="font-weight:normal")= votes.vote
+                  tr
+      .card.text-white.bg-dark.mb-3(style='max-width: 20rem;margin:10px;')
+        .card-body
+          h4.card-title Commented On
+          for comment in commented_on_list
+            p.card-text
+            a.text-white.bg-dark.mb-3(href='/article/'+comment._id)= comment.title
+
+  div(id='mod01' class="modal")
+    div(class="modal-dialog" role="document")
+      div(class="modal-content")
+        div(class="modal-header")
+          h5(class="modal-title") Modify User
+          button(type="button" class="close" 
+                  onclick="document.getElementById('mod01').style.display='none'" 
+                  data-dismiss="modal" 
+                  aria-label="Close")
+            span(aria-hidden="true") &times; 
+        div(class="modal-body")
+          form(action='/user/mod_user' id='mod_user' class='form-inline' method="post")
+            fieldset
+              div(class="form-group row")
+                label(for="f_name" class="col-sm-2 col-form-label") First Name
+                div(class="col-sm-10")
+                  input(type="text" class="form-control-plaintext" name="f_name" value= user.f_name)
+                label(for="l_name" class="col-sm-2 col-form-label") Last Name
+                div(class="col-sm-10")
+                  input(type="text" class="form-control-plaintext" name="l_name" value= user.l_name)
+                label(for="email" class="col-sm-2 col-form-label") Email
+                div(class="col-sm-10")
+                  input(type="text" class="form-control-plaintext" name="email" value= user.email)
+                input(type = 'submit', style='display:none')
+        div(class="modal-footer")
+          button(type="submit" class="btn btn-primary" form='mod_user') Save changes
+          button(type="button" class="btn btn-secondary" 
+                  onclick="document.getElementById('mod01').style.display='none'" 
+                  data-dismiss="modal") Close
+
+  div(id='mod02' class="modal")
+    div(class="modal-dialog" role="document")
+      div(class="modal-content")
+        div(class="modal-header")
+          h5(class="modal-title") Change Password
+          button(type="button" class="close" 
+                  onclick="document.getElementById('mod02').style.display='none'" 
+                  data-dismiss="modal" 
+                  aria-label="Close")
+            span(aria-hidden="true") &times;
+        if(pass_error.length > 0)
+          div(class="alert alert-danger")
+            strong Oh snap! !{pass_error}. Change a few things up and try submitting again.
+        div(class="modal-body")
+          form(action='/user/change_pass' id='mod_pass' class='form-inline' method="post")
+            fieldset
+              div(class="form-group row")
+                input(type='text' name='username' autocomplete="username" style="display:none;")
+                label(for="f_name" class="col-sm-2 col-form-label") Old Password
+                div(class="col-sm-10")
+                  input(type='password' class="form-control-plaintext" name="old_pass" required autocomplete='current-password')
+                label(for="l_name" class="col-sm-2 col-form-label") New Password
+                div(class="col-sm-10")
+                  input(type='password' class="form-control-plaintext" name="new_pass1" required autocomplete='new-password')
+                label(for="email" class="col-sm-2 col-form-label") Repeat New Password
+                div(class="col-sm-10")
+                  input(type='password' class="form-control-plaintext" name="new_pass2" required autocomplete='new-password')
+                input(type = 'submit', style='display:none')
+        div(class="modal-footer")
+          button(type="submit" form='mod_pass' class="btn btn-primary") Save changes
+          button(type="button" class="btn btn-secondary" 
+                  onclick="document.getElementById('mod02').style.display='none'" 
+                  data-dismiss="modal") Close
+  
+  div(id='mod03' class="modal")
+      div(class="modal-dialog" role="document")
+        div(class="modal-content")
+          div(class="modal-header")
+            h5(class="modal-title") Delete Account
+            button(type="button" class="close" 
+                   onclick="document.getElementById('mod03').style.display='none'" 
+                   data-dismiss="modal" 
+                   aria-label="Close")
+              span(aria-hidden="true") &times; 
+          div(class="modal-body")
+            form(action='/login/delete_user' id='delete_form' method='post')
+              button(type='submit' form='delete_form' class="btn btn-danger") Delete Account 
+          div(class="modal-footer")
+            button(type="button" class="btn btn-secondary" 
+                   onclick="document.getElementById('mod03').style.display='none'" 
+                   data-dismiss="modal") Close
+  
+  div(id='mod04' class="modal")
+    div(class="modal-dialog" role="document")
+      div(class="modal-content")
+        div(class="modal-header")
+          h5(class="modal-title") Select Subs
+          button(type="button" class="close" 
+                  onclick="document.getElementById('mod04').style.display='none'" 
+                  data-dismiss="modal" 
+                  aria-label="Close")
+            span(aria-hidden="true") &times; 
+        div(class="modal-body")
+          form(action='/user/change_subs'  id='sub_form' method="post")
+            fieldset(class="form-group" action='/user/change_subs' method="post")
+              legend Topics
+              -var u_tags = []
+              for tag in tag_list
+                -u_tags.push(tag.tag)
+              for tag in all_tags
+                div(class="form-check")
+                  label(class="form-check-label")
+                    if (u_tags.includes(tag.tag))
+                      input(class="form-check-input" name=tag.tag type="checkbox" checked="")
+                      Option= tag.tag
+                    else
+                      input(class="form-check-input" name=tag.tag type="checkbox")
+                      Option= tag.tag
+        div(class="modal-footer")
+          button(type="submit" form='sub_form' class="btn btn-primary") Save changes
+          button(type="button" class="btn btn-secondary" 
+                  onclick="document.getElementById('mod04').style.display='none'" 
+                  data-dismiss="modal") Close
+
+  if(pass_error.length > 0)
+    -console.log(pass_error)
+    script(type='text/javascript').
+      $(document.getElementById('mod02').style.display='block')
+ 

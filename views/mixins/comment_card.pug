@@ -1,0 +1,21 @@
+//- Template page for displaying user comments, formatting taken from bootswatch
+//- Developed By: Constant Marks and Michael Nutt
+//- Last Modified: 11/25/2019
+
+mixin comment_card(comment, user)
+    div(class="card border-secondary mb-3" style="max-width:75%;margin:auto")
+        div(class="card-header")= comment.post_date
+            //- div(class="btn-group btn-group-toggle" style="margin:10px;" data-toggle="buttons")
+            //-     label(class="btn btn-primary") +
+            //-         input(type="radio" name="vote" id="upvote" autocomplete="off")
+            //-     label(class="btn btn-primary")= comment.rank
+            //-         input(type="radio" name="vote" id="upvote" autocomplete="off")
+            //-     label(class="btn btn-primary") -
+            //-         input(type="radio" name="vote" id="downvote" autocomplete="off")  
+        div(class="card-body")
+            h5(class="card-title")= comment.text
+            a(href=comment.user_url class="card-text")= user
+           
+
+
+    

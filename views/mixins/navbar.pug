@@ -1,0 +1,85 @@
+//- Template page for the navbar formatting
+//- Developed By: Constant Marks and Michael Nutt
+//- Last Modified: 11/25/2019
+
+mixin navbar(tag_list, name, user)
+  nav(class="navbar navbar-expand-lg navbar-dark bg-dark")
+    a(class="navbar-brand" href="#") NewW-B
+    button(class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation")
+      span(class="navbar-toggler-icon")
+    div(class="collapse navbar-collapse" id="navbarColor03")
+      ul(class="navbar-nav mr-auto")
+        li(class="nav-item")
+          a(href="/" class=(name==="/" ? "nav-link active" : "nav-link")) Home
+        each tag in tag_list
+          li(class="nav-item") 
+            a(href=tag.url class=(name===tag.tag ? "nav-link active" : "nav-link")) #{tag.tag}
+      if user == undefined
+        -console.log('Logged Out')
+        form(action='/login/login' id='login-form' class='form-inline' method="post")
+          div(class="form-group" style='margin-right:10px;')
+            label(for="username")
+            input(type="text" class="form-control" name="username" placeholder="username" autocomplete="username" required)
+          div(class="form-group")
+            label(for="passwords")
+            input(type="password" class="form-control" name="password" placeholder="password" autocomplete="current-password" required)
+            input(type = 'submit', style='display:none')
+        ul(class="navbar-nav")
+          li(class="nav-item")
+              button(class="btn btn-secondary my-2 my-sm-0" type="submit" form='login-form') Login
+              button(class="btn btn-secondary my-2 my-sm-0" type="submit" onclick="document.getElementById('create_u_mod').style.display='block'") Create Account
+      else
+        -console.log('Logged In')
+        ul(class="navbar-nav")
+          li(class="nav-item")
+            a(name='user_area' href="/user" placeholder=user class=(name==="/user" ? "nav-link active" : "nav-link"))='Hello ' + user.f_name
+          form(action='/login/logout' class= 'form-inline my-2 my-lg-0' method="post")
+            li(class="nav-item") 
+            button(class="btn btn-secondary my-2 my-sm-0" type="submit") Logout
+  
+  div(id='create_u_mod' class="modal")
+    div(class="modal-dialog" role="document")
+      div(class="modal-content")
+        div(class="modal-header")
+          h5(class="modal-title") Create User
+          button(type="button" class="close" 
+                  onclick="document.getElementById('create_u_mod').style.display='none'" 
+                  data-dismiss="modal" 
+                  aria-label="Close")
+            span(aria-hidden="true") &times;
+        if(user_error.length > 0)
+          div(class="alert alert-danger")
+            strong Oh snap! !{user_error}. Change a few things up and try submitting again.
+        div(class="modal-body")
+          form(action='/login/create_user' class='form-inline' method="post")
+            fieldset
+              div(class="form-group row")
+                //- label(for="f_name" class="col-sm-2 col-form-label") First Name
+                input(type="text" class="form-control-plaintext" name="f_name" placeholder='First Name' autocomplete="given-name")
+                
+                //- label(for="l_name" class="col-sm-2 col-form-label") Last Name
+                input(type="text" class="form-control-plaintext" name="l_name" placeholder='Last Name' autocomplete='family-name')
+                
+                //- label(for="email" class="col-sm-2 col-form-label") Email
+                input(type="text" class="form-control-plaintext" name="email" placeholder='email' required autocomplete='email')
+                
+                //- label(for="email" class="col-sm-2 col-form-label") Username
+                input(type="text" class="form-control-plaintext" name="username" placeholder='username' required autocomplete='username')
+                
+                //- label(for="email" class="col-sm-2 col-form-label") Password
+                input(type="password" class="form-control-plaintext" name="password" placeholder='password' required autocomplete='new-password')
+                
+                //- label(for="email" class="col-sm-2 col-form-label") Repeat Password
+                input(type="password" class="form-control-plaintext" name="password2" placeholder='repeat password' required autocomplete='new-password')
+                input(type = 'submit', style='display:none')
+        div(class="modal-footer")
+          button(type="button" class="btn btn-primary") Save changes
+          button(type="button" class="btn btn-secondary" 
+                  onclick="document.getElementById('create_u_mod').style.display='none'" 
+                  data-dismiss="modal") Close
+          
+  if(user_error.length > 0)
+    //- -console.log(user_error)
+    script(type='text/javascript').
+      $(document.getElementById('create_u_mod').style.display='block')
+ 
