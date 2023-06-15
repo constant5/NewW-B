@@ -6,9 +6,6 @@ import json
 from random import randint
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.support import expected_conditions
-from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
 from time import sleep
@@ -20,11 +17,11 @@ class TestCreateuser():
     chrome_options = Options()
     chrome_options.add_argument("--window-size=1200,800")
     chrome_options.add_argument("--start-maximized")
-    #chrome_options.add_argument("--headless") 
-    self.driver = webdriver.Chrome('../chromedriver',options=chrome_options)
+    chrome_options.add_argument("--headless") 
+    self.driver = webdriver.Chrome()
     self.driver.implicitly_wait(10)
     self.vars = {}
-    self.driver.get("http://localhost:3000/article")
+    self.driver.get("http://54.202.121.146/article/")
 
   def teardown_method(self, method):
     self.driver.quit()
