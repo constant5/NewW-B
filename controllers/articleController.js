@@ -184,10 +184,10 @@ exports.article_detail = function(req, res, next) {
             .then(function(comments){
                 var uids = [];
                 for(comment of comments.comments) {
-                    console.info('comment:', comment)
+                    // console.info('comment:', comment)
                     uids.push(comment._id);
                 }
-                console.info('uids: ' , uids);
+                // console.info('uids: ' , uids);
                 Users.find({'_id': { $in: uids}}, {'u_id': 1})
                 .exec(callback);
             });
@@ -322,7 +322,7 @@ exports.search = [
                 sidebar(callback);
             },
             list_articles: function(callback) {
-                console.log(req.body.search);
+                // console.log(req.body.search);
                 Article.find({$or: [{'text': {$regex: req.body.search}}, {'title': {$regex: req.body.search}}, {'keywords': req.body.search}]})
                 .sort([['rank', 'ascending']])
                 .exec(callback);
