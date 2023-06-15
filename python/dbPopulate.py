@@ -38,7 +38,7 @@ def update_articles():
 
     # push articles to db
     for article in new_articles:
-        print(article)
+        # print(article)
         print('Inserting: ', article['title'], '\nwith tags', article['tags'])
         article_col.insert_one(article)
         #article_col.insert_many(new_articles)
