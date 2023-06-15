@@ -32,6 +32,7 @@ gen = DocumentGenerator()
 # calls the ArticleLoader class to pull down articles from the rss news feed
 # save the files html data, and push article dosumtnes to db
 def update_articles():
+    print('adding articles....')
     AL = ArticleLoader()
     # fetch new articles
     new_articles = AL.fetchNew()
@@ -39,7 +40,7 @@ def update_articles():
     # push articles to db
     for article in new_articles:
         # print(article)
-        print('Inserting: ', article['title'], '\nwith tags', article['tags'])
+        # print('Inserting: ', article['title'], '\nwith tags', article['tags'])
         article_col.insert_one(article)
         #article_col.insert_many(new_articles)
 
@@ -63,12 +64,14 @@ def getArticlesAndTags():
     return article_ids, tags
 
 # creates random users and pushes them to the db
-def genUsers(article_ids, tags, n_users=100, drop_users=True,test_user=False):
+def genUsers(article_ids, tags, n_users=10000, drop_users=True,test_user=False):
     # article_ids [] - list of ids to generate random favorites, votes and comments
     # list of tags [] - list of tags to to generate random follows
     # n_users (int)- specifies the number of random users to generate
     # drop_users (bool) - specifies wether to drop all users before adding more
     # test_user (bool) - specifeis wether or nad to add the test user
+
+    print('adding users....')
 
     if drop_users:
         # drop users
@@ -133,6 +136,8 @@ def articleCommentAndRank(article_ids, users, comments= True,  drop_comm=True):
     # comments (bool) - generate comments 
     # drop_comm (bool) - drop all comments before proceeding
 
+    print('adding coments and rankings....')
+
     # first drop existing comments
     if drop_comm:
         article_col.update({}, {'$unset': {'comments':""}},multi=True)
@@ -163,7 +168,9 @@ def articleCommentAndRank(article_ids, users, comments= True,  drop_comm=True):
                 if v_article['article']==ObjectId(article):
                     rank += v_article['vote']
         if rank>0:
-            print(f'{article} rank to update', rank)
+            
+            # print(f'{article} rank to update', rank)
+            continue
 
         # update rank
         article_col.find_one_and_update(
@@ -221,7 +228,7 @@ if __name__ == "__main__":
     update_tags()
     articles, tags = getArticlesAndTags()
     print(tags)
-    users = genUsers(articles, tags,n_users=3, drop_users=False,test_user=True)
+    users = genUsers(articles, tags,n_users=500, drop_users=False,test_user=True)
     users = list(user_col.find({}))
     articleCommentAndRank(articles, users,comments=True, drop_comm=False)
     removeDuplicates()

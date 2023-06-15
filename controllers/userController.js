@@ -54,8 +54,8 @@ function findComments(callback,user) {
 
 // update a users details
 function updateUser(callback, req){
-    console.info(req.body.f_name)
-    console.info(req.user._id.toString())
+    // console.info(req.body.f_name)
+    // console.info(req.user._id.toString())
     Users.findOneAndUpdate({"_id":req.user._id.toString()},
                             {$set: {"f_name":req.body.f_name, 
                                    "l_name":req.body.l_name, 
@@ -227,8 +227,8 @@ exports.change_subs = function(req, res, next) {
         }
     }, function (err, results) {
         if(err) { return next(err);}
-        console.info("new tag list: ",results.update);
-        console.info("old tag list: ", req.user.follows);
+        // console.info("new tag list: ",results.update);
+        // console.info("old tag list: ", req.user.follows);
         
         req.user.follows = results.update;
         req.session.save( function(err) {
@@ -240,7 +240,7 @@ exports.change_subs = function(req, res, next) {
 };
 // POST add_favorite form
 exports.add_favorite = function(req, res, next) {
-    console.info('pushing favrite ',req.params.id, "to" , req.user.u_id );
+    // console.info('pushing favrite ',req.params.id, "to" , req.user.u_id );
     Users.updateOne({_id: req.user._id}, {
         $push: { "favorites": req.params.id}
     }).exec(function(err, user) {

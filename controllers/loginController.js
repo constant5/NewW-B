@@ -16,7 +16,7 @@ function createUser(callback, req, err, ){
 
   Users.findOne({u_id:req.body.username}).then(function(result){ 
 
-    console.info(result);
+    // console.info(result);
     if (result == null) {
         console.info(req.body.password,req.body.password2)
             if (req.body.password!=req.body.password2){
