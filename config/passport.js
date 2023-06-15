@@ -53,7 +53,7 @@ module.exports = function(passport) {
           if (err) { return callback(err); }
           if (!user) { return callback(null, false, { message: 'Incorrect username or password.' }); }
           if (!user.validPassword(password)) { return callback(null, false, { message: 'Incorrect username or password.' }); }
-          console.info("User logged in: ",user);
+          console.info("User logged in: ",user.u_id);
           return callback(null, user);
         });
       }));

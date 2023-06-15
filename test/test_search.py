@@ -11,7 +11,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.keys import Keys
 from pymongo import MongoClient
 from selenium.webdriver.chrome.options import Options
-client = MongoClient('mongodb://newsDev:newB@10.125.187.72:9002/news')
+client = MongoClient('mongodb+srv://admin:UkIviLy2FbfupOy7@newb.a31n6wu.mongodb.net/?retryWrites=true&w=majority')
 db = client.news
 user_col = db.users
 
@@ -26,7 +26,7 @@ class TestSearch():
     self.driver = webdriver.Chrome('../chromedriver',options=chrome_options)
     self.driver.implicitly_wait(10)
     self.vars = {}
-    self.driver.get("http://localhost:3000/article")
+    self.driver.get("http://54.202.121.146/article/")
   
   def teardown_method(self, method):
     self.driver.quit()

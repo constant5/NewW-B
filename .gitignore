@@ -8,3 +8,4 @@ package-lock.json
 # ingore certs
 *.pem
 articles/
+chromedriver.exe
