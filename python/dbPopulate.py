@@ -19,8 +19,8 @@ from dateutil import parser
 from rss_reader import ArticleLoader
 
 ## Connect to Mongo and generate collection objects
-client = MongoClient('mongodb://newsDev:newB@10.125.187.72:9002/news')
-db = client.news
+client = MongoClient("mongodb+srv://admin:UkIviLy2FbfupOy7@newb.a31n6wu.mongodb.net/?retryWrites=true&w=majority")
+db = client.newb
 user_col = db.users
 article_col = db.articles
 tag_col = db.tags
@@ -38,9 +38,15 @@ def update_articles():
 
     # push articles to db
     for article in new_articles:
-        print('Inserting: ', article['title'])
-        article_col.update({'title':article['title']},article, upsert=True)
+        print(article)
+        print('Inserting: ', article['title'], '\nwith tags', article['tags'])
+        article_col.insert_one(article)
         #article_col.insert_many(new_articles)
+
+def update_tags():
+    tags = ["Biz & IT", "Tech",  "Science", "Policy" ,"Cars", "Gaming and Culture"]
+    for tag in tags:
+        tag_col.insert_one({"tag":tag})
 
 # retrievs all article and tag ids
 def getArticlesAndTags():
@@ -80,7 +86,7 @@ def genUsers(article_ids, tags, n_users=100, drop_users=True,test_user=False):
                     'pw': 'test',
                     'email': 'test@email.com',
                     'create_date': datetime.utcnow(),
-                    'follows': sample(tags, k = randint(1,7)),
+                    'follows': sample(tags, 2),
                     'favorites': [ObjectId(id) for id in sample(article_ids, k = randint(0,20))],
                     'voted_on' : [{'article': ObjectId(id), 'vote':sample([-1,1], 1)[0]} for id in sample(article_ids, k = randint(0,len(article_ids)))],
                     'commented_on' : [ObjectId(id) for id in sample(article_ids, k = randint(0,10))]
@@ -108,7 +114,7 @@ def genUsers(article_ids, tags, n_users=100, drop_users=True,test_user=False):
             'pw': pw,
             'email': email,
             'create_date': datetime.utcnow(),          
-            'follows': sample(tags, k = randint(1,7)),
+            'follows': sample(tags,3),
             'favorites': [ObjectId(id) for id in sample(article_ids, k = randint(0,20))],
             'voted_on' : [{'article': ObjectId(id), 'vote':sample([-1,1], 1)[0]} for id in sample(article_ids, k = randint(0,len(article_ids)))],
             'commented_on' : [ObjectId(id) for id in sample(article_ids, k = randint(0,10))]
@@ -212,8 +218,10 @@ def remove_test():
 # set parameters here for runtime
 if __name__ == "__main__":
     update_articles()
+    update_tags()
     articles, tags = getArticlesAndTags()
-    users = genUsers(articles, tags,n_users=5, drop_users=False,test_user=False)
+    print(tags)
+    users = genUsers(articles, tags,n_users=3, drop_users=False,test_user=True)
     users = list(user_col.find({}))
     articleCommentAndRank(articles, users,comments=True, drop_comm=False)
     removeDuplicates()

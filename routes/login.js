@@ -19,7 +19,7 @@ router.post('/login', passport.authenticate('local-login', {
 // POST user logout form
 router.post('/logout', login_controller.logout);
 // POST user create form
-router.post('/create_user', login_controller.create_user)
+router.post('/create_user', login_controller.create_user);
 // POST user delete form
 router.post('/delete_user', login_controller.delete_user)
 

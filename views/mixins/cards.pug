@@ -30,7 +30,6 @@ mixin cards(article, user, votes)
                 - var id = article._id;
                 div(class="btn-group btn-group-toggle" style="margin:10px;" data-toggle="buttons")
                 if user.favorites.length > 0
-                    //- - console.log("Article: " + article);
                     - if (user.favorites.includes(id))
                         button(type="submit" class="btn btn-danger" id=id onclick="favorite('"+id+"')") Unfavorite
                     - else

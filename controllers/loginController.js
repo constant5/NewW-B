@@ -11,25 +11,23 @@ require('../config/passport')(passport)
 /* Helper functions for controller functions */
 
 // creates a user and adds to DB if username is unique and passwords match
-function createUser(callback, req, res){
+function createUser(callback, req, err, ){
+  console.info('looking for user', req.body.username)  ; 
 
-  Users.findOne({u_id:req.body.username}).then(function(result){
-        if (result === null) {
-            if (req.body.new_pass1==req.body.new_pass2){
-                var user = new Users({u_id: req.body.username, 
-                                        f_name:req.body.f_name, 
-                                        l_name:req.body.l_name, 
-                                        email:req.body.email,
-                                        pw:req.body.password});
-                user.save();
+  Users.findOne({u_id:req.body.username}).then(function(result){ 
 
-                } else{
+    console.info(result);
+    if (result == null) {
+        console.info(req.body.password,req.body.password2)
+            if (req.body.password!=req.body.password2){
                     req.flash('user_error','Passwords do not match');
+                    // throw err
                 };
         }else{
-            req.flash('user_error','User already exists'); 
+            req.flash('user_error','User already exists');
+            // throw err
         };
-        console.log(req.flash());
+        // console.log(req.flash());
         callback();
     });
 };
@@ -63,21 +61,22 @@ exports.create_user = [
             req.session.save(function(){
                 req.session.reload(function(){
                     res.redirect('/article');
+                    // return;
                 });    
             });
 
         } else {
             async.parallel({
                 update: function(callback) {
-                    createUser(callback, req, res);
+                    createUser(callback, req);
                 }
             }, function(err){
                 if(err) { return next(err);}
                 req.session.save(function(){
                     req.session.reload(function(){
-                        //res.redirect('/article');
-                        passport.authenticate('local-login')(req, res, function () {
-                            res.redirect('/article');     
+                        res.redirect('/article');
+                        passport.authenticate('local-signup')(req, res, function () {
+                            // res.redirect('/article');     
                         });
                     });    
                 });
@@ -104,7 +103,10 @@ exports.delete_user = function(req, res, next){
 
 
 // logout a user when the logout form is POSTed
-exports.logout= function(req, res){
-    req.logout();
-    res.redirect('/');
+exports.logout= function(req, res, next){
+    req.logout(function(err) {
+        if (err) { return next(err); }
+        res.redirect('/');
+      });
 };
+

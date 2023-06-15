@@ -4,7 +4,7 @@
 // User Model
 const mongoose = require('mongoose');
 var bcrypt   = require('bcrypt-nodejs');
-const Article = require('./articles')
+// const Article = require('./articles')
 const Schema =  mongoose.Schema;
 
 // Create Schema

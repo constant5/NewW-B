@@ -6,16 +6,21 @@ var Tags = require('../models/tags');
 var Users = require('../models/users');
 var async = require('async');
 const validator= require('express-validator');
+var login_controller = require('./loginController');
+var express = require('express');
+var passport = require('passport');
+require('../config/passport')(passport)
+
+
+var router = express.Router();
 
 /* Helper functions for controller functions */
 
 // get all tags that a user follows
 function findTags(callback,user) {
-    Users.findOne({'u_id':user.u_id}, {'follows':1}).then(function(follows){
-        Tags.find({'tag': { $in: follows.follows}})
-        .sort([['tag', 'ascending']])
-        .exec(callback);
-    });
+    Tags.find({'tag': { $in: user.follows}})
+    .sort([['tag', 'ascending']])
+    .exec(callback);
 };
 
 // get all tags
@@ -27,39 +32,43 @@ function allTags(callback) {
 
 // get a users favorites
 function findFavorites(callback,user) {
-    Users.findOne({u_id:user.u_id}, {_id:0,favorites:1}).then(function(favorites){
-        Article.find({'_id': { $in: favorites.favorites}},{title:1, })
-        .exec(callback);
-    });
+    console.info("finding favorites");
+    Article.find({'_id': { $in: user.favorites}},{title:1, })
+    .exec(callback);
 };
 
 // get a users voted_on 
 function findVotes(callback,user) {
-    Users.findOne({u_id:user.u_id},{voted_on:1})
+    console.info("finding votes")
+    Users.findOne({"_id":user._id},{"voted_on":1})
     .populate({path: 'voted_on.article', model: Article, select:'title'})
     .exec(callback) 
 };
 
 // get a useres commented_on
 function findComments(callback,user) {
-    Users.findOne({u_id:user.u_id}, {_id:0,commented_on:1}).then(function(commented_on){
-        Article.find({_id: { $in: commented_on.commented_on}},{title:1})
-        .exec(callback);
-    });
+    console.info("finding comments")
+    Article.find({_id: { $in: user.commented_on}},{title:1})
+    .exec(callback);
 };
-
 
 // update a users details
 function updateUser(callback, req){
-    Users.findOneAndUpdate({u_id:req.user.u_id},
-                           {f_name:req.body.f_name, 
-                            l_name:req.body.l_name, 
-                            email:req.body.email}).exec(callback)
+    console.info(req.body.f_name)
+    console.info(req.user._id.toString())
+    Users.findOneAndUpdate({"_id":req.user._id.toString()},
+                            {$set: {"f_name":req.body.f_name, 
+                                   "l_name":req.body.l_name, 
+                                   "email":req.body.email}},
+                            {ReturnNewDocument: true})
+                            .exec(callback);
 };
+
 
 // change a users password
 function changePass(callback,req) {
-    Users.findOne({u_id:req.user.u_id}).then(function(record){
+    console.info(req.user._id)
+    Users.findOne({"_id":req.user._id}).then(function(record){
         if (record.pw === req.body.old_pass) {
             if (req.body.new_pass1 === req.body.new_pass2) {
                 return Users.findOneAndUpdate({u_id:req.user.u_id},{pw:req.body.new_pass1})
@@ -68,7 +77,7 @@ function changePass(callback,req) {
                 req.flash('pass_error','New passwords do not match');
             };
         }else{
-            req.flash('pass_error','Old Passwords do not match');
+            req.flash('pass_error','Old Password does not match');
         };
         callback()
     });
@@ -78,10 +87,13 @@ function changePass(callback,req) {
 function changeSubs(callback, req, res) {
     var tag_list = [];
     for (tag in req.body){
-        tag_list.push(tag)
+        tag_list.push(tag);
     }
-    //console.log(tag_list)
-    Users.findOneAndUpdate({u_id:req.user.u_id}, {follows:tag_list}).exec(callback)
+    // console.log("New tag list: " ,tag_list)
+    return Users.findOneAndUpdate({"_id":req.user._id},
+    {$set: {"follows":tag_list}},
+    {ReturnNewDocument: true})
+    .exec(callback(null, tag_list));
 };
 
 
@@ -97,15 +109,19 @@ exports.user_profile = function(req, res, next) {
             findTags(callback,req.user);
         },
         all_tags: function(callback) {
+           
             allTags(callback);
         },
         favorites: function(callback) {
+         
             findFavorites(callback,req.user);
         },
         votes: function(callback) {
+        
             findVotes(callback,req.user);
         },
         comments: function(callback) {
+            console.info("finding comments");
             findComments(callback,req.user);
         }   
     }, function(err, result) {
@@ -150,11 +166,15 @@ exports.mod_user = [
                     updateUser(callback, req, res)
                 }
             }, function(err) {
-                if(err) { return next(err);}
+                if(err) {return next(err);}
+                req.user.l_name  = req.body.l_name;
+                req.user.f_name  = req.body.f_name;
+                req.user.email  = req.body.email;
                 req.session.save( function(err) {
                     req.session.reload( function(err) {
                         res.redirect('/user');
-                    });    
+                    });
+                    // });    
                 });
             });
         };
@@ -200,12 +220,17 @@ exports.change_pass = [
 
 // change followed tags when change_subs form is POSTed
 exports.change_subs = function(req, res, next) {
+
     async.parallel({
         update: function(callback) {
-            changeSubs(callback, req, res)
+            changeSubs(callback, req);
         }
-    }, function (err) {
-        if(err) { return next(err);} 
+    }, function (err, results) {
+        if(err) { return next(err);}
+        console.info("new tag list: ",results.update);
+        console.info("old tag list: ", req.user.follows);
+        
+        req.user.follows = results.update;
         req.session.save( function(err) {
             req.session.reload( function (err) {
                 res.redirect('/user')
@@ -213,24 +238,38 @@ exports.change_subs = function(req, res, next) {
         });
     });
 };
-
 // POST add_favorite form
 exports.add_favorite = function(req, res, next) {
-    Users.updateOne({_id: req.user.id}, {
-        $push: { favorites: req.params.id}
+    console.info('pushing favrite ',req.params.id, "to" , req.user.u_id );
+    Users.updateOne({_id: req.user._id}, {
+        $push: { "favorites": req.params.id}
     }).exec(function(err, user) {
         if(err) {return next(err);}
+        req.user.favorites.push(req.params.id);
+        console.info('favortites: ' ,req.user.favorites)
         res.sendStatus(200);
     })
 }
 
 // POST remove_favorite form
 exports.remove_favorite = function(req, res, next) {
-    Users.updateOne({_id: req.user.id}, {
+    Users.updateOne({_id: req.user._id}, {
         $pull: { favorites: req.params.id}
-    }).exec(function(err, user) {
+    }).exec(function(err) {
         if(err) {return next(err);}
-        res.sendStatus(200);
+        favorites = [];
+        const obj = req.user.favorites;
+        for (const fav in obj){
+            // console.info(obj[fav]);
+            if (obj[fav] != req.params.id){
+                favorites.push(obj[fav]);
+            }
+
+        // res.sendStatus(200);
+    };
+    console.info("removing favorites", favorites)
+    req.user.favorites = favorites;
+    res.sendStatus(200);
     });
 }
 
@@ -243,7 +282,7 @@ exports.upvote = function(req, res, next) {
             if(vote.vote == 1) {
                 async.parallel({
                     update_user: function(callback) {
-                        Users.updateOne({"_id": req.user.id}, {
+                        Users.updateOne({"_id": req.user._id}, {
                             $pull: {
                                 "voted_on": {
                                     "article": req.params.id,
@@ -265,7 +304,7 @@ exports.upvote = function(req, res, next) {
                 console.log("Case 2: Changing Vote");
                 async.parallel({
                     update_user: function(callback) {
-                        Users.updateOne({"_id": req.user.id}, {
+                        Users.updateOne({"_id": req.user._id}, {
                             $pull: {
                                 "voted_on": {
                                     "article": req.params.id,
@@ -273,7 +312,7 @@ exports.upvote = function(req, res, next) {
                                 }
                             }
                         }).then(function(){
-                            Users.updateOne({"_id": req.user.id}, {
+                            Users.updateOne({"_id": req.user._id}, {
                                 $push: {"voted_on": {"article": req.params.id, "vote": 1}}
                             }).exec(callback);
                         });
@@ -294,7 +333,7 @@ exports.upvote = function(req, res, next) {
     if(!found){
         async.parallel({
             update_user: function(callback) {
-                Users.updateOne({"_id": req.user.id}, {
+                Users.updateOne({"_id": req.user._id}, {
                     $push: {"voted_on": {"article": req.params.id, "vote": 1}}
                 }).exec(callback);
             },
@@ -319,7 +358,7 @@ exports.downvote = function(req, res, next) {
             if(vote.vote == -1) {
                 async.parallel({
                     update_user: function(callback) {
-                        Users.updateOne({"_id": req.user.id}, {
+                        Users.updateOne({"_id": req.user._id}, {
                             $pull: {
                                 "voted_on": {
                                     "article": req.params.id,
@@ -340,7 +379,7 @@ exports.downvote = function(req, res, next) {
             } else if(vote.vote == 1){
                 async.parallel({
                     update_user: function(callback) {
-                        Users.updateOne({"_id": req.user.id}, {
+                        Users.updateOne({"_id": req.user._id}, {
                             $pull: {
                                 "voted_on": {
                                     "article": req.params.id,
@@ -348,7 +387,7 @@ exports.downvote = function(req, res, next) {
                                 }
                             }
                         }).then(function(){
-                            Users.updateOne({"_id": req.user.id}, {
+                            Users.updateOne({"_id": req.user._id}, {
                                 $push: {"voted_on": {"article": req.params.id, "vote": -1}}
                             }).exec(callback);
                         });
@@ -369,7 +408,7 @@ exports.downvote = function(req, res, next) {
     if(!found) {
         async.parallel({
             update_user: function(callback) {
-                Users.updateOne({"_id": req.user.id}, {
+                Users.updateOne({"_id": req.user._id}, {
                     $push: {"voted_on": {"article": req.params.id, "vote": -1}}
                 }).exec(callback);
             },

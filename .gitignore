@@ -5,3 +5,6 @@ Users/
 start_lib
 # package.json
 package-lock.json
+# ingore certs
+*.pem
+articles/

@@ -46,6 +46,7 @@ class ArticleLoader():
                 img_src = BeautifulSoup(entry.content[0].value, 'html.parser').find('div', {'class':'video'}).div.get('src')
             else:
                 img_src = BeautifulSoup(entry.content[0].value, 'html.parser').img['src']
+            print(entry.tags)
             article = {
                 'newsgroup': f.feed.title,
                 'title': entry.title,

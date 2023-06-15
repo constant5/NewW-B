@@ -51,7 +51,7 @@ mixin navbar(tag_list, name, user)
           div(class="alert alert-danger")
             strong Oh snap! !{user_error}. Change a few things up and try submitting again.
         div(class="modal-body")
-          form(action='/login/create_user' class='form-inline' method="post")
+          form(action='/login/create_user' id='create-form' class='form-inline' method="post")
             fieldset
               div(class="form-group row")
                 //- label(for="f_name" class="col-sm-2 col-form-label") First Name
@@ -73,7 +73,7 @@ mixin navbar(tag_list, name, user)
                 input(type="password" class="form-control-plaintext" name="password2" placeholder='repeat password' required autocomplete='new-password')
                 input(type = 'submit', style='display:none')
         div(class="modal-footer")
-          button(type="button" class="btn btn-primary") Save changes
+          button(type="submit" class="btn btn-primary" form='create-form') Save changes
           button(type="button" class="btn btn-secondary" 
                   onclick="document.getElementById('create_u_mod').style.display='none'" 
                   data-dismiss="modal") Close

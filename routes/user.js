@@ -3,6 +3,9 @@
 //Router for user methods
 var express = require('express');
 var router = express.Router();
+var passport = require('passport');
+require('../config/passport')(passport)
+
 
 // Require controller modules
 var user_controller = require('../controllers/userController');
@@ -13,6 +16,12 @@ router.get('/', user_controller.user_profile);
 router.post('/', user_controller.user_profile);
 // POST mofidy user form
 router.post('/mod_user', user_controller.mod_user);
+// POST user login form
+// router.post('/mod_user', passport.authenticate('re-login', {
+//     successRedirect : '/user', // redirect back but logged in
+//     failureRedirect : '/user', // redirect back but not logged in
+//     failureFlash : true // allow flash messages
+// }));
 // POST modify password form
 router.post('/change_pass', user_controller.change_pass);
 // POST cmodiy subscritions form

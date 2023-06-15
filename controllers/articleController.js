@@ -20,11 +20,9 @@ function findTags(callback,user) {
         .sort([['tag', 'ascending']])
         .exec(callback);
     } else {
-        Users.findOne({'u_id':user.u_id}, {'follows':1}).then(function(follows){
-            Tags.find({'tag': { $in: follows.follows}})
-            .sort([['tag', 'ascending']])
-            .exec(callback);
-        });
+        Tags.find({'tag': { $in: user.follows}})
+        .sort([['tag', 'ascending']])
+        .exec(callback);
     };
 };
 
@@ -35,14 +33,19 @@ function sidebar(callback) {
     ).exec(callback);
 }
 
-// Changes vote values to dictionary with article ID as key
-function votes_to_dict(votes) {
+
+// return users vote_on as a dcitionary
+function votes_to_dict(user) {
+    // console.info(user)
+
     v_dict = {};
-    for(vote of votes) {
+    for(vote of user.voted_on) {
+        // console.info(vote)
         v_dict[vote.article] = vote.vote;
     }
     return v_dict;
-}
+
+};
 
 /* Controller Functions
    All controller functions inputs are the standard html entitities
@@ -53,6 +56,7 @@ function votes_to_dict(votes) {
 exports.index = function(req, res, next) {
     async.parallel({
         tags: function(callback) {
+            // console.info(req.user);
             findTags(callback,req.user);
         },
         sidebar: function(callback) {
@@ -67,7 +71,7 @@ exports.index = function(req, res, next) {
         if(err) { return next(err);}
         //var username = null;
         if(req.user) {
-            var v = votes_to_dict(req.user.voted_on);
+            var v = votes_to_dict(req.user);
         } else {
             var v = "";
         }
@@ -180,8 +184,10 @@ exports.article_detail = function(req, res, next) {
             .then(function(comments){
                 var uids = [];
                 for(comment of comments.comments) {
-                    uids.push(comment.u_id);
+                    console.info('comment:', comment)
+                    uids.push(comment._id);
                 }
+                console.info('uids: ' , uids);
                 Users.find({'_id': { $in: uids}}, {'u_id': 1})
                 .exec(callback);
             });
@@ -265,7 +271,7 @@ exports.submit_comment = [
 
         var comment = new Comment(
             {
-                u_id: req.user.id,
+                u_id: req.user._id,
                 text: req.body.text,
                 date: + Date.now(),
                 rank: 0
@@ -281,7 +287,7 @@ exports.submit_comment = [
                     }).exec(callback);
                 },
                 user_update: function(callback) {
-                    Users.updateOne({"_id": req.user.id},{
+                    Users.updateOne({"_id": req.user._id},{
                         $push: {commented_on: req.params.id}
                     }).exec(callback);
                 }

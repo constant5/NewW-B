@@ -4,13 +4,11 @@
 var createError = require('http-errors');
 var express = require('express');
 var session = require('express-session');
+var csrf = require('csurf');
+var cookieParser = require('cookie-parser');
 var MongoDBStore = require('connect-mongodb-session')(session);
 var path = require('path');
 var logger = require('morgan');
-
-
-/// testing git
-
 var passport = require('passport');
 var flash = require('connect-flash');
 
@@ -23,14 +21,20 @@ var app = express();
 app.listen(8000,'0.0.0.0')
 
 var mongoose = require('mongoose');
-var mongoDB = 'mongodb://newsDev:newB@10.125.187.72:9002/news';
-mongoose.connect(mongoDB, {useNewUrlParser: true, useUnifiedTopology: true});
+// var mongoDB = 'mongodb://newsDev:newB@10.125.187.72:9002/news';
+var mongoDB = 'mongodb+srv://admin:UkIviLy2FbfupOy7@newb.a31n6wu.mongodb.net/?retryWrites=true&w=majority';
+mongoose.connect(mongoDB,{
+    dbName : 'newb',
+    useNewUrlParser: true,
+    useUnifiedTopology:true, 
+    useFindAndModify:false });
 var db = mongoose.connection;
 db.on('error', console.error.bind(console, 'MongoDB Connection Error:'));
-mongoose.set('useFindAndModify', false);
+// mongoose.set('useFindAndModify', false);
 
 var store = new MongoDBStore({
-  uri: 'mongodb://newsDev:newB@10.125.187.72:9002/news',
+  uri: mongoDB,
+  databaseName : 'newb',
   collection: 'sessions'
 });
 
@@ -38,29 +42,38 @@ store.on('error', function(error){
   console.log(error);
 });
 
-app.use(require('express-session')({
-  secret: 'This is a secret',
-  cookie: {
-    maxAge: 1000 * 60 * 60 * 24 * 7 // 1 week
-  },
-  store: store,
-  // Boilerplate options, see:
-  // * https://www.npmjs.com/package/express-session#resave
-  // * https://www.npmjs.com/package/express-session#saveuninitialized
-  resave: true,
-  saveUninitialized: true
+app.use(logger('dev'));
+app.use(express.json());
+app.use(express.urlencoded({ extended: false }));
+
+app.use(cookieParser());
+app.use(express.static(path.join(__dirname, 'public')));
+app.use(session({
+  secret: 'dead or alive',
+  resave: false,
+  saveUninitialized: false,
+  store: store
 }));
+// app.use(csrf({secure:true,httpOnly:false}) );
+app.use(passport.authenticate('session'));
+app.use(function(req, res, next) {
+  var msgs = req.session.messages || [];
+  res.locals.messages = msgs;
+  res.locals.hasMessages = !! msgs.length;
+  req.session.messages = [];
+  next();
+});
+// app.use(function(req, res, next) {
+//   res.locals.csrfToken = req.csrfToken();
+//   next();
+// });
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'pug');
 
-app.use(logger('dev'));
-app.use(express.json());
-app.use(express.urlencoded({ extended: false }));
-app.use(express.static(path.join(__dirname, 'public')));
-app.use(passport.initialize());
-app.use(passport.session());
+// app.use(passport.initialize());
+// app.use(passport.session());
 app.use(flash());
 
 
