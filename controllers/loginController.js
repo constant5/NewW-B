@@ -12,13 +12,13 @@ require('../config/passport')(passport)
 
 // creates a user and adds to DB if username is unique and passwords match
 function createUser(callback, req, err, ){
-  console.info('looking for user', req.body.username)  ; 
+//   console.info('looking for user', req.body.username)  ; 
 
   Users.findOne({u_id:req.body.username}).then(function(result){ 
 
     // console.info(result);
     if (result == null) {
-        console.info(req.body.password,req.body.password2)
+        // console.info(req.body.password,req.body.password2)
             if (req.body.password!=req.body.password2){
                     req.flash('user_error','Passwords do not match');
                     // throw err
