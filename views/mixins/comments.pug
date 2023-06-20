@@ -6,6 +6,6 @@ include comment_card
 
 mixin comments(comments, users)
     each comment in comments
-        //- - console.info(users)
-        var user = users[comment.u_id.toString()];
+        //- -console.info(comment, users)
+        //- var user = users[comment.u_id.toString()];
         +comment_card(comment, user)

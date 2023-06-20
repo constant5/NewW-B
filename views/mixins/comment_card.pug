@@ -13,8 +13,10 @@ mixin comment_card(comment, user)
             //-     label(class="btn btn-primary") -
             //-         input(type="radio" name="vote" id="downvote" autocomplete="off")  
         div(class="card-body")
+            //- -console.info(comment)
             h5(class="card-title")= comment.text
-            a(href=comment.user_url class="card-text")= user
+            h7(class="card-title")= users[comment.u_id]
+            //- a(href=comment.user_url class="card-text")= user
            
 
 
