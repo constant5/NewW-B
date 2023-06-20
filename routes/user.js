@@ -1,14 +1,14 @@
 // Developed By: Constant Marks and Michael Nutt
 // Last Modified: 11/25/2019
-//Router for user methods
-var express = require('express');
-var router = express.Router();
-var passport = require('passport');
-require('../config/passport')(passport)
+// Router for user methods
+const express = require('express');
+const router = express.Router();
+const passport = require('passport');
+require('../config/passport')(passport);
 
 
 // Require controller modules
-var user_controller = require('../controllers/userController');
+const user_controller = require('../controllers/userController');
 
 // GET home page and user login form defualts
 router.get('/', user_controller.user_profile);

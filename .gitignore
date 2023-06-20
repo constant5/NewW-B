@@ -1,11 +1,16 @@
 # Ignore node_modules folder
 node_modules/
 Users/
-*.code-workspace
+articles/
 start_lib
 # package.json
 package-lock.json
 # ingore certs
 *.pem
-articles/
+# ignore chromedriver for performance tests (system dependant)
 chromedriver.exe
+# ignore local code settigs
+*.code-workspace
+.vscode/settings.json
+# ignore local linting rules
+.eslintrc.json
