@@ -3,11 +3,11 @@
 
 // Router for article views
 
-var express = require('express');
-var router = express.Router();
+const express = require('express');
+const router = express.Router();
 
 // Require controller module
-var article_controller = require('../controllers/articleController');
+const article_controller = require('../controllers/articleController');
 
 
 // GET home page and user login form defualts
