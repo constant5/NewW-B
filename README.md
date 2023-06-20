@@ -76,20 +76,21 @@ Tags:
 ```
 
 ## How to Run Locally
-* For all accesses must either be on the UNT network or VPN
-* Node.js required to run web server locally, database is hosted on lab server on UNT network
+* Configure a local mongodb db to popluate and modify user credentials n the project
+* Populate the db with script "python/dbPopulate"
+* Node.js required to run web server locally
 * After Node is installed run the following: 
   ```
     npm install
   ```
 * This will install all dependencies found in package.json
+* After package is installed run the following: 
+  ```
+    npm script-run start
+  ```
+* This will start a local webserver listening on port 3000
 * Then go to localhost:3000 in web browser
 
-## How to Access on Server
-* Server address: http://10.125.187.72:8000/article
-* Can create a new user or login with:
-> u: test\
-> p: test
 
 ## Limitations
 Main limitation is currently only pulls from one news source, future work would involve adding feature to add other news source RSS feeds by users.
