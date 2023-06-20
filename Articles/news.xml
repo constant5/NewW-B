@@ -12,7 +12,11 @@
 	<atom:link href="https://arstechnica.com/feed/?t=c951724f17882c293435a61d10002d8b" rel="self" type="application/rss+xml" />
 	<link>https://arstechnica.com</link>
 	<description>Serving the Technologist for more than a decade. IT news, reviews, and analysis.</description>
+<<<<<<< HEAD
+	<lastBuildDate>Thu, 15 Jun 2023 14:51:27 +0000</lastBuildDate>
+=======
 	<lastBuildDate>Thu, 15 Jun 2023 16:51:49 +0000</lastBuildDate>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +32,8 @@
 	<height>32</height>
 </image> 
 	<item>
+<<<<<<< HEAD
+=======
 		<title>Megaupload coders avoid 10-year sentences by testifying against Kim Dotcom</title>
 		<link>https://arstechnica.com/?p=1948120</link>
 					<comments>https://arstechnica.com/tech-policy/2023/06/megaupload-coders-get-light-sentences-will-testify-against-kim-dotcom/#comments</comments>
@@ -89,6 +95,7 @@
 		
 			</item>
 		<item>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 		<title>Mercedes-Benz showcases axial flux EV motor in One-Eleven concept car</title>
 		<link>https://arstechnica.com/?p=1947992</link>
 					<comments>https://arstechnica.com/cars/2023/06/mercedes-benz-showcases-axial-flux-ev-motor-in-one-eleven-concept-car/#comments</comments>
@@ -123,7 +130,11 @@
 
 <div><a name='page-1'></a></div>
 <aside class="pullbox sidebar fullwidth">Mercedes-Benz provided a flight from DC to San Diego and a return from Los Angeles, plus four nights' hotels so we could meet the Vision One-Eleven as well as drive a new Mercedes-AMG plug-in hybrid and a new battery electric vehicle. You'll be able to read those first-drive reports on June 27 and July 11. Ars does not accept paid editorial content.</aside>
+<<<<<<< HEAD
+<p>CARLSBAD, CALIF.—In 1969, a couple of short months after humans first walked on the surface of the moon, Mercedes-Benz debuted a revolutionary new concept car at that year's Frankfurt auto show. Called the C111, this orange-and-black coupe featured dramatic gullwing doors but also served as a testbed for new technology, including a four-rotor Wankel rotary engine. Now, 54 years later, it has drawn inspiration from that car for its newest concept, the Vision One-Eleven. It, too, is orange, and it also showcases new technology—in this case very small and lightweight axial flux electric motors.</p>
+=======
 <p>CARLSBAD, CALIF.—In 1969, a couple of short months after humans first walked on the surface of the moon, Mercedes-Benz debuted a revolutionary new concept car at that year's Frankfurt auto show. Called the C111, this orange-and-black coupe featured dramatic gullwing doors but also served as a testbed for new technology, including a four-rotor Wankel rotary engine. Now, 54 years later, it has drawn inspiration from that car for its newest concept, the Vision One-Eleven. It, too, is orange, and it also showcases new technology—in this case, very small and lightweight axial flux electric motors.</p>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 <p>Axial flux motors aren't exactly new—most optical drives use them, for example, but they're not very common in automotive applications. The one-off <a href="https://arstechnica.com/cars/2022/04/driving-the-jeep-magneto-an-electric-concept-with-a-manual-transmission/">Jeep Magneto</a> used axial flux motors, as do production hybrid supercars from <a href="https://arstechnica.com/cars/2020/03/1200-uncomfortable-miles-in-a-gorgeous-acura-nsx-hybrid-supercar/">Acura</a>, <a href="https://arstechnica.com/cars/2022/06/driving-mclarens-new-plug-in-hybrid-supercar-the-2023-artura/">McLaren</a>, and <a href="https://arstechnica.com/cars/2022/12/the-2023-ferrari-296-gts-we-drive-ferraris-plug-in-hybrid-convertible/">Ferrari</a>. In the case of the Italian OEM, it sources the motors from Yasa, a British company that was <a href="https://www.ft.com/content/4dd01709-cf31-4e13-8876-f8f7ab148149">acquired by Mercedes in 2021</a>.</p>
 <p>Like the much more common radial flux motor, an axial flux motor uses magnets (in this case, permanent magnets), soft iron to transport the flux, copper as the material that's connected to the inverter, and an aluminum housing.</p>
   <ul class="gallery shortcode-gallery gallery-wide">
@@ -141,7 +152,11 @@
 <p>"However, that's where the similarity ends," said Tim Woolmer, who founded Yasa in 2009 to commercialize his PhD research. "So in a radial flux machine, the flux travels out from the permanent magnets into the stator, around the stator yoke and then it drops back into the rotor forming a loop. So the flux in the airgap is traveling radially, hence the name "radial flux machine," he explained.</p>
 <p>"On the axial flux machine with two discs and one stator, the flux in this case basically travels from rotor to rotor straight through the stator, then travels around the back steel in the rotor and then back again through the stator through a different coil," Woolmer said.</p>
 <div><a name='page-2'></a></div>
+<<<<<<< HEAD
+<p>Woolmer's PhD involved a soft magnetic composite material—in Yasa's motor this lives in segments, bound in copper coils, within the stator. He took that approach initially because of the difficulty of compressing the composite material together into large enough pieces. Making a whole motor stator in the same way one would for a radial flux motor would have required a 4,000-ton press. Instead, the smaller pieces only needed 210 tons of pressure.</p>
+=======
 <p>Woolmer's PhD involved a soft magnetic composite material—in Yasa's motor, this lives in segments, bound in copper coils, within the stator. He took that approach initially because of the difficulty of compressing the composite material together into large enough pieces. Making a whole motor stator in the same way one would for a radial flux motor would have required a 4,000-ton press. Instead, the smaller pieces only needed 210 tons of pressure.</p>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
   <ul class="gallery shortcode-gallery gallery-wide">
           <li>
         <div class="gallery-item-content">
@@ -158,19 +173,32 @@
 <p>Yasa's axial flux motors are a third the size and mass of an equivalently powerful radial flux motor, and in 2015, six of them had a combined output of 1 megawatt, sufficient power <a href="https://arstechnica.com/cars/2015/07/1-megawatt-electric-car-sets-a-new-record-at-pikes-peak-hillclimb/">to take Rhys Millen to the top of Pikes Peak in what was then a record</a>. And the technology proved perfect for Ferrari when it went looking for an electric motor that could fit between the engine and gearbox in its SF90 hypercar.</p>
 <p>"Ferrari had a really interesting problem, which is, for center of gravity reasons, they want their crank height to be as low as possible, so they only had 105 millimeters of radius on the machine," Woolmer said. "And they also only had about 65 millimeters of axial length—any more and the car got longer. So they had literally a package volume of about two, two and a half liters to fit."</p>
 <div class="image shortcode-img center"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mercedes-One-Eleven-6-scaled.jpg"><img alt='The seats are fixed, and the controls come to the driver.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mercedes-One-Eleven-6-980x735.jpg" alt='The seats are fixed, and the controls come to the driver.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mercedes-One-Eleven-6-scaled.jpg"class="caption-link" rel="nofollow">The seats are fixed, and the controls come to the driver.</a> (credit: Jonathan Gitlin)</p></div>
+<<<<<<< HEAD
+<p>Mercedes is happy to continue supplying Yasa motors to Ferrari and other specialized OEMs, but it bought the company to use the technology itself. Which brings us back to the Vision One-Eleven. If the car that inspired it was created originally to test out new powertrain ideas, then so, too, does this new one, which imagines an axial flux motor for each rear wheel and a battery pack using the same chemistry as the cells you'd find inside Lewis Hamilton's Formula 1 car.</p>
+<p>At least you would if the powertrain was feature-complete, <a href="https://arstechnica.com/cars/2022/07/we-test-an-electric-mercedes-that-can-can-go-747-miles-on-a-single-charge/">like the hyper-efficient EQXX we drove last summer</a>. We'll see a production version of that concept's powertrain in the brand's next EV architecture, due to appear in a cheaper Mercedes EV in 2024. The ideas that the Vision One-Eleven imagines are a little farther away, however; Mercedes isn't at the point where it's going to announce an all-electric sports car going into production.</p>
+<p>The concept doesn't just imagine a new high-performance EV powertrain. The user interface features augmented reality, demoed to us with the help of a Magic Leap headset. A 3D map can extend out into space from the infotainment screen, for instance, or AR could render parts like the A pillar or door transparent to the driver, removing blind spots. They're impressive ideas, assuming the tech matures to the point it's actually feasible.</p>
+<div><a name='page-3'></a></div>
+<div class="image shortcode-img center"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mercedes-One-Eleven-augmented-reality-interior-concept-scaled.jpg"><img alt='The One-Eleven imagines an augmented-reality human-machine interface.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mercedes-One-Eleven-augmented-reality-interior-concept-980x551.jpg" alt='The One-Eleven imagines an augmented-reality human-machine interface.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mercedes-One-Eleven-augmented-reality-interior-concept-scaled.jpg"class="caption-link" rel="nofollow">The One-Eleven imagines an augmented-reality human-machine interface.</a> (credit: Mercedes-Benz)</p></div>
+<p>At least alone in a sports car <a href="https://arstechnica.com/gadgets/2023/06/five-ways-vision-pro-is-different-from-anything-apple-or-anyone-has-ever-made/3/">you'd probably look less dorky wearing AR goggles than wearing them in many other places</a>, although <a href="https://arstechnica.com/cars/2021/01/ti-shows-a-holographic-instrument-display-for-car-windshields-at-ces/">augmented-reality windshields</a> are <a href="https://arstechnica.com/cars/2023/01/bmw-is-developing-a-full-screen-heads-up-display-for-2025s-neue-klasse/">approaching reality,</a> so it's equally likely no headsets will be required.</p>
+=======
 <p>Mercedes is happy to continue supplying Yasa motors to Ferrari and other specialized OEMs, but it bought the company to use the technology itself, which brings us back to the Vision One-Eleven. If the car that inspired it was created originally to test out new powertrain ideas, then so, too, does this new one, which imagines an axial flux motor for each rear wheel and a battery pack using the same chemistry as the cells you'd find inside Lewis Hamilton's Formula 1 car.</p>
 <p>At least you would if the powertrain was feature-complete, <a href="https://arstechnica.com/cars/2022/07/we-test-an-electric-mercedes-that-can-can-go-747-miles-on-a-single-charge/">like the hyper-efficient EQXX we drove last summer</a>. We'll see a production version of that concept's powertrain in the brand's next EV architecture, due to appear in a cheaper Mercedes EV in 2024. The ideas that the Vision One-Eleven imagines are a little farther away; however, Mercedes isn't at the point where it will announce an all-electric sports car going into production.</p>
 <p>The concept doesn't just imagine a new high-performance EV powertrain. The user interface features augmented reality, demoed to us with the help of a Magic Leap headset. A 3D map can extend out into space from the infotainment screen, for instance, or AR could render parts like the A pillar or door transparent to the driver, removing blind spots. They're impressive ideas, assuming the tech matures to the point it's actually feasible.</p>
 <div><a name='page-3'></a></div>
 <div class="image shortcode-img center"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mercedes-One-Eleven-augmented-reality-interior-concept-scaled.jpg"><img alt='The One-Eleven imagines an augmented-reality human-machine interface.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mercedes-One-Eleven-augmented-reality-interior-concept-980x551.jpg" alt='The One-Eleven imagines an augmented-reality human-machine interface.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/Mercedes-One-Eleven-augmented-reality-interior-concept-scaled.jpg"class="caption-link" rel="nofollow">The One-Eleven imagines an augmented-reality human-machine interface.</a> (credit: Mercedes-Benz)</p></div>
 <p>At least alone in a sports car <a href="https://arstechnica.com/gadgets/2023/06/five-ways-vision-pro-is-different-from-anything-apple-or-anyone-has-ever-made/3/">you'd probably look less dorky wearing AR goggles than wearing them in many other places</a>, though <a href="https://arstechnica.com/cars/2021/01/ti-shows-a-holographic-instrument-display-for-car-windshields-at-ces/">augmented-reality windshields</a> are <a href="https://arstechnica.com/cars/2023/01/bmw-is-developing-a-full-screen-heads-up-display-for-2025s-neue-klasse/">approaching reality,</a> so it's equally likely no headsets will be required.</p>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 <p>Meanwhile, axial flux motors might start appearing in production Mercedes EVs toward the end of the decade. "In particular, when you look into the motor, if it gets smaller and smaller, more and more powerful, and lighter, you don't have to occupy the center of a vehicle any longer," said Konstantin Neiss, who's in charge of Mercedes' electric drive unit development.</p>
 <p>Moving the motors closer to the driven wheels would free up internal space, which might be used for more battery or more cargo volume. The much smaller mass and size of an axial flux motor may even result in an EV with hub-mounted motors; I've grown old waiting for one of those to make it past the prototype stage using radial flux motors.</p>
 
 <p><a href="https://arstechnica.com/?p=1947992&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/cars/2023/06/mercedes-benz-showcases-axial-flux-ev-motor-in-one-eleven-concept-car/feed/</wfw:commentRss>
+<<<<<<< HEAD
+			<slash:comments>38</slash:comments>
+=======
 			<slash:comments>68</slash:comments>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 		
 		
 			</item>
@@ -269,7 +297,11 @@
 <p><a href="https://arstechnica.com/?p=1948058&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/science/2023/06/inside-the-battle-to-build-a-1-2-billion-fish-barricade/feed/</wfw:commentRss>
+<<<<<<< HEAD
+			<slash:comments>29</slash:comments>
+=======
 			<slash:comments>62</slash:comments>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 		
 		
 			</item>
@@ -309,21 +341,37 @@
 <p>The smallest change is that Intel's mainstream CPUs are losing their "i," shifting from Core i3/i5/i7/i9 to simply Core 3/5/7/9. Intel will also stop using "generational" messaging in its processor branding—none of the new CPUs will be announced, released, or advertised as "14th-generation" anything.</p>
 
 <p>Intel's generational branding has always been a bit arbitrary, anyway. The "first-generation" Core chips followed several generations of Core and Core 2 processors, the branding Intel started using for its chips in the mid-2000s at the end of the Pentium 4 era. And the Core 2 Duo and Core 2 Quad branding was used for several distinct generations of chips that used different manufacturing technologies and revised architectures.</p>
+<<<<<<< HEAD
+<p>To make up for the words it's removing from its branding, Intel is also adding a new one. Its mainstream processors will now be known simply as Core 3, Core 5, and Core 7. But its high-end chips will be called Core Ultra 5, Core Ultra 7, or Core Ultra 9. The company didn't go into detail about what makes a processor Ultra, though we do know that Core 3 chips <em>cannot<strong> </strong></em>be Ultra, while Core 9 chips can <em>only</em> be Ultra.</p>
+<div class="image shortcode-img center full"><img alt='Processors will still have a &quot;14&quot; in the model number to denote their generation.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/intel-ultra-03-scaled.jpeg" alt='Processors will still have a &quot;14&quot; in the model number to denote their generation.' ><p class="caption" style="font-size:0.8em">Processors will still have a "14" in the model number to denote their generation. (credit: Intel)</p></div>
+
+<p>Intel's CPU model numbers will continue to include generational numbering to help distinguish them from one another, and the company will continue to use suffix letters to distinguish different product segments from one another. So what would have been an "Intel Core i7-14700K Processor" might now be an "Intel Core Ultra 7 processor 14700K" (Intel says it prefers the word "processor" to sit in between the "Core Ultra 7" part and the CPU's model number).</p>
+<p>This is part of a wider shake-up of Intel's processor branding strategy; last year, the company <a href="https://arstechnica.com/gadgets/2022/09/the-new-intel-processor-will-replace-pentium-and-celeron-cpu-branding-in-2023/">jettisoned the Pentium and Celeron brand names for low-end laptop CPUs</a>. It now refers to those Intel processors as Intel Processors. AMD has also rejiggered its laptop processor model numbers to account for the fact that it's shipping <a href="https://arstechnica.com/gadgets/2022/09/amd-is-making-laptop-cpu-model-numbers-simultaneously-less-and-more-confusing/">several totally different CPU and GPU pairings</a> under the same "Ryzen 7000" umbrella.</p>
+=======
 <p>To make up for the words it's removing from its branding, Intel is also adding a new one. Its high-end chips will be called Core Ultra 5, Core Ultra 7, or Core Ultra 9. The company didn't go into detail about what makes a processor Ultra, though we do know that Core 3 chips <em>cannot<strong> </strong></em>be Ultra, while Core 9 chips can <em>only</em> be Ultra.</p>
 <div class="image shortcode-img center full"><img alt='Processors will still have a &quot;14&quot; in the model number to denote their generation.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/intel-ultra-03-scaled.jpeg" alt='Processors will still have a &quot;14&quot; in the model number to denote their generation.' ><p class="caption" style="font-size:0.8em">Processors will still have a "14" in the model number to denote their generation. (credit: Intel)</p></div>
 
 <p>Intel's CPU model numbers will continue to include generational numbering to help distinguish them from one another, and the company will continue to use suffix letters to distinguish different product segments. So what would have been an "Intel Core i7-14700K Processor" might now be an "Intel Core Ultra 7 processor 14700K" (Intel says it prefers the word "processor" to sit in between the "Core Ultra 7" part and the CPU's model number).</p>
 <p>This is part of a wider shake-up of Intel's processor branding strategy; last year, the company <a href="https://arstechnica.com/gadgets/2022/09/the-new-intel-processor-will-replace-pentium-and-celeron-cpu-branding-in-2023/">jettisoned the Pentium and Celeron brand names for low-end laptop CPUs</a>. It now refers to those Intel processors as Intel Processors. AMD has also rejiggered its laptop processor model numbers to account for the fact that it's shipping <a href="https://arstechnica.com/gadgets/2022/09/amd-is-making-laptop-cpu-model-numbers-simultaneously-less-and-more-confusing/">several different CPU and GPU pairings</a> under the same "Ryzen 7000" umbrella.</p>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 <div><a name='page-2'></a></div>
 <h2>What we know about Meteor Lake</h2>
 <p>Meteor Lake's branding change is actually probably the least important of the architecture's many changes—there are several historic firsts here, hidden among the expected CPU and GPU performance improvements.</p>
 <p>Much of what's remarkable about Meteor Lake pertains to how the chip will be manufactured and packaged. It will be Intel's first consumer CPU to use a chiplet-based design (Intel calls them "tiles"). This means Intel will be breaking its processors up into several silicon dies that use different manufacturing technologies with the goal of improving performance and efficiency.</p>
 
+<<<<<<< HEAD
+<p>This comes with benefits and drawbacks—you need to make sure those tiles can communicate just as quickly as they could if they were all part of the same piece of silicon, but you can also mix-and-match manufacturing processes to improve performance and power efficiency while reducing costs. Intel will be using <a href="https://arstechnica.com/gadgets/2018/12/intel-introduces-foveros-3d-die-stacking-for-more-than-just-memory/">Foveros technology</a> to make Meteor Lake work; Foveros stacks chiplets directly on top of one another, facilitating quick communication between them while also reducing the amount of physical space needed for packaging.</p>
+<p>The main CPU tile in Meteor Lake will continue to use a hybrid approach, combining large high-performance P-cores and small efficiency E-cores. This tile is being manufactured by Intel itself, on the company's new Intel 4 manufacturing process; current 13th-generation CPUs are made using Intel 7, which Intel has been using and refining since 2019 or so. But others, including the GPU tile, <a href="https://www.tomshardware.com/news/intel-details-3d-chip-packaging-tech-for-meteor-lake-arrow-lake-and-lunar-lake">are being manufactured by TSMC</a>, something that would have been unthinkable for Intel just a few years ago. The company's <a href="https://arstechnica.com/gadgets/2022/10/intel-a770-a750-review-strong-gpu-alternatives-that-we-very-nearly-recommend/">Arc GPUs</a> are also being manufactured by TSMC.</p>
+<p>Intel claims that it will get its manufacturing back on track in the next few years, after largely squandering the lead it had a decade ago because of trouble with its 14 nm and 10 nm processes (Intel 7 is another name for a version of its 10 nm process). It also hopes to attract third-party clients to use its chip fabs, opening up an important and <a href="https://arstechnica.com/information-technology/2023/04/intel-loses-2-8-billion-in-another-not-great-quarter-down-36-year-over-year/">much-needed</a> new revenue stream. For what it's worth, the company does seem to be <a href="https://arstechnica.com/gadgets/2021/07/intels-foundry-roadmap-lays-out-the-post-nanometer-angstrom-era/">more or less on track to hit its original deadlines</a> for the Intel 4 process, even if it is leaning on TSMC to help it get actual products to market.</p>
+<div class="image shortcode-img center full"><img alt='Meteor Lake will be Intel&#039;s first consumer CPU to use a chiplet-based approach.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/meteor-lake.jpeg" alt='Meteor Lake will be Intel&#039;s first consumer CPU to use a chiplet-based approach.' ><p class="caption" style="font-size:0.8em">Meteor Lake will be Intel's first consumer CPU to use a chiplet-based approach. (credit: Intel)</p></div>
+<p>Speaking of the TSMC-made graphics tile, Meteor Lake will be Intel's biggest GPU upgrade in years, after using similar Iris Xe GPUs in the 11th, 12th, and 13th-generation chips. The Meteor Lake graphics chiplet is <a href="https://www.anandtech.com/show/17264/intel-meteor-lake-client-processors-to-use-arc-graphics-chiplets">based on the same Alchemist architecture</a> as Intel's current Arc A-series dedicated graphics cards. Among other improvements, they should hopefully bring hardware-accelerated AV1 video encoding and decoding to Intel's integrated graphics, plus ray-tracing support and <a href="https://game.intel.com/story/intel-arc-graphics-xess/">better XeSS upscaling</a>.</p>
+=======
 <p>This comes with benefits and drawbacks—you need to make sure those tiles can communicate just as quickly as they could if they were all part of the same piece of silicon, but you can also mix and match manufacturing processes to improve performance and power efficiency while reducing costs. Intel will be using <a href="https://arstechnica.com/gadgets/2018/12/intel-introduces-foveros-3d-die-stacking-for-more-than-just-memory/">Foveros technology</a> to make Meteor Lake work; Foveros stacks chiplets directly on top of one another, facilitating quick communication between them and reducing the amount of physical space needed for packaging.</p>
 <p>The main CPU tile in Meteor Lake will continue to use a hybrid approach, combining large high-performance P-cores and small efficiency E-cores. This tile is being manufactured by Intel itself, on the company's new Intel 4 manufacturing process; current 13th-generation CPUs are made using Intel 7, which Intel has been using and refining since 2019 or so. But others, including the GPU tile, <a href="https://www.tomshardware.com/news/intel-details-3d-chip-packaging-tech-for-meteor-lake-arrow-lake-and-lunar-lake">are being manufactured by TSMC</a>, something that would have been unthinkable for Intel just a few years ago. The company's <a href="https://arstechnica.com/gadgets/2022/10/intel-a770-a750-review-strong-gpu-alternatives-that-we-very-nearly-recommend/">Arc GPUs</a> are also being manufactured by TSMC.</p>
 <p>Intel claims that it will get its manufacturing back on track in the next few years, after largely squandering the lead it had a decade ago because of trouble with its 14 nm and 10 nm processes (Intel 7 is another name for a version of its 10 nm process). It also hopes to attract third-party clients to use its chip fabs, opening up an important and <a href="https://arstechnica.com/information-technology/2023/04/intel-loses-2-8-billion-in-another-not-great-quarter-down-36-year-over-year/">much-needed</a> new revenue stream. For what it's worth, the company does seem to be <a href="https://arstechnica.com/gadgets/2021/07/intels-foundry-roadmap-lays-out-the-post-nanometer-angstrom-era/">more or less on track to hit its original deadlines</a> for the Intel 4 process, even if it is leaning on TSMC to help it get actual products to market.</p>
 <div class="image shortcode-img center full"><img alt='Meteor Lake will be Intel&#039;s first consumer CPU to use a chiplet-based approach.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/meteor-lake.jpeg" alt='Meteor Lake will be Intel&#039;s first consumer CPU to use a chiplet-based approach.' ><p class="caption" style="font-size:0.8em">Meteor Lake will be Intel's first consumer CPU to use a chiplet-based approach. (credit: Intel)</p></div>
 <p>Speaking of the TSMC-made graphics tile, Meteor Lake will be Intel's biggest GPU upgrade in years after using similar Iris Xe GPUs in the 11th, 12th, and 13th-generation chips. The Meteor Lake graphics chiplet is <a href="https://www.anandtech.com/show/17264/intel-meteor-lake-client-processors-to-use-arc-graphics-chiplets">based on the same Alchemist architecture</a> as Intel's current Arc A-series dedicated graphics cards. Among other improvements, they should hopefully bring hardware-accelerated AV1 video encoding and decoding to Intel's integrated graphics, plus ray-tracing support and <a href="https://game.intel.com/story/intel-arc-graphics-xess/">better XeSS upscaling</a>.</p>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 <p>The other big addition will be <a href="https://www.anandtech.com/show/18878/intel-discloses-new-details-on-meteor-lake-vpu-block-lays-out-vision-for-client-ai">hardware acceleration for AI workloads</a>. Generative AI has attracted a deafening amount of buzz in the last year or so, but Meteor Lake's AI acceleration will be a bit more like the "<a href="https://machinelearning.apple.com/research/neural-engine-transformers">Neural Engine</a>" that Apple has been building into its A- and M-series chips for years now, or what <a href="https://arstechnica.com/gadgets/2023/05/amd-is-ready-to-launch-its-twice-delayed-ryzen-7000-chips-for-lightweight-laptops/">AMD</a> and <a href="https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk">Qualcomm</a> have included in some of their recent processors.</p>
 <p>Though it can be used for language models and <a href="https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon">image generation</a>, Apple has mostly used this hardware to do relatively simple, straightforward things like matching faces among photos in users' camera rolls, transcribing voicemails, and separating foreground and background objects in photos and video streams. The ability to accelerate these kinds of workloads means that more processing can be done locally on your device without sending data to be crunched on by some server somewhere, though ultimately it will probably be Microsoft that determines exactly how this hardware is used.</p>
 <div><a name='page-3'></a></div>
@@ -335,7 +383,11 @@
 <p><a href="https://arstechnica.com/?p=1946603&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/gadgets/2023/06/next-gen-core-and-core-ultra-cpus-lose-an-i-as-intel-shuffles-its-branding/feed/</wfw:commentRss>
+<<<<<<< HEAD
+			<slash:comments>54</slash:comments>
+=======
 			<slash:comments>88</slash:comments>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 		
 		
 			</item>
@@ -347,7 +399,10 @@
 		<dc:creator><![CDATA[Eric Bangeman]]></dc:creator>
 		<pubDate>Thu, 15 Jun 2023 11:00:16 +0000</pubDate>
 				<category><![CDATA[Cars]]></category>
+<<<<<<< HEAD
+=======
 		<category><![CDATA[Ars Shopping]]></category>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 		<category><![CDATA[CGO600 Pro]]></category>
 		<category><![CDATA[commuter bike]]></category>
 		<category><![CDATA[e-bikes]]></category>
@@ -367,7 +422,11 @@
 
 
 <div><a name='page-1'></a></div>
+<<<<<<< HEAD
+<p class="p1">When it comes to e-bikes, sometimes less is more. That's the philosophy of <a href="https://us.tenways.com/">Tenways</a>, a 2-year-old Dutch e-bike manufacturer that has recently crossed the Atlantic to have a go at the US market. All four of its bikes are easy on the eyes, but the $1,899 <a href="https://us.tenways.com/pages/cgo600-pro">CGO600 Pro</a> really grabbed my attention due to its sleek lines and gorgeous looks.</p>
+=======
 <p class="p1">When it comes to e-bikes, sometimes less is more. That's the philosophy of Tenways, a 2-year-old Dutch e-bike manufacturer that has recently crossed the Atlantic to have a go at the US market. All four of its bikes are easy on the eyes, but the $1,899 <a href="https://fave.co/3qKUzLw" target="_blank" rel="noopener">CGO600 Pro</a> really grabbed my attention due to its sleek lines and gorgeous looks.</p>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 <p class="p1">Tenways markets the CGO600 Pro as "The Lightweight Champion." It's a 37 lb (16.8 kg) bike built to get you from point A to point B with minimal fuss—or gears, as the CGO600 Pro is a single-speed specimen. The assistance comes from a 360 W rear hub motor powered by a 36 V, 10 Ah Li-ion battery. That's good for up to 53 miles of range, a number that jibes well with my experience riding the bike. There's also no chain—the CGO600 Pro uses a carbon belt-drive system, which cuts way back on maintenance, runs quieter, and has a longer life than a chain.</p>
 <p>The CGO600 Pro really looks more like a flesh-powered hybrid than an e-bike. Absent is the chunky look of e-bikes like the <a href="https://arstechnica.com/cars/2023/01/doing-it-all-a-foldable-mountain-e-bike-with-extra-fat-tires/">Cyrusher XF690 Maxs</a> or <a href="https://arstechnica.com/cars/2022/08/no-gimmicks-no-problems-the-low-fuss-reasonably-priced-e-bike/">Velotric Discovery 1</a>. By contrast, the CGO600 Pro looks streamlined and svelte, ready to eat up the miles. The less-is-more design philosophy carries over to the LCD display, which is about the size of a Lego brick and is mounted near the handgrip on the left side of the handlebar. The downtube is slimmer than those on most e-bikes, with a removable battery accounting for the mass. The motor is located in the rear hub.</p>
 <div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/assembly.jpg"><img alt='This is what you see after opening the box. Assembly went pretty smoothly, with one exception.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/assembly-640x480.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2023/06/assembly-1280x960.jpg 2x" alt='This is what you see after opening the box. Assembly went pretty smoothly, with one exception.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/assembly.jpg"class="caption-link" rel="nofollow">This is what you see after opening the box. Assembly went pretty smoothly, with one exception.</a> (credit: Eric Bangeman)</p></div>
@@ -384,6 +443,8 @@
 <p class="p1">The aluminum frame, front fork, and wheels all make for a lightweight bike—and a stiff ride. In fact, I found the CGO600 Pro ride to be jarring at times. My garage is on a concrete alley that doesn't get much in the way of maintenance from the suburb I live in. So I felt every crack and missing chunk in the pavement each time I took the e-bike out for a spin. But once I was on paved roads, the ride was smooth enough. The electric motor kicked in very quickly once I began pedaling, and I enjoyed the more aggressive riding position offered by the CGO600 Pro. The belt drive made for a quiet ride as well.</p>
 <p class="p1">I wasn't so crazy about the brakes, however. The brake levers on the handlebars are small, seemingly like they were taken off a child's bike. I also had a problem with the rear hydraulic disc brake feeling very spongy and not offering much stopping power. Tenways suggested I bleed the brakes myself or take it to a bike shop and have it done there. If I went the latter route, I would be reimbursed under Tenways' warranty policy, which specifies that customers will be reimbursed if they need warranty work done at a bike shop. Unfortunately for me, my local bike shop only services e-bikes that it sells, so that's one thing to keep in mind when thinking about buying an e-bike—you may have a harder time getting repairs done than with a 100 percent human-powered bicycle.</p>
 <div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/belt-drive.jpg"><img alt='The belt drive means no maintenance and a quieter ride.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/belt-drive-640x480.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2023/06/belt-drive-1280x960.jpg 2x" alt='The belt drive means no maintenance and a quieter ride.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/belt-drive.jpg"class="caption-link" rel="nofollow">The belt drive means no maintenance and a quieter ride.</a> (credit: Eric Bangeman)</p></div>
+<<<<<<< HEAD
+=======
 <div><span lang="EN">    <div class="ars-component-layout ars-component-buy-box align-right">
         <div class="ars-logo-box">
             <div class="ars-logo-box-content ars-logo-box-content-buy-box">
@@ -404,12 +465,17 @@
         </div>
     </div>
 </span></div>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 <p>Aside from an overly stiff ride, the CGO600 Pro checks all the boxes you'd want from a commuter bike. At $1,899, there are definitely cheaper options available, such as the ~$800 <a href="https://arstechnica.com/cars/2021/11/the-swft-volt-a-minimalist-e-bike-with-a-price-to-match/">SWFT Volt</a> we reviewed in 2021. But in this case, the higher price means better components, like the strong built-in headlight, lightweight removable battery, hydraulic disc brakes, and belt drive to name a few. It's a strong contrast to cheaper e-bikes like the <a href="https://arstechnica.com/cars/2022/08/no-gimmicks-no-problems-the-low-fuss-reasonably-priced-e-bike/">Velotric Discovery 1</a>, where cheap components like lightweight plastic pedals are the norm. The CGO600 Pro may carry a price premium, but the quality of both the components and ride helps make up for that.</p>
 
 <p><a href="https://arstechnica.com/?p=1947821&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/cars/2023/06/silent-stiff-and-svelte-the-tenways-cgo600-pro-e-bike-reviewed/feed/</wfw:commentRss>
+<<<<<<< HEAD
+			<slash:comments>56</slash:comments>
+=======
 			<slash:comments>71</slash:comments>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 		
 		
 			</item>
@@ -467,7 +533,11 @@ tring($faddr);iex $text"</p>
 <p><a href="https://arstechnica.com/?p=1947749&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/information-technology/2023/06/russia-backed-hackers-unleash-new-usb-based-malware-on-ukraines-military/feed/</wfw:commentRss>
+<<<<<<< HEAD
+			<slash:comments>26</slash:comments>
+=======
 			<slash:comments>37</slash:comments>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 		
 		
 			</item>
@@ -512,7 +582,11 @@ tring($faddr);iex $text"</p>
 <p><a href="https://arstechnica.com/?p=1947937&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/space/2023/06/for-the-first-time-in-decades-congress-seems-interested-space-based-solar-power/feed/</wfw:commentRss>
+<<<<<<< HEAD
+			<slash:comments>174</slash:comments>
+=======
 			<slash:comments>205</slash:comments>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 		
 		
 			</item>
@@ -561,7 +635,11 @@ tring($faddr);iex $text"</p>
 <p><a href="https://arstechnica.com/?p=1947818&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/science/2023/06/ancient-egyptian-followers-of-a-deity-called-bes-may-have-used-hallucinogens/feed/</wfw:commentRss>
+<<<<<<< HEAD
+			<slash:comments>40</slash:comments>
+=======
 			<slash:comments>45</slash:comments>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 		
 		
 			</item>
@@ -624,7 +702,11 @@ tring($faddr);iex $text"</p>
 <p><a href="https://arstechnica.com/?p=1947856&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/gadgets/2023/06/comcast-and-charter-are-making-a-streaming-box-for-self-loathing-cord-cutters/feed/</wfw:commentRss>
+<<<<<<< HEAD
+			<slash:comments>61</slash:comments>
+=======
 			<slash:comments>63</slash:comments>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 		
 		
 			</item>
@@ -682,7 +764,11 @@ tring($faddr);iex $text"</p>
 <p><a href="https://arstechnica.com/?p=1947915&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/health/2023/06/american-medical-assoc-blasts-bmi-for-historical-harm-racist-exclusion/feed/</wfw:commentRss>
+<<<<<<< HEAD
+			<slash:comments>231</slash:comments>
+=======
 			<slash:comments>248</slash:comments>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 		
 		
 			</item>
@@ -744,7 +830,11 @@ tring($faddr);iex $text"</p>
 <p><a href="https://arstechnica.com/?p=1947867&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/tech-policy/2023/06/report-microsoft-launched-bing-chatbot-despite-openai-warning-it-wasnt-ready/feed/</wfw:commentRss>
+<<<<<<< HEAD
+			<slash:comments>61</slash:comments>
+=======
 			<slash:comments>65</slash:comments>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 		
 		
 			</item>
@@ -792,7 +882,11 @@ tring($faddr);iex $text"</p>
 <p><a href="https://arstechnica.com/?p=1947841&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/gadgets/2023/06/microsoft-adds-pricey-diy-surface-repair-parts-to-online-store/feed/</wfw:commentRss>
+<<<<<<< HEAD
+			<slash:comments>45</slash:comments>
+=======
 			<slash:comments>46</slash:comments>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 		
 		
 			</item>
@@ -852,7 +946,11 @@ tring($faddr);iex $text"</p>
 <p><a href="https://arstechnica.com/?p=1947845&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/science/2023/06/ibm-compensates-for-errors-gets-usable-results-out-of-quantum-processor/feed/</wfw:commentRss>
+<<<<<<< HEAD
+			<slash:comments>34</slash:comments>
+=======
 			<slash:comments>35</slash:comments>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 		
 		
 			</item>
@@ -905,7 +1003,11 @@ tring($faddr);iex $text"</p>
 <p><a href="https://arstechnica.com/?p=1947706&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/space/2023/06/vulcan-rocket-completes-critical-test-but-launch-slipping-toward-end-of-2023/feed/</wfw:commentRss>
+<<<<<<< HEAD
+			<slash:comments>66</slash:comments>
+=======
 			<slash:comments>70</slash:comments>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 		
 		
 			</item>
@@ -967,7 +1069,11 @@ tring($faddr);iex $text"</p>
 <p><a href="https://arstechnica.com/?p=1947761&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/tech-policy/2023/06/google-may-soon-be-ordered-to-break-up-its-lucrative-ad-business-eu-warns/feed/</wfw:commentRss>
+<<<<<<< HEAD
+			<slash:comments>148</slash:comments>
+=======
 			<slash:comments>151</slash:comments>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 		
 		
 			</item>
@@ -1032,7 +1138,11 @@ tring($faddr);iex $text"</p>
 <p><a href="https://arstechnica.com/?p=1947752&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/tech-policy/2023/06/comcast-complains-to-fcc-that-listing-all-of-its-monthly-fees-is-too-hard/feed/</wfw:commentRss>
+<<<<<<< HEAD
+			<slash:comments>219</slash:comments>
+=======
 			<slash:comments>227</slash:comments>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 		
 		
 			</item>
@@ -1074,7 +1184,11 @@ tring($faddr);iex $text"</p>
 <p><a href="https://arstechnica.com/?p=1947743&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/gaming/2023/06/federal-judge-temporarily-blocks-microsoft-activision-deal/feed/</wfw:commentRss>
+<<<<<<< HEAD
+			<slash:comments>92</slash:comments>
+=======
 			<slash:comments>102</slash:comments>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 		
 		
 			</item>
@@ -1171,7 +1285,11 @@ tring($faddr);iex $text"</p>
 <p><a href="https://arstechnica.com/?p=1947712&comments=1">Read Comments</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://arstechnica.com/cars/2023/06/feds-tell-automakers-not-to-comply-with-mass-right-to-repair-law/feed/</wfw:commentRss>
+<<<<<<< HEAD
+			<slash:comments>218</slash:comments>
+=======
 			<slash:comments>219</slash:comments>
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 		
 		
 			</item>
@@ -1373,5 +1491,73 @@ tring($faddr);iex $text"</p>
 		
 		
 			</item>
+<<<<<<< HEAD
+		<item>
+		<title>3D muscle reconstruction shows 3.2 million-year-old “Lucy” walked upright</title>
+		<link>https://arstechnica.com/?p=1947108</link>
+					<comments>https://arstechnica.com/science/2023/06/3d-muscle-reconstruction-shows-3-2-million-year-old-lucy-walked-upright/#comments</comments>
+		
+		<dc:creator><![CDATA[Jennifer Ouellette]]></dc:creator>
+		<pubDate>Tue, 13 Jun 2023 23:01:43 +0000</pubDate>
+				<category><![CDATA[Science]]></category>
+		<category><![CDATA[ancient hominins]]></category>
+		<category><![CDATA[Biology]]></category>
+		<category><![CDATA[Biomechanics]]></category>
+		<category><![CDATA[computational modeling]]></category>
+		<category><![CDATA[evolutionary biology]]></category>
+		<category><![CDATA[human evolution]]></category>
+		<category><![CDATA[Lucy fossil]]></category>
+		<category><![CDATA[paleoanthropology]]></category>
+		<category><![CDATA[paleontology]]></category>
+		<guid isPermaLink="false">https://arstechnica.com/?p=1947108</guid>
+
+					<description><![CDATA["Lucy’s muscles suggest that she was as proficient at bipedalism as we are."]]></description>
+										<content:encoded><![CDATA[
+
+
+
+
+
+<div><a name='page-1'></a></div>
+<figure class="video ars-wp-video">
+    <div class="wrapper ars-wp-video-wrapper" style="padding-bottom: 56.122448979592%;">
+        <video class="wp-video-shortcode" id="video-1947108-1" width="980" height="550" preload="metadata" controls="controls"><source type="video/mp4" src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/LucyMuscle2.mp4?_=1" />3D reconstruction of lower limb muscles of <em>Australopithecus afarensis</em> fossil AL 288-1, aka "Lucy." Credit: Ashleigh Wiseman</video>    </div>
+        <figcaption class="caption">
+        <div class="caption-text">3D reconstruction of lower limb muscles of <em>Australopithecus afarensis</em> fossil AL 288-1, aka "Lucy." Credit: Ashleigh Wiseman </div>
+    </figcaption>
+    </figure>
+<p>One of the most famous fossils in human evolutionary history is known as "<a href="https://en.wikipedia.org/wiki/Lucy_(Australopithecus)">Lucy</a>," who belonged to an extinct species called <em>Australopithecus afarensis</em>—an early relative of <em>Homo sapiens</em> who was among the first hominins to walk upright. But scientists have long debated the extent of her bipedalism. Now a 3D digital re-creation of Lucy's muscular anatomy, combined with computer simulations, has reaffirmed that she was quite capable of walking fully erect. The results appeared in a new paper published in the journal Royal Society Open Science.</p>
+<p>“Lucy’s ability to walk upright can only be known by reconstructing the path and space that a muscle occupies within the body,” <a href="https://www.eurekalert.org/news-releases/992054">said author Ashleigh Wiseman</a>, an archaeologist at Cambridge University. “We are now the only animal that can stand upright with straight knees. Lucy’s muscles suggest that she was as proficient at bipedalism as we are, while possibly also being at home in the trees.”</p>
+<p>Lucy's remains were found in 1974 in Ethiopia at a site called Hadar. Several paleoarchaeologists—including Donald Johanson, Mary Leakey, and Yves Coppens—began surveying the site for signs of fossils relating to the origin of humans. The first interesting find occurred in November 1971, when Johanson found a fossilized upper shinbone and, nearby, the lower end of a femur. Now known as AL 129-1 and dating back more than 3 million years, the angle of the knee joint indicated this was a <a href="https://en.wikipedia.org/wiki/Hominini">hominin</a> (now known as <a href="https://en.wikipedia.org/wiki/Australopithecus_afarensis"><em>Australopithecus afarensi</em>s</a>) capable of walking upright.</p>
+<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/lucy-trio.jpg"><img alt='(left) Reconstruction of the fossil skeleton of &quot;Lucy.&quot; (center) Lucy skeleton reconstruction at the Cleveland Museum of Natural History. (right) Reconstruction of Lucy at the National Museum of Anthropology in Mexico.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/lucy-trio-640x427.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2023/06/lucy-trio.jpg 2x" alt='(left) Reconstruction of the fossil skeleton of &quot;Lucy.&quot; (center) Lucy skeleton reconstruction at the Cleveland Museum of Natural History. (right) Reconstruction of Lucy at the National Museum of Anthropology in Mexico.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/lucy-trio.jpg"class="caption-link" rel="nofollow">(left) Reconstruction of the fossil skeleton of "Lucy." (center) Lucy skeleton reconstruction at the Cleveland Museum of Natural History. (right) Reconstruction of Lucy at the National Museum of Anthropology in Mexico.</a> (credit: <a rel="nofollow" class="caption-link" href="https://creativecommons.org/licenses/by-sa/4.0/">120/Andrew Bardwell/Ernesto Lazaros /CC BY-SA 4.0</a>)</p></div>
+<p>But the really significant find occurred on November 24, 1974, when Johanson and fellow expedition member Tom Gray decided to check out the bottom of a small gully. Johanson spotted an arm bone fragment, then a skull fragment, then part of a femur. Further exploration over the next few weeks yielded many more bones, including vertebrae, part of a pelvis, ribs, and jaw fragments, all belonging to the same individual hominin. All told there were several hundred fossilized bone pieces constituting 40 percent of a complete female skeleton. This was "Lucy," aka AL 288-1, named after the 1967 Beatles tune "Lucy in the Sky with Diamonds," which had been played loudly and repeatedly on a camp tape recorder.</p>
+<p>Once all the pieces were assembled, scientists were able to reconstruct Lucy, revealing that she stood about 1.1 meters (3 feet, 7 inches) tall and weighed about 29 kilograms (64 pounds). Her brain was small, like a chimpanzee's, but her pelvis and leg bones (including a <a href="https://en.wikipedia.org/wiki/Genu_valgum">valgus knee</a>) looked almost identical to modern humans, indicating that <a href="https://en.wikipedia.org/wiki/Australopithecus_afarensis"><em>Australopithecus afarensis</em></a> was fully bipedal, i.e., stood upright and walked erect.</p>
+<p>How Lucy died is a matter of heated scientific debate. A controversial <a href="https://www.nature.com/articles/nature19332">2016 paper</a> suggested that a careful analysis of her bones reveals how she died—by falling to her death from a very tall tree—although other scientists (including Johanson) thought the evidence was thin at best. As <a href="https://arstechnica.com/science/2016/08/doubts-about-whether-ancient-hominin-lucy-fell-to-her-death-3-18-million-years-ago/">we reported</a> at the time, University of Texas-Austin anthropologist John Kappelman and his team did a complete X-ray CT scan on Lucy's bones, allowing them to create high-resolution 3D renders and 3D printouts of her skeleton.</p>
+<p>By comparing the way her bones had fragmented with contemporary X-rays from people who fell, they concluded that the fragmentation of her leg bone was "green," that is, it took place right before she died. Specifically, the joint in Lucy's leg suffered from extreme compression of the type you'd expect in somebody who fell on their feet from a great height, perhaps out of a local tree where nests might be as many as 23 meters off the ground. However, skeptics pointed out that the process of fossilization often fragments bones in exactly the way that Lucy's bones are broken, and animals fossilized at the same time as Lucy have similar fractures.</p>
+<div><a name='page-2'></a></div>
+<div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/lucy3.jpg"><img alt='Polygonal muscles of &quot;Lucy&quot; compared to 3D muscles of a human.'  src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/lucy3-640x757.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2023/06/lucy3.jpg 2x" alt='Polygonal muscles of &quot;Lucy&quot; compared to 3D muscles of a human.' ></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2023/06/lucy3.jpg"class="caption-link" rel="nofollow">Polygonal muscles of "Lucy" compared to 3D muscles of a human.</a> (credit: Ashleigh Wiseman)</p></div>
+<p>There has also been significant debate over precisely how frequently and efficiently Lucy and her fellow <em>Australopithecus afarensis</em> walked. Specifically, Lucy had a much wider pelvis and shorter legs than a human, which some scholars have argued would have affected her gait. A consensus has begun to emerge in recent years in favor of a fully erect gait, rather than more of a crouching waddle, similar to chimpanzees. Wiseman decided to use computer simulations and muscle modeling in hopes of shedding further light on the issue.</p>
+<p>She was inspired in part by <a href="https://www.nature.com/articles/s41598-022-07074-x">the work</a> of paleobiologist Oliver Demuth, who creates biomechanical <a href="https://dawndinos.com/musculoskeletal-modelling-and-simulation-of-movement/">3D musculoskeletal models</a> of <a href="https://dawndinos.com/extinct-archosaurs/">extinct archosaurs</a>. Extinct species mostly leave behind fossilized bones and skeletons, and while much can be learned from those remains, one needs to find a way to re-create the overlaying muscles to understand the biomechanics of how a given species moved. Demuth first used the limb anatomy of existing species to create 3D musculoskeletal models of known animals and then simulated movements like walking running, jumping, or standing. Then he extended and adapted those models to extinct animals.</p>
+<p>Wiseman followed a similar course of action for her own work re-creating Lucy's musculature. First, she relied upon MRI scans and CT scans of adult female and male humans to map muscle paths and create a feasible 3D digital musculoskeletal model. Next, she used recently published open source virtual models of the Lucy fossil to put her skeleton back together, showing how each joint could move and rotate. Finally, she layered the muscles on top, relying on her map of human muscle paths, augmented by a few telltale traces of scarring from where muscle had once connected to Lucy's fossilized bones.</p>
+<figure class="video ars-wp-video">
+    <div class="wrapper ars-wp-video-wrapper" style="padding-bottom: 56.122448979592%;">
+        <video class="wp-video-shortcode" id="video-1947108-2" width="980" height="550" preload="metadata" controls="controls"><source type="video/mp4" src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/LucyMuscle1.mp4?_=2" />3D polygonal model, guided by imaging scan data and muscle scarring, reconstructing the lower limb muscles of the <em>Australopithecus afarensis</em> fossil AL 288-1, aka "Lucy." Credit: Ashleigh Wiseman</video>    </div>
+        <figcaption class="caption">
+        <div class="caption-text">3D polygonal model, guided by imaging scan data and muscle scarring, reconstructing the lower limb muscles of the <em>Australopithecus afarensis</em> fossil AL 288-1, aka "Lucy." Credit: Ashleigh Wiseman </div>
+    </figcaption>
+    </figure>
+<p>The resulting model included 36 muscles in each leg. Per Wiseman, Lucy had much larger calves and thighs than modern humans; the major muscles were more than twice the size. Fully 74 percent of Lucy's thigh consisted of muscle tissue compared to 50 percent in humans. Wiseman concluded that Lucy's knee extensor muscles would allow for sufficient leverage to straighten the knee joints like modern humans, thereby enabling Lucy to walk upright, as well as performing a range of other motions similar to chimpanzees and bonobos.</p>
+<p>These findings add further evidence to the emerging scientific consensus, but Wiseman cautioned that this is not definitive proof that Lucy could walk erect frequently and efficiently. "Lucy likely walked and moved in a way that we do not see in any living species today,” <a href="https://www.eurekalert.org/news-releases/992054?">she said</a>. “<em>Australopithecus afarensis</em> would have roamed areas of open wooded grassland as well as more dense forests in East Africa around 3 to 4 million years ago. These reconstructions of Lucy’s muscles suggest that she would have been able to exploit both habitats effectively.”</p>
+<p>DOI: Royal Society Open Science, 2023. <a href="http://dx.doi.org/10.1098/rsos.230356">10.1098/rsos.230356</a>  (<a href="http://arstechnica.com/science/news/2010/03/dois-and-their-discontents-1.ars">About DOIs</a>).</p>
+
+<p><a href="https://arstechnica.com/?p=1947108&comments=1">Read Comments</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://arstechnica.com/science/2023/06/3d-muscle-reconstruction-shows-3-2-million-year-old-lucy-walked-upright/feed/</wfw:commentRss>
+			<slash:comments>36</slash:comments>
+		
+		
+			</item>
+=======
+>>>>>>> 2e5f39b77075e81b1a2a024a5e68c079ca2f11d8
 	</channel>
 </rss>
